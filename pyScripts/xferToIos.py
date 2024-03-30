@@ -75,6 +75,23 @@ def xfer(info):
             with open(srcFolder + info["prefix"] + folder + "_" + file, "w") as f:
                 f.write(js)
 
+    singleFileStr = ""
+    with open(os.getcwd() + "/app/lm_main.html", "r") as f:
+        mainHtml = f.read().splitlines()
+    for line in mainHtml:
+        if "<script " not in line and "<link rel=\"stylesheet\"" not in line:
+            continue
+        if "src=" in line:
+            start = line.index("src=") + 5
+            end = line.index(".js") + 3
+            scriptSrc = line[start:end]
+            with open(os.getcwd() + "/app/" + scriptSrc, "r") as f:
+                js = f.read()
+            singleFileStr += js + "\n\n"
+
+    with open(os.getcwd() + "/app/lm_single_file.js", "w") as f:
+        f.write(singleFileStr)
+
 subFolders = [
     "lessonMaker",
 ]
