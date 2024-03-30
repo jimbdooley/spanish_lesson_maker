@@ -1,0 +1,196 @@
+{
+  "por": [
+    [
+      "for",
+      "Lo hice por ti. - I did it for you."
+    ],
+    [
+      "by",
+      "Escrito por Juan. - Written by Juan."
+    ],
+    [
+      "through",
+      "Entra por la puerta principal. - Enter through the main door."
+    ]
+  ],
+  "ve": [
+    [
+      "go, (command form of ir)",
+      "vete a la cama - go to bed"
+    ],
+    [
+      "he/she/it sees, (third-person singular present of ver)",
+      "el lo ve - he sees it"
+    ],
+    [
+      "you see (formal - usted form of ver)",
+      "¿Lo ve, señor? - Do you see it, sir?"
+    ],
+    [
+      "name of the letter 'v'"
+    ]
+  ],
+  "buen": [
+    [
+      "good",
+      "Buen día. - Good day.",
+      "Buen trabajo. - Good job."
+    ]
+  ],
+  "a": [
+    [
+      "to",
+      "¿Puedes ir a la tienda? - Can you go to the store?",
+      "Voy a la escuela. - I'm going to school."
+    ],
+    [
+      "at",
+      "Let's go at 8 (o'clock). - Vamos a las 8."
+    ]
+  ],
+  "eso": [
+    [
+      "that",
+      "Eso es un perro. - That is a dog.",
+      "Eso es lo que quiero. - That is what I want."
+    ]
+  ],
+  "nos": [
+    [
+      "us",
+      "Nos vemos mañana. - We'll see each other tomorrow.",
+      "Nosotros nos amamos. - We love each other."
+    ]
+  ],
+  "su": [
+    [
+      "his, her, its, one's, their",
+      "Su casa es grande. - His house is big.",
+      "Su madre es muy simpática. - Her mother is very nice."
+    ],
+    [
+      "your (formal)",
+      "¿Cómo está su familia? - How is your family?",
+      "¿Dónde está su coche? - Where is your car?"
+    ]
+  ],
+  "un": [
+    [
+      "a, an",
+      "¡Mira al cielo, hay un águila! - Look at the sky, there's an eagle!",
+      "¡Manos arriba, tengo un arma! - Hands up, I have a gun!"
+    ]
+  ],
+  "uno": [
+    [
+      "one",
+      "Uno más uno es igual a dos. - One plus one equals two.",
+      "Uno de los dos tiene que ceder. - One of the two has to give in."
+    ]
+  ],
+  "una": [
+    [
+      "a, an",
+      "Una manzana al día mantiene al médico en lejanía. - An apple a day keeps the doctor away."
+    ],
+    [
+      "one",
+      "Sólo hay una ruta - There is only one route."
+    ]
+  ],
+  "cómo": [
+      [
+        "how?"
+      ],
+      [
+        "sorry? what? (expressing surprise or asking to repeat)"
+      ]
+    ],
+  "la": [
+      [
+          "the"
+      ],
+      [
+          "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
+      ],
+      [
+          "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
+          "La sabe toda.  ― He/she knows everything (it all)",
+          "¡Dónde la viste!  ― Where have you seen this!",
+          "No te la creo.  ― I don't believe you."
+      ],
+      [
+          "(music) la (sixth note of the scale)"
+      ]
+  ],
+  "unos": [
+      [
+          "some, a few"
+      ]
+  ],
+  "unas": [
+      [
+          "some, a few"
+      ]
+  ],
+  "hab": [
+    [
+      "short for habitación (room, bedroom)"
+    ]
+  ],
+  "pq": [
+    [
+      "(short for porque) because"]
+  ],
+  "aser": [
+    ["(misspelling of hacer) to do, to make"]
+  ],
+  "boi": [
+    ["(misspelling of voy) I'm going, I go"]
+  ],
+  "vdd": [
+    ["(short for verdad) truth, truly"]
+  ],
+  "sr": [
+    ["(short for señor) sir, Mr."]
+  ],
+  "sii": [
+    ["(elongated sí) yes"]
+  ],
+  "siii": [
+    ["(extended sí) yes"]
+  ],
+  "siiii": [
+    ["(extended sí) yes"]
+  ],
+  "sra": [
+    ["(short for señora) ma'am, Mrs."]
+  ],
+  "sres": [
+    ["(short for señores) gentlemen, Mr."]
+  ],
+  "srita": [
+    ["(short for señorita) miss, Ms."]
+  ],
+  "uds": [
+    ["(short for ustedes) you (plural)"]
+  ],
+  "q": [
+    ["(short for que) that, what"]
+  ],
+  "vd": [
+    ["(short for usted) you (formal)"]
+  ],
+  "x": [
+    ["(short for por) for, by"]
+  ],
+  "ud": [
+    ["(short for usted) you (formal)"]
+  ],
+  "insólito": [
+    [
+      "unusual, weird, strange",
+      "Pero para hacer aún más insólito el paseo entre tanques radioactivos blindados con plomo y cilindros de alta tecnología... ― But, to make the trip even more unusual, enter radioactive tanks lined with lead and high technology cylinders..."
+    ]
+  ]
+}
