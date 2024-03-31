@@ -28,6 +28,11 @@ function getWikiDef(defInfoObj) {
         }
         const shortDef = A.wiki[defInfoObj.word][firstKey][0][0]
         defInfoObj.shortDef = removeWikiNewline(shortDef)
+        if (shortDef.length > 0 && shortDef[0] == "(" && shortDef.indexOf(")") != -1) {
+            if (shortDef.indexOf(")") + 4 < shortDef.length) {
+                defInfoObj.shortDef = defInfoObj.shortDef.substring(shortDef.indexOf(")") + 2)
+            }
+        }
     }
     if (defInfoObj.longDef == null) {
         const longDef = []

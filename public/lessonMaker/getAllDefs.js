@@ -3,12 +3,12 @@ function getAllDefs(lesson) {
     for (let i = 0; i < lesson.sentenceInfoList.length; i++) {
         for (const wordInfo of lesson.sentenceInfoList[i].wordInfoList) {
             if (lesson.defInfo.hasOwnProperty(wordInfo.word)) continue
-            //try {
+            try {
                 getChangedWordDef(lesson, wordInfo.word, i, wordInfo.word, false)
-            //} catch (e) {
-            //    console.log("error for word: " + wordInfo.word)
-            //    console.log("error in getAllDefs: " + e)
-            //}
+            } catch (e) {
+                console.log("error for word: " + wordInfo.word)
+                console.log("error in getAllDefs: " + e)
+            }
         }
     }
 
