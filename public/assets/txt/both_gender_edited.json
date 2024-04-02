@@ -1,0 +1,111 @@
+{
+    "parte": "fl",
+    "mano": [
+		["fl", "hand"],
+		["bb", "buddy"]
+	],
+    "polic\u00eda": [
+		["fl", "group, force"],
+		["me", "person, profession"]
+	],
+    "ayuda": "fl",
+    "orden": [
+		["me", "organized"],
+		["fl", "request, institution"]
+	],
+    "frente": [
+		["fl", "forehead"],
+		["me", "location"]
+	],
+    "c\u00e1mara": [
+		["fl", "camera, chamber"],
+		["bb", "cameraman/camerawoman"]
+	],
+    "guardia": [
+		["bb", "guard, police"],
+		["fl", "an activity"]
+	],
+    "radio": [
+		["fl", "medium (e.g. \"on the radio\""],
+		["me", "device, radius"]
+	],
+    "defensa": "fl",
+    "corte": [
+		["me", "wound, incision, haircut, piece of meat"],
+		["fl", "court (legal)"]
+	],
+    "capital": [
+		["fl", "city"],
+		["me", "capital"]
+	],
+    "disco": [
+		["me", "music, computer, discus"],
+		["fl", "club, discotheque"]
+	],
+    "pez": "me",
+    "cura": [
+		["me", "priest"],
+		["fl", "cure"]
+	],
+    "gu\u00eda": [
+		["bb", "professional"],
+		["fl", "list, map"],
+		["me", "steering wheel, handlebar"]
+	],
+    "naranja": [
+		["fl", "fruit"],
+		["me", "color"]
+	],
+    "poli": [
+		["fl", "group, force"],
+		["me", "person, profession"]
+	],
+    "manga": [
+		["fl", "sleeve, tube"],
+		["me", "Japanese comics"]
+	],
+    "cometa": [
+		["me", "comet"],
+		["fl", "kite"]
+	],
+    "vocal": [
+		["fl": "vowel"],
+		["bb": "committee member, chairperson"]
+	],
+    "sinverg\u00fcenza": "bb",
+    "delta": [
+		["fl", "Greek letter"],
+		["me", "geography"]
+	],
+    "c\u00f3lera": [
+		["fl", "anger"],
+		["me", "disease"]
+	],
+    "trompeta": [
+		["fl", "instrument"],
+		["me", "musician"]
+	],
+    "recluta": "bb",
+    "hincha": [
+		["bb", "sport fan, annoying person"],
+		["fl", "grudge, dislike"]
+	],
+    "granuja": [
+		["me", "rascal, crook"],
+		["fl", "grape"]
+	],
+    "lama": [
+		["fl", "slime, moss"],
+		["me", "priest, monk"]
+	],
+    "cascabel": [
+		["fl", "rattlesnake"],
+		["me", "rattle, bell"]
+	],
+    "remera": "fl",
+    "mole": [
+		["fl", "hunk, pile"],
+		["me", "sauce"]
+	],
+    "armaz\u00f3n": "bb"
+}

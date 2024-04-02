@@ -8,19 +8,22 @@
 <style>
 </style>
 <body>
-    <div id="menuDiv">
-        <button onclick="testBtn()">Click me</button>
-        <p id="testP">nothing yet</p>
-        <br>
-        <input type="text" id="testInput" oninput="testInput()">
-        <br>
-        <button onclick="loadLesson(testLesson)">Click me</button>
+<button id="swapButton">Swap</button>
+<br>
+<br>
+<div id="inputDiv">
+    <textarea style="width:100%;height:400px;" id="inputText"></textarea>
+    <br>
+    <br>
+    <button id="submitButton">Submit</button>
+</div>
+<div id="lessonDiv" style="display:none;">
+    <button id="showLessonButton">Show Lesson</button>
+    <div id="showLessonDiv">
+        
     </div>
-    <div id="lessonDiv">
-        <div id="paragraphsDiv">
-            
-        </div>
-    </div>
+</div>
 </body>
+<script src="lm_API.js"></script>
 <script src="lm_main.js"></script>
 </html> 

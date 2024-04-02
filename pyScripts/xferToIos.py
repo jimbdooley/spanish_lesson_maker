@@ -62,7 +62,7 @@ def xfer(info):
         with open(os.getcwd() + "/public/" + js, "r", encoding="utf8") as f:
             fullStr += f.read() + "\n\n"
 
-    with open(os.getcwd() + "/app/lm_main.js", "w", encoding="utf8") as f:
+    with open(os.getcwd() + "/app/lm_API.js", "w", encoding="utf8") as f:
         f.write(fullStr)
 
 lessonMakerInfo = {
