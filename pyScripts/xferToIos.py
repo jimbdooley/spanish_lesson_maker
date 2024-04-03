@@ -11,7 +11,8 @@ def makeAssets(info):
         "type_frequency_info.json": "freqInfo",
         "my_type_frequency_info.json": "myFreqInfo",
         "common_participle_defs.json": "commonParticiplesArr",
-
+        "auto_gender_edited2.json": "autoGender",
+        "both_gender_edited.json": "myGender",
     }
     commStr = "const assets = {}\n"
     assetsLoc = os.getcwd() + "/public/assets/"

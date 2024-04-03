@@ -6,6 +6,8 @@ const A = {
     typeFrequency: null,
     subwordsToIgnore: null,
 
+    myGender: null,
+    autoGender: null,
     myShortDefs: null,
     myLongDefs: null,
     wiki: null,
@@ -93,10 +95,13 @@ function prepareConjugations(_fileStr) {
             lines[i+2], 
             lines[i+3]
         ]
-        if (!(lines[i+2] in A.reverseConjugations)) A.reverseConjugations[lines[i+2]] = []
-        if (!(lines[i+3] in A.reverseConjugations)) A.reverseConjugations[lines[i+3]] = []
-        A.reverseConjugations[lines[i+2]].push("6", inf)
-        A.reverseConjugations[lines[i+3]].push("7", inf)
+        for (j = 0; j < 2; j++) {
+            const possParts = lines[i+2+j].split(",")
+            for (const part of possParts) {
+                if (!(part in A.reverseConjugations)) A.reverseConjugations[part] = []
+                A.reverseConjugations[part].push((j + 6) + "", inf)
+            }
+        }
         for (let j = 0; j < 9; j++) {
             let moodI = 0
             let tenseI = j

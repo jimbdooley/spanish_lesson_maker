@@ -1,14 +1,79 @@
 {
-    "parte": "fl",
+    "parte": [
+		["fl", "part, place"],
+		["me", "report"]
+	],
     "mano": [
 		["fl", "hand"],
 		["bb", "buddy"]
 	],
+	"alza": "fb",
+	"canciller": "bb",
+	"representante": "bb",
+	"tiro": [
+		["me", "shot, throw"]
+	],
+	"nostalgia": "fl",
+	"delicadeza": "fl",
+	"cartelera": "fl",
+	"vanidad": "fl",
+	"bonaerense": "bb",
+	"estadounidense": "bb",
+	"canadiense": "bb",
+	"s\u00faper": [
+		["me", "supermarket"]
+	],
+	"tenia": [
+		["fl", "tapeworm"]
+	],
+	"boa": "fl",
+	"dentista": "bb",
+	"taxista": "bb",
+	"especialista": "bb",
+	"autoestima": "fb",
+	"saludo": "me",
+	"bebe": "bb",
+	"beb\u00e9": "bb",
     "polic\u00eda": [
 		["fl", "group, force"],
 		["me", "person, profession"]
 	],
+	"cana": [
+		["fl", "gray hair"],
+		["me", "police"]
+	],
+	"psiquiatra": "bb",
+	"agente": "bb",
+	"vicepresidente": "bb",
+	"rata": [
+		["fl", "animal"],
+		["bb", "cheapskate"]
+	],
+	"eco": [
+		["me", "echo"]
+	],
+	"uva": "fl",
+	"empuje": "me",
+	"invento": "me",
+	"ayudante": "bb",
+	"paciente": "bb",
+	"pato": "bb",
     "ayuda": "fl",
+	"adolescente": "bb",
+	"décimo": "bb",
+	"peluca": [
+		["fl", "wig"],
+		["me", "guy with lots of hair"]
+	],
+	"saco": [
+		["me", "sack, bag, jacket"]
+	],
+	"sobre": [
+		["me", "sack, envelope"]
+	],
+	"referente": [
+		["me", "reference, benchmark"]
+	],
     "orden": [
 		["me", "organized"],
 		["fl", "request, institution"]
@@ -17,10 +82,101 @@
 		["fl", "forehead"],
 		["me", "location"]
 	],
+
+	"premier": "bb",
+	"terraza": "fl",
+	"costura": "fl",
+	"virgen": "bb",
+	"boina": "fl",
+	"ma\u00f1ana": [
+		["fl", "morning"],
+		["me", "tomorrow"]
+	],
+	"artista": "bb",
+	"editorial": [
+		["fl", "publisher"],
+		["me", "article"]
+	],
+	"chupe": [
+		["me", "stew, booze"]
+	],
+	"transcripci\u00f3n": "fl",
+	"represi\u00f3n": "fl",
+	"radiaci\u00f3n": "fl",
+	"extinci\u00f3n": "fl",
+	"erosi\u00f3n": "fl",
+	"marat\u00f3n": "bb",
+	"escalaf\u00f3n": "me",
+	"par\u00e1lisis": "fl",
+	"friki": "bb",
+	"patente": [
+		["fl", "patent (legal)"]
+	],
+	"\u00e9xtasis": "me",
+	"reclutamiento": "me",
+	"ordenanza": [
+		["fl", "law, ordinance"],
+		["bb", "worker, orderly"]
+	],
+	"canalla": "bb",
+	"ka":"",
+	"puma": "me",
+	"cora": "",
+	"duna": "fl",
+	"despliegue": "me",
+	"lava": "fl",
+	"automovilista": "be",
+	"desnivel": "me",
+	"envase": "me",
+	"esperma": "bb",
+	"pe": "",
+	"haz": "",
+	"tanga": [
+		["fl", "currency"],
+		["bb", "clothing"]
+	],
+	"masajista": "bb",
     "c\u00e1mara": [
 		["fl", "camera, chamber"],
 		["bb", "cameraman/camerawoman"]
 	],
+	"enga\u00f1o": "me",
+	"asistente": "bb",
+	"amo": [
+		["me", "master, owner, boss"]
+	
+	],
+	"riego": "me",
+	"pulga": [
+		["fl", "flea"]
+	],
+	"ciclista": "bb",
+	"faena": [
+		["fl", "task, job"]
+	],
+	"guerrero": [
+		["me", "male warrior"]
+	],
+	"desarme": "me",
+	"suplente": "bb",
+	"diagonal": "fl",
+	"trago": [
+		["me", "swallow, drink"]
+	],
+	"pediatra": "bb",
+	"activista": "bb",
+	"mando": [
+		["me", "command, authority"]
+	],
+	"terapeuta": "bb",
+	"pipa": [
+		["fl", "seed, pipe"]
+	],
+	"recepcionista": "bb",
+	"pantera": [
+		["fl", "panther, risk-taker"]
+	],
+	"denunciante": "bb",
     "guardia": [
 		["bb", "guard, police"],
 		["fl", "an activity"]
@@ -29,7 +185,73 @@
 		["fl", "medium (e.g. \"on the radio\""],
 		["me", "device, radius"]
 	],
+	"pela": [
+		["fl", "peeling, beating"]
+	],
+	"rescate": "me",
+	"postre": "me",
     "defensa": "fl",
+	"portavoz": "bb",
+	"abrazo": "me",
+	"cabo": [
+		["me", "end, cape (geography)"]
+	],
+	"canto": "me",
+	"titular": [
+		["bb", "holder, owner"],
+		["me", "headline"]
+	],
+	"daga": "fl",
+	"guarda": "bb",
+	"sart\u00e9n": "bb",
+	"lente": "bb",
+	"parto": [
+		["me", "birth"]
+	],
+	"int\u00e9rprete": "bb",
+	"amante": "bb",
+	"aspirante": "bb",
+	"ron": [
+		["me", "rum"]
+	],
+	"conserje": "fl",
+	"gracia": "",
+	"lanza": [
+		["fl", "lance, spear"],
+		["me", "cheat"],
+		["bb", "buddy"]
+	],
+	"barca": [
+		["fl", "barca"]
+	],
+	"mayo": [
+		["fl","condiment"],
+		["me","month"]
+	],
+	"ida": [
+		["fl", "departure"]
+	],
+	"terrorista": "bb",
+	"mar": "bb",
+	"periodista": "bb",
+	"final": [
+		["me", "last part"],
+		["fl", "sports"]
+	],
+	"corneta": [
+		["fl", "instrument"],
+		["me", "musician"]
+	],
+	"modista": "bb",
+	"espiral": "fb",
+	"libido": "fl",
+	"coto": [
+		["me", "reserve (land)"]
+	],
+	"concejal": "bb",
+	"pinche": [
+		["me", "kitchen assistant"]
+	],
     "corte": [
 		["me", "wound, incision, haircut, piece of meat"],
 		["fl", "court (legal)"]
@@ -38,11 +260,20 @@
 		["fl", "city"],
 		["me", "capital"]
 	],
+	"uso": [
+		["me", "use, usage, wear"]
+	],
     "disco": [
 		["me", "music, computer, discus"],
 		["fl", "club, discotheque"]
 	],
+	"estudiante": "bb",
     "pez": "me",
+	"par": [
+		["me", "pair"],
+		["fl", "on par"]
+	],
+	"l\u00edder": "bb",
     "cura": [
 		["me", "priest"],
 		["fl", "cure"]
@@ -60,18 +291,34 @@
 		["fl", "group, force"],
 		["me", "person, profession"]
 	],
+	"regalo": "me",
+	"traje": "me",
+	"micro": [
+		["fl", "microphone"],
+		["me", "microbus"]
+	],
     "manga": [
-		["fl", "sleeve, tube"],
-		["me", "Japanese comics"]
+		["me", "microphone, electronic device"],
+		["mb", "bus"]
 	],
     "cometa": [
 		["me", "comet"],
 		["fl", "kite"]
 	],
-    "vocal": [
-		["fl": "vowel"],
-		["bb": "committee member, chairperson"]
+	"roca": [
+		["fl", "rock"]
+	
 	],
+	"caza": [
+		["me", "fighter plane"],
+		["fl", "hunt"]
+	],
+    "vocal": [
+		["fl", "vowel"],
+		["bb", "committee member, chairperson"]
+	],
+	"testigo": "bb",
+	"encuentro": "me",
     "sinverg\u00fcenza": "bb",
     "delta": [
 		["fl", "Greek letter"],
@@ -81,11 +328,18 @@
 		["fl", "anger"],
 		["me", "disease"]
 	],
+	"docente": "bb",
     "trompeta": [
 		["fl", "instrument"],
 		["me", "musician"]
 	],
+	"recuerdo": [
+		["me", "memory"]
+	],
+	"dirigente": "bb",
     "recluta": "bb",
+	"cantante": "bb",
+	"protagonista": "bb",
     "hincha": [
 		["bb", "sport fan, annoying person"],
 		["fl", "grudge, dislike"]
@@ -94,6 +348,7 @@
 		["me", "rascal, crook"],
 		["fl", "grape"]
 	],
+	"paso": "me",
     "lama": [
 		["fl", "slime, moss"],
 		["me", "priest, monk"]
