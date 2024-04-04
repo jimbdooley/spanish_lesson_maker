@@ -13,6 +13,8 @@
 	"tiro": [
 		["me", "shot, throw"]
 	],
+	"laborista": "bb",
+	"novelista": "bb",
 	"nostalgia": "fl",
 	"delicadeza": "fl",
 	"cartelera": "fl",
@@ -27,7 +29,22 @@
 		["fl", "tapeworm"]
 	],
 	"boa": "fl",
+	"prestamista": "bb",
+	"contrabandista": "bb",
+	"coleccionista": "bb",
+	"pianista": "bb",
+	"electricista": "bb",
+	"paracaidista": "bb",
+	"maquinista": "bb",
+	"motociclista": "bb",
+	"accionista": "bb",
+	"jurista": "bb",
+	"futbolista": "bb",
+	"inversionista": "bb",
+	"publicista": "bb",
 	"dentista": "bb",
+	"economista": "bb",
+	"alquimista": "bb",
 	"taxista": "bb",
 	"especialista": "bb",
 	"autoestima": "fb",
@@ -221,6 +238,7 @@
 		["me", "cheat"],
 		["bb", "buddy"]
 	],
+	"guitarrista": "bb",
 	"barca": [
 		["fl", "barca"]
 	],
@@ -228,6 +246,8 @@
 		["fl","condiment"],
 		["me","month"]
 	],
+	"analista": "bb",
+	"turista": "bb",
 	"ida": [
 		["fl", "departure"]
 	],
@@ -317,6 +337,7 @@
 		["fl", "vowel"],
 		["bb", "committee member, chairperson"]
 	],
+	"comentarista": "bb",
 	"testigo": "bb",
 	"encuentro": "me",
     "sinverg\u00fcenza": "bb",
