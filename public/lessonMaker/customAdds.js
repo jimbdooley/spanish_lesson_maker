@@ -36,6 +36,8 @@ function customAdd(lesson, word, group) {
         return _customAddWords(lesson, word, group, ["decir", "se", "lo"])
     if (word == "dime" || word == "díme") 
         return _customAddWords(lesson, word, group, ["decir", "me"])
+    if (word == "son")
+        return _customAddWords(lesson, word, group, ["ser"])
 
     return false
 }

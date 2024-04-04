@@ -37,8 +37,13 @@ function deappendage(s) {
             if (s.substring(s.length - appendage.length) != appendage) continue
             const newForm = s.substring(0, s.length - appendage.length)
             const app = s.substring(s.length - appendage.length)
+            const pp = s.length > 4  && ("ados" == s.substring(s.length - 4) 
+                                        || "idos" == s.substring(s.length - 4))
+            let appList = prevApp == null 
+                ? (pp && app == "os" ? [] : [app]) 
+                : (pp && app == "os" ? [prevApp] : [app, prevApp])
             arr.push(newForm)
-            apps.push(prevApp == null ? [app] : [app, prevApp])
+            apps.push(appList)
             let deAccented = ""
             for (let i = 0; i < newForm.length; i++) {
                 const accentI = ACCENTED.indexOf(newForm[i])
@@ -46,7 +51,7 @@ function deappendage(s) {
             }
             if (deAccented != newForm) {
                 arr.push(deAccented)
-                apps.push(prevApp == null ? [app] : [app, prevApp])
+                apps.push(appList)
             }
             _deappendage(newForm, arr, apps, depth + 1, app)
         }

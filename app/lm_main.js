@@ -59,7 +59,7 @@ document.getElementById("showLessonButton").addEventListener("click", function()
             if (wordInfo.word in wordToDef) {
                 for (const definedWord of wordToDef[wordInfo.word]) {
                     const p2 = document.createElement("p");
-                    p2.innerHTML = definedWord;
+                    p2.innerHTML = "<u>" + definedWord + "</u>: " + HS.lesson.defInfo[definedWord].shortDef;
                     p2.fontSize = "15px";
                     lessonDiv.appendChild(p2);
                 }
