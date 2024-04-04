@@ -27,17 +27,15 @@ function customAdd(lesson, word, group) {
         for (const toDefine of toDefineList) {
             _customAddWord(lesson, cause, group, toDefine)
         }
-    }
-
-    if (word == "dimelo" || word == "dímelo") {
-        _customAddWords(lesson, word, group, ["decir", "me", "lo"])
         return true
     }
 
-    if (word == "dime" || word == "díme") {
-        _customAddWords(lesson, word, group, ["decir", "me"])
-        return true
-    }
+    if (word == "dimelo" || word == "dímelo") 
+        return _customAddWords(lesson, word, group, ["decir", "me", "lo"])
+    if (word == "diselo" || word == "díselo") 
+        return _customAddWords(lesson, word, group, ["decir", "se", "lo"])
+    if (word == "dime" || word == "díme") 
+        return _customAddWords(lesson, word, group, ["decir", "me"])
 
     return false
 }
