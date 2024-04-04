@@ -38,6 +38,8 @@ function customAdd(lesson, word, group) {
         return _customAddWords(lesson, word, group, ["decir", "me"])
     if (word == "son")
         return _customAddWords(lesson, word, group, ["ser"])
+    if (word == "lista" || word == "listas")
+        return _customAddWords(lesson, word, group, ["lista", "listo"])
 
     return false
 }

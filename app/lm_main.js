@@ -15,6 +15,21 @@ const HS = {
     lesson: null,
 }
 
+function downloadJSON(filename) {
+    if (HS.lesson === null) return
+    const obj = HS.lesson;
+    const json = JSON.stringify(obj, null, 4);
+    const blob = new Blob([json], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename + '.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
+
 document.getElementById("submitButton").addEventListener("click", function() {
     const ta = document.getElementById("inputText");
     HS.lesson = API_makeLesson(ta.value);
