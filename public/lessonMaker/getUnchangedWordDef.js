@@ -13,7 +13,6 @@ const addWikiKeyToLongDef = (() => {
     const done = {}
     return function(longDef, defInfoObj, key) {
         const wikiDefArr = A.wiki[defInfoObj.word][key]
-        console.log(wikiDefArr)
         for (let i = 0; i < Math.min(2, wikiDefArr.length); i++) {
             longDef.push(wikiDefArr[i])
             if (done.hasOwnProperty(defInfoObj.word)) continue
