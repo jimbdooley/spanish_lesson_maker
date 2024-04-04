@@ -12,14 +12,15 @@ function removeWikiNewline(s) {
 const addWikiKeyToLongDef = (() => {
     const done = {}
     return function(longDef, defInfoObj, key) {
-        if (done.hasOwnProperty(defInfoObj.word)) return
-        done[defInfoObj.word] = true
         const wikiDefArr = A.wiki[defInfoObj.word][key]
+        console.log(wikiDefArr)
         for (let i = 0; i < Math.min(2, wikiDefArr.length); i++) {
             longDef.push(wikiDefArr[i])
+            if (done.hasOwnProperty(defInfoObj.word)) continue
             longDef[longDef.length - 1][0] = removeWikiNewline(longDef[longDef.length - 1][0])
             longDef[longDef.length - 1][0] = `(${key}) ` + longDef[longDef.length - 1][0]
         }
+        done[defInfoObj.word] = [key, wikiDefArr[0][0]]
     }
 })();
 
