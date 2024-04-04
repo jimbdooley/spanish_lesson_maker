@@ -39,7 +39,7 @@ const getWikiDef = (() => {
                 wikiShortDefs[defInfoObj.word] = removeWikiNewline(shortDef)
                 if (shortDef.length > 0 && shortDef[0] == "(" && shortDef.indexOf(")") != -1) {
                     if (shortDef.indexOf(")") + 4 < shortDef.length) {
-                        wikiShortDefs[defInfoObj.word] = defInfoObj.shortDef.substring(shortDef.indexOf(")") + 2)
+                        wikiShortDefs[defInfoObj.word] = wikiShortDefs[defInfoObj.word].substring(shortDef.indexOf(")") + 2)
                     }
                 }
             }
