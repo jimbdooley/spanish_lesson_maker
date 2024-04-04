@@ -30,24 +30,30 @@ function malify(s) {
 }
 
 function deappendage(s) {
-    function _deappendage(s, arr, depth) {
+    function _deappendage(s, arr, apps, depth, prevApp) {
         if (depth == 2) return
         if (s.length < 4) return
         for (const appendage of APPENDABLE) {
             if (s.substring(s.length - appendage.length) != appendage) continue
             const newForm = s.substring(0, s.length - appendage.length)
+            const app = s.substring(s.length - appendage.length)
             arr.push(newForm)
+            apps.push(prevApp == null ? [app] : [app, prevApp])
             let deAccented = ""
             for (let i = 0; i < newForm.length; i++) {
                 const accentI = ACCENTED.indexOf(newForm[i])
                 deAccented += accentI == -1 ? newForm[i] : DE_ACCENTED[accentI]
             }
-            if (deAccented != newForm) arr.push(deAccented)
-            _deappendage(newForm, arr, depth + 1)
+            if (deAccented != newForm) {
+                arr.push(deAccented)
+                apps.push(prevApp == null ? [app] : [app, prevApp])
+            }
+            _deappendage(newForm, arr, apps, depth + 1, app)
         }
     }
 
     const rtn = []
-    _deappendage(s, rtn, 0)
-    return rtn
+    const apps = []
+    _deappendage(s, rtn, apps, 0, null)
+    return [rtn, apps]
 }

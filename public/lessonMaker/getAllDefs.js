@@ -3,6 +3,10 @@ function getAllDefs(lesson) {
     for (let i = 0; i < lesson.sentenceInfoList.length; i++) {
         for (const wordInfo of lesson.sentenceInfoList[i].wordInfoList) {
             if (lesson.defInfo.hasOwnProperty(wordInfo.word)) continue
+
+            let customAdded = customAdd(lesson, wordInfo.word, i)
+            if (customAdded) continue
+
             try {
                 getChangedWordDef(lesson, wordInfo.word, i, wordInfo.word, false)
             } catch (e) {

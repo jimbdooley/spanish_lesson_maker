@@ -3,10 +3,10 @@ function getChangedWordDef(lesson, word, group, cause) {
     if (!lesson.defInfo.hasOwnProperty(word)) {
         lesson.defInfo[word] = {
             word: word,
+            shortDef: null,
             group: group,
             causes: [cause],
             longDef: null,
-            shortDef: null,
         }
     } else {
         lesson.defInfo[word].group = Math.min(lesson.defInfo[word].group, group)
@@ -54,9 +54,17 @@ function getChangedWordDef(lesson, word, group, cause) {
     if (hasFullDef) return
     if (word.length > 3 && word.substring(word.length - 3) == "mos") return
 
-    const toCheck = deappendage(word)
+    const toCheck_apps = deappendage(word)
+    const toCheck = toCheck_apps[0]
+    const apps = toCheck_apps[1]
     for (let i = 0; i < toCheck.length; i++) {
         if (-1 != A.subwordsToIgnore.indexOf(toCheck[i])) continue
-        verbCheckOnly(lesson, toCheck[i], cause)
+        const added = verbCheckOnly(lesson, toCheck[i], cause)
+        console.log("form added", toCheck[i], added)
+        if (added) {
+            for (let j = 0; j < apps[i].length; j++) {
+                newFormAdder(lesson, word, apps[i][j])
+            }
+        }
     }
 }

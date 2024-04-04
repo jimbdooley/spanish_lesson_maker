@@ -13,10 +13,10 @@ function newFormAdder(lesson, word, newForm) {
     } else {
         const potentialDefInfo = {
             word: newForm,
+            shortDef: null,
             group: lesson.defInfo[word].group,
             causes: [word],
             longDef: null,
-            shortDef: null,
         }
         getUnchangedWordDef(potentialDefInfo)
         if (potentialDefInfo.longDef != null
