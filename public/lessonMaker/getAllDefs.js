@@ -6,6 +6,7 @@ function getAllDefs(lesson) {
                 if (-1 == lesson.defInfo[wordInfo.word].causes.indexOf(wordInfo.word)) {
                     lesson.defInfo[wordInfo.word].causes.push(wordInfo.word)
                 }
+                continue
             }
 
             let customAdded = customAdd(lesson, wordInfo.word, i)
