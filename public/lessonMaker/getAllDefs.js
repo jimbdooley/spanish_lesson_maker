@@ -2,7 +2,11 @@
 function getAllDefs(lesson) {
     for (let i = 0; i < lesson.sentenceInfoList.length; i++) {
         for (const wordInfo of lesson.sentenceInfoList[i].wordInfoList) {
-            if (lesson.defInfo.hasOwnProperty(wordInfo.word)) continue
+            if (lesson.defInfo.hasOwnProperty(wordInfo.word)) {
+                if (-1 == lesson.defInfo[wordInfo.word].causes.indexOf(wordInfo.word)) {
+                    lesson.defInfo[wordInfo.word].causes.push(wordInfo.word)
+                }
+            }
 
             let customAdded = customAdd(lesson, wordInfo.word, i)
             if (customAdded) continue
