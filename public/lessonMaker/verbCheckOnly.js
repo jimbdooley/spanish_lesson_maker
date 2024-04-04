@@ -1,4 +1,5 @@
 
+
 function conjugatedCheckOnly(lesson, _newForm, word, allowBlind) {
     let rtn = false;
     let newForm = _newForm
@@ -13,6 +14,21 @@ function conjugatedCheckOnly(lesson, _newForm, word, allowBlind) {
         if (last4 == "adas" || last4 == "idas" || last4 == "idos" || last4 == "ados") {
             newForm = newForm.substring(0, newForm.length - 2) + "o"
         }
+    }
+    if (newForm.length >= 2) {
+        const last2 = newForm.substring(newForm.length - 2)
+        if (last2 == "os" || last2 == "as") {
+            const potentiralIrregularPP = newForm.substring(0, newForm.length - 2) + "o"
+            if (-1 != A.irregularPastParticiples.indexOf(potentiralIrregularPP)) {
+                newForm = potentiralIrregularPP
+            }
+        }
+        if (newForm[newForm.length - 1] == "a") {
+            const potentiralIrregularPP = newForm.substring(0, newForm.length - 1) + "o"
+            if (-1 != A.irregularPastParticiples.indexOf(potentiralIrregularPP)) {
+                newForm = potentiralIrregularPP
+            }
+        } 
     }
     if (A.reverseConjugations.hasOwnProperty(newForm)) {
         const knownInfinitives = A.reverseConjugations[newForm]

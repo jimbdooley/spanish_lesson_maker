@@ -2,6 +2,7 @@
 const A = {
     conjugations: {},
     reverseConjugations: {},
+    irregularPastParticiples: [],
     maybeNotVerbs: [],
     typeFrequency: null,
     subwordsToIgnore: null,
@@ -20,8 +21,16 @@ const A = {
     commonParticiplesDict: {},
 }
 
-function prepareShortDefs() {
-
+function prepareIrregularPastParticiples() {
+    for (const inf in A.conjugations) {
+        const pps = A.conjugations[inf][4].split(",")
+        for (const pp of pps) {
+            last3 = pp.substring(pp.length - 3)
+    
+            if (last3 == "ido" || last3 == "ado") continue
+            A.irregularPastParticiples.push(pp)
+        }
+    }
 }
 
 function prepareTypeFrequency() {
@@ -155,5 +164,8 @@ function prepareAssets() {
     for (const word in A.myGender) A.genderInfo[word] = A.myGender[word]
 
     init_nonBreakingPrefixes(assets["txt/esSplitterInfo.txt"])
+
+    prepareIrregularPastParticiples() 
+
     console.log("assets prepped: " + (performance.now() - start))
 }
