@@ -8,14 +8,20 @@ function removeWikiNewline(s) {
     return rtn
 }
 
-function addWikiKeyToLongDef(longDef, defInfoObj, key) {
-    const wikiDefArr = A.wiki[defInfoObj.word][key]
-    for (let i = 0; i < Math.min(2, wikiDefArr.length); i++) {
-        longDef.push(wikiDefArr[i])
-        longDef[longDef.length - 1][0] = removeWikiNewline(longDef[longDef.length - 1][0])
-        longDef[longDef.length - 1][0] = `(${key}) ` + longDef[longDef.length - 1][0]
+
+const addWikiKeyToLongDef = (() => {
+    const done = {}
+    return function(longDef, defInfoObj, key) {
+        if (done.hasOwnProperty(defInfoObj.word)) return
+        done[defInfoObj.word] = true
+        const wikiDefArr = A.wiki[defInfoObj.word][key]
+        for (let i = 0; i < Math.min(2, wikiDefArr.length); i++) {
+            longDef.push(wikiDefArr[i])
+            longDef[longDef.length - 1][0] = removeWikiNewline(longDef[longDef.length - 1][0])
+            longDef[longDef.length - 1][0] = `(${key}) ` + longDef[longDef.length - 1][0]
+        }
     }
-}
+})();
 
 function getWikiDef(defInfoObj) {
     const freqInfo = A.typeFrequency.hasOwnProperty(defInfoObj.word)

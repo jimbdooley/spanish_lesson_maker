@@ -18,7 +18,7 @@ const HS = {
 function downloadJSON(filename) {
     if (HS.lesson === null) return
     const obj = HS.lesson;
-    const json = JSON.stringify(obj, null, 4);
+    const json = JSON.stringify(obj, null, 1);
     const blob = new Blob([json], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
@@ -58,6 +58,7 @@ document.getElementById("showLessonButton").addEventListener("click", function()
     while (lessonDiv.firstChild) {
         lessonDiv.removeChild(lessonDiv.firstChild);
     }
+    const shown = {}
     for (const sentInfo of HS.lesson.sentenceInfoList) {
         for (const wordInfo of sentInfo.wordInfoList) {
             const startStop = wordInfo.loc
@@ -70,7 +71,7 @@ document.getElementById("showLessonButton").addEventListener("click", function()
             p.innerHTML = toShow;
             p.fontSize = "20px";
             lessonDiv.appendChild(p);
-
+            
             if (wordInfo.word in wordToDef) {
                 for (const definedWord of wordToDef[wordInfo.word]) {
                     const p2 = document.createElement("p");
@@ -78,6 +79,7 @@ document.getElementById("showLessonButton").addEventListener("click", function()
                     p2.fontSize = "15px";
                     lessonDiv.appendChild(p2);
                 }
+                
             }
         }
     }
