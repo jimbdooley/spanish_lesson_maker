@@ -36,7 +36,6 @@ const getWikiDef = (() => {
             }
             if (!wikiShortDefs.hasOwnProperty(defInfoObj.word)) {
                 const shortDef = A.wiki[defInfoObj.word][firstKey][0][0]
-                console.log("short def from wiki", shortDef)
                 wikiShortDefs[defInfoObj.word] = removeWikiNewline(shortDef)
                 if (shortDef.length > 0 && shortDef[0] == "(" && shortDef.indexOf(")") != -1) {
                     if (shortDef.indexOf(")") + 4 < shortDef.length) {
