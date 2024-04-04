@@ -5,6 +5,7 @@ function makeLesson(textStr, title) {
         sentenceInfoList: [],
         defInfo: {},
         title: title,
+        genders: {},
     }
 
     const sentences_paragraphs = paragraphSplit(textStr)
@@ -19,6 +20,8 @@ function makeLesson(textStr, title) {
     }
 
     getAllDefs(lesson)
+
+    getAllGenders(lesson)
 
     return lesson
 }

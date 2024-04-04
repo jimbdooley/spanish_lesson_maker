@@ -8,6 +8,7 @@ const A = {
 
     myGender: null,
     autoGender: null,
+    genderInfo: {},
     myShortDefs: null,
     myLongDefs: null,
     wiki: null,
@@ -113,16 +114,20 @@ function prepareConjugations(_fileStr) {
                 tenseI = j - 7
             }
             for (let pnI = 0; pnI < 6; pnI++) {
-                let verb = lines[i + 4 + j * 6 + pnI]
-                A.conjugations[inf][moodI][tenseI].push(verb)
-                if (verb == "-") continue
-                while (verb.indexOf(" ") != -1) {
-                    verb = verb.substring(1 + verb.indexOf(" "), verb.length)
+                const verbs = lines[i + 4 + j * 6 + pnI]
+                A.conjugations[inf][moodI][tenseI].push(verbs)
+                const possVerbs = lines[i + 4 + j * 6 + pnI].split(",")
+                for (const _verb of possVerbs) {
+                    let verb = _verb
+                    if (verb == "-") continue
+                    while (verb.indexOf(" ") != -1) {
+                        verb = verb.substring(1 + verb.indexOf(" "), verb.length)
+                    }
+                    if (!(verb in A.reverseConjugations)) {
+                        A.reverseConjugations[verb] = []
+                    }
+                    A.reverseConjugations[verb].push(`${moodI}${tenseI}${pnI}`, inf)
                 }
-                if (!(verb in A.reverseConjugations)) {
-                    A.reverseConjugations[verb] = []
-                }
-                A.reverseConjugations[verb].push(`${moodI}${tenseI}${pnI}`, inf)
             }
         }
     }
@@ -145,6 +150,9 @@ function prepareAssets() {
 
     prepareMaybeNotVerbs(assets["txt/maybeNotVerbs.txt"])
     prepareConjugations(assets["txt/verb_conjs.txt"])
+
+    for (const word in A.autoGender) A.genderInfo[word] = A.autoGender[word]
+    for (const word in A.myGender) A.genderInfo[word] = A.myGender[word]
 
     init_nonBreakingPrefixes(assets["txt/esSplitterInfo.txt"])
     console.log("assets prepped: " + (performance.now() - start))

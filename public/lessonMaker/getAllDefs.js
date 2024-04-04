@@ -12,13 +12,15 @@ function getAllDefs(lesson) {
         }
     }
 
-
     const toDelete = []
     for (const word in lesson.defInfo) {
+        // remove words that have no definitions
         if (lesson.defInfo[word].shortDef == null
             && lesson.defInfo[word].longDef == null) {
             toDelete.push(word)
         }
+        // take the first definition from longDef and put it in shortDef
+        // delete if bad longDef
         if (lesson.defInfo[word].shortDef == null
             && lesson.defInfo[word].longDef != null) {
             const longDef = lesson.defInfo[word].longDef
@@ -37,6 +39,7 @@ function getAllDefs(lesson) {
         delete lesson.defInfo[word]
     }
 
+    // remove longDefs that are the same as the short definition
     for (const word in lesson.defInfo) {
         if (lesson.defInfo[word].longDef == null) continue
         if (lesson.defInfo[word].longDef.length > 1) continue

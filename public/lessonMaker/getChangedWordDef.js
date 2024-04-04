@@ -1,5 +1,5 @@
 
-function getChangedWordDef(lesson, word, group, cause, recursed=false) {
+function getChangedWordDef(lesson, word, group, cause) {
     if (!lesson.defInfo.hasOwnProperty(word)) {
         lesson.defInfo[word] = {
             word: word,
@@ -41,22 +41,7 @@ function getChangedWordDef(lesson, word, group, cause, recursed=false) {
         return
     }
 
-    if (A.reverseConjugations.hasOwnProperty(word)) {
-        const knownInfinitives = A.reverseConjugations[word]
-        for (let i = 0; i < knownInfinitives.length; i += 2) {
-            newFormAdder(lesson, word, knownInfinitives[i + 1])
-        }
-    } else {
-        if (lesson.defInfo[word].shortDef == null && !hasFullDef) {
-            const toCheck = deconjugateBlind(word)
-            const checked = []
-            for (let i = 0 ; i < toCheck.length; i += 2) {
-                if (-1 != checked.indexOf(toCheck[i])) continue 
-                newFormAdder(lesson, word, toCheck[i])
-                checked.push(toCheck[i])
-            }
-        }
-    }
+    conjugatedCheckOnly(lesson, word, word, !hasFullDef)
 
     if (lesson.defInfo[word].shortDef == null && !hasFullDef) {
         const toTry = removeSuffixes(word)
@@ -66,12 +51,12 @@ function getChangedWordDef(lesson, word, group, cause, recursed=false) {
         }
     }
     
-    if (recursed || hasFullDef) return
+    if (hasFullDef) return
     if (word.length > 3 && word.substring(word.length - 3) == "mos") return
 
     const toCheck = deappendage(word)
     for (let i = 0; i < toCheck.length; i++) {
         if (-1 != A.subwordsToIgnore.indexOf(toCheck[i])) continue
-        getChangedWordDef(lesson, toCheck[i], group, cause, true)
+        verbCheckOnly(lesson, toCheck[i], cause)
     }
 }
