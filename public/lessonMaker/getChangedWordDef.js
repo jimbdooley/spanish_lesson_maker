@@ -4,12 +4,12 @@ function getChangedWordDef(lesson, word, group, cause) {
         lesson.defInfo[word] = {
             word: word,
             shortDef: null,
-            group: group,
+            g: group,
             causes: [cause],
             longDef: null,
         }
     } else {
-        lesson.defInfo[word].group = Math.min(lesson.defInfo[word].group, group)
+        lesson.defInfo[word].g = Math.min(lesson.defInfo[word].g, group)
         if (-1 == lesson.defInfo[word].causes.indexOf(cause)) {
             lesson.defInfo[word].causes.push(cause)
         }

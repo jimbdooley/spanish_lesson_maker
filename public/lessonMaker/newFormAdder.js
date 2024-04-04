@@ -1,9 +1,9 @@
 
 function newFormAdder(lesson, word, newForm) {
     if (lesson.defInfo.hasOwnProperty(newForm)) {
-        lesson.defInfo[newForm].group = Math.min(
-            lesson.defInfo[newForm].group, 
-            lesson.defInfo[word].group
+        lesson.defInfo[newForm].g = Math.min(
+            lesson.defInfo[newForm].g, 
+            lesson.defInfo[word].g
         )
         if (-1 == lesson.defInfo[newForm].causes.indexOf(word)) {
             lesson.defInfo[newForm].causes.push(word)
@@ -14,7 +14,7 @@ function newFormAdder(lesson, word, newForm) {
         const potentialDefInfo = {
             word: newForm,
             shortDef: null,
-            group: lesson.defInfo[word].group,
+            g: lesson.defInfo[word].g,
             causes: [word],
             longDef: null,
         }

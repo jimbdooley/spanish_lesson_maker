@@ -2,8 +2,8 @@
 function customAdd(lesson, word, group) {
     function _customAddWord(lesson, cause, group, toDefine) {
         if (lesson.defInfo.hasOwnProperty(toDefine)) {
-            lesson.defInfo[toDefine].group = Math.min(
-                lesson.defInfo[toDefine].group, group
+            lesson.defInfo[toDefine].g = Math.min(
+                lesson.defInfo[toDefine].g, group
             )
             if (-1 == lesson.defInfo[toDefine].causes.indexOf(cause)) {
                 lesson.defInfo[toDefine].causes.push(cause)
@@ -12,7 +12,7 @@ function customAdd(lesson, word, group) {
             const potentialDefInfo = {
                 word: toDefine,
                 shortDef: null,
-                group: group,
+                g: group,
                 causes: [cause],
                 longDef: null,
             }
