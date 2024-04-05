@@ -1,6 +1,5 @@
 
 function makeLesson(textStr, title) {
-
     const lesson = {
         lenTotal: 0,
         lenAveSent: 0,
