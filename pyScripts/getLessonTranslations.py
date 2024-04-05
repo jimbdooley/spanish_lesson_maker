@@ -1,7 +1,10 @@
+
 import os
 import json
 
 def getToXlate():
+    with open(os.getcwd() + "/pyScripts/savedTranslations.json", "r", encoding="utf8") as file:
+        knownXlates = json.loads(file.read())
     rtn = []
     for fileName in os.listdir(os.getcwd() + "/editedLessons/"):
         if len(fileName) == 0 or fileName[0] == '.':
@@ -11,8 +14,23 @@ def getToXlate():
         with open(os.getcwd() + "/editedLessons/" + fileName, 
                   'r', encoding="utf8") as file:
             obj = json.loads(file.read())["sentenceInfoList"]
-        for sentence in obj:
-            rtn.append(sentence["sentence"].strip())
+        for i in range(len(obj)):
+            lessonSentence = obj[i]["sentence"].strip()
+            for pair in knownXlates:
+                if lessonSentence == pair[0] and pair[1] != "":
+                    newSentence = {}
+                    newSentence["sentence"] = lessonSentence
+                    newSentence["translation"] = pair[1]
+                    newSentence["pGroup"] = obj[i]["pGroup"]
+                    for key in obj[i]:
+                        if key != "sentence" and key != "translation" and key != "pGroup":
+                            newSentence[key] = obj[i][key]
+                    obj[i] = newSentence
+            rtn.append(lessonSentence)
+        with open(os.getcwd() + "/editedLessons/" + fileName, 
+                    'w', encoding="utf8") as file:
+            # save with indent of 1
+            file.write(json.dumps({"sentenceInfoList": obj}, indent=1))
 
     return list(set(rtn))
 
@@ -22,20 +40,21 @@ def buildKnownXlates(toXlate):
 
     forGoogle = []
     for xlate in toXlate:
-        alreadyKnown = False
+        alreadyInserted = False
         for pair in knownXlates:
             if xlate == pair[0]:
-                alreadyKnown = True
+                alreadyInserted = True
                 break
-        if not alreadyKnown:
-            forGoogle.append(xlate)
+        if not alreadyInserted:
+            knownXlates.append([xlate, ""])
+    
+    with open(os.getcwd() + "/pyScripts/savedTranslations.json", "w", encoding="utf8") as file:
+        file.write(json.dumps(knownXlates))
+
+
+
 
     
-forGoogleTest = [
-    "Hola mundo",
-    "Me gusta comer papas fritas",
-    "Cuando es tu cumpleaños",
-]
 
 toXlate = getToXlate()
 buildKnownXlates(toXlate)

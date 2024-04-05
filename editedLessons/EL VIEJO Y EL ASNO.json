@@ -1,9 +1,9 @@
 {
- "lenTotal": 2165,
- "lenAveSent": 80.18518518518519,
  "sentenceInfoList": [
   {
-   "sentence": "EL VIEJO Y EL ASNO ",
+   "sentence": "EL VIEJO Y EL ASNO",
+   "translation": "THE OLD MAN AND THE DONKEY",
+   "pGroup": 0,
    "wordInfoList": [
     {
      "word": "el",
@@ -40,11 +40,12 @@
       18
      ]
     }
-   ],
-   "pGroup": 0
+   ]
   },
   {
-   "sentence": "Mucho tiene que hacer quien ha de dar gusto a todos ",
+   "sentence": "Mucho tiene que hacer quien ha de dar gusto a todos",
+   "translation": "He who has to please everyone has a lot to do",
+   "pGroup": 1,
    "wordInfoList": [
     {
      "word": "mucho",
@@ -123,11 +124,12 @@
       51
      ]
     }
-   ],
-   "pGroup": 1
+   ]
   },
   {
-   "sentence": "Un viejo español y su hijo llevaban un asno al mercado para venderlo.",
+   "sentence": "Un viejo espa\u00f1ol y su hijo llevaban un asno al mercado para venderlo.",
+   "translation": "An old Spaniard and his son were taking a donkey to the market to sell it.",
+   "pGroup": 2,
    "wordInfoList": [
     {
      "word": "un",
@@ -144,7 +146,7 @@
      ]
     },
     {
-     "word": "español",
+     "word": "espa\u00f1ol",
      "loc": [
       9,
       16
@@ -220,11 +222,12 @@
       68
      ]
     }
-   ],
-   "pGroup": 2
+   ]
   },
   {
    "sentence": "Iban padre e hijo a pie, para que el animal llegara menos fatigado a la feria.",
+   "translation": "Father and son went on foot, so that the animal would arrive at the fair less fatigued.",
+   "pGroup": 3,
    "wordInfoList": [
     {
      "word": "iban",
@@ -338,11 +341,12 @@
       77
      ]
     }
-   ],
-   "pGroup": 3
+   ]
   },
   {
-   "sentence": "Al poco rato encontraron unas mujeres, y una de ellas dijo: ",
+   "sentence": "Al poco rato encontraron unas mujeres, y una de ellas dijo:",
+   "translation": "Soon they found some women, and one of them said:",
+   "pGroup": 4,
    "wordInfoList": [
     {
      "word": "al",
@@ -421,11 +425,12 @@
       58
      ]
     }
-   ],
-   "pGroup": 4
+   ]
   },
   {
-   "sentence": "—¡Miren qué hombres más tontos!",
+   "sentence": "\u2014\u00a1Miren qu\u00e9 hombres m\u00e1s tontos!",
+   "translation": "\u2014Look at what stupid men!",
+   "pGroup": 5,
    "wordInfoList": [
     {
      "word": "miren",
@@ -435,7 +440,7 @@
      ]
     },
     {
-     "word": "qué",
+     "word": "qu\u00e9",
      "loc": [
       8,
       11
@@ -449,7 +454,7 @@
      ]
     },
     {
-     "word": "más",
+     "word": "m\u00e1s",
      "loc": [
       20,
       23
@@ -462,11 +467,12 @@
       30
      ]
     }
-   ],
-   "pGroup": 5
+   ]
   },
   {
    "sentence": "Andan a pie, teniendo tan hermoso burro.",
+   "translation": "They walk on foot, having such a beautiful donkey.",
+   "pGroup": 6,
    "wordInfoList": [
     {
      "word": "andan",
@@ -517,11 +523,12 @@
       39
      ]
     }
-   ],
-   "pGroup": 6
+   ]
   },
   {
-   "sentence": "El viejo oyó estas palabras, y mandó al hijo que montara en el asno.",
+   "sentence": "El viejo oy\u00f3 estas palabras, y mand\u00f3 al hijo que montara en el asno.",
+   "translation": "The old man heard these words, and ordered his son to mount the donkey.",
+   "pGroup": 7,
    "wordInfoList": [
     {
      "word": "el",
@@ -538,7 +545,7 @@
      ]
     },
     {
-     "word": "oyó",
+     "word": "oy\u00f3",
      "loc": [
       9,
       12
@@ -566,7 +573,7 @@
      ]
     },
     {
-     "word": "mandó",
+     "word": "mand\u00f3",
      "loc": [
       31,
       36
@@ -621,14 +628,15 @@
       67
      ]
     }
-   ],
-   "pGroup": 7
+   ]
   },
   {
-   "sentence": "Después de haber andado algún tiempo, pasaron ",
+   "sentence": "Despu\u00e9s de haber andado alg\u00fan tiempo, pasaron",
+   "translation": "After they had walked for some time, they passed",
+   "pGroup": 8,
    "wordInfoList": [
     {
-     "word": "después",
+     "word": "despu\u00e9s",
      "loc": [
       0,
       7
@@ -656,7 +664,7 @@
      ]
     },
     {
-     "word": "algún",
+     "word": "alg\u00fan",
      "loc": [
       24,
       29
@@ -676,11 +684,12 @@
       45
      ]
     }
-   ],
-   "pGroup": 8
+   ]
   },
   {
-   "sentence": "cerca de un grupo de ancianos que se mofaron de la acción del mozo que iba montado mientras que su padre iba a pie.",
+   "sentence": "cerca de un grupo de ancianos que se mofaron de la acci\u00f3n del mozo que iba montado mientras que su padre iba a pie.",
+   "translation": "near a group of elderly people who mocked the action of the young man who was mounted while his father was on foot.",
+   "pGroup": 9,
    "wordInfoList": [
     {
      "word": "cerca",
@@ -760,7 +769,7 @@
      ]
     },
     {
-     "word": "acción",
+     "word": "acci\u00f3n",
      "loc": [
       51,
       57
@@ -850,11 +859,12 @@
       114
      ]
     }
-   ],
-   "pGroup": 9
+   ]
   },
   {
-   "sentence": "El viejo entonces hizo que se desmontara el hijo, y subió él sobre el asno.",
+   "sentence": "El viejo entonces hizo que se desmontara el hijo, y subi\u00f3 \u00e9l sobre el asno.",
+   "translation": "The old man then made the son dismount, and he climbed onto the donkey.",
+   "pGroup": 10,
    "wordInfoList": [
     {
      "word": "el",
@@ -927,14 +937,14 @@
      ]
     },
     {
-     "word": "subió",
+     "word": "subi\u00f3",
      "loc": [
       52,
       57
      ]
     },
     {
-     "word": "él",
+     "word": "\u00e9l",
      "loc": [
       58,
       60
@@ -961,14 +971,15 @@
       74
      ]
     }
-   ],
-   "pGroup": 10
+   ]
   },
   {
-   "sentence": "Más adelante hallaron un grupo de mujeres y de muchachos, que al verlos pasar dijeron: ",
+   "sentence": "M\u00e1s adelante hallaron un grupo de mujeres y de muchachos, que al verlos pasar dijeron:",
+   "translation": "Further ahead they found a group of women and boys, who, upon seeing them pass, said:",
+   "pGroup": 11,
    "wordInfoList": [
     {
-     "word": "más",
+     "word": "m\u00e1s",
      "loc": [
       0,
       3
@@ -1072,21 +1083,22 @@
       85
      ]
     }
-   ],
-   "pGroup": 11
+   ]
   },
   {
-   "sentence": "—¡Qué vergüenza de viejo!",
+   "sentence": "\u2014\u00a1Qu\u00e9 verg\u00fcenza de viejo!",
+   "translation": "\u2014What a shameful old man!",
+   "pGroup": 12,
    "wordInfoList": [
     {
-     "word": "qué",
+     "word": "qu\u00e9",
      "loc": [
       2,
       5
      ]
     },
     {
-     "word": "vergüenza",
+     "word": "verg\u00fcenza",
      "loc": [
       6,
       15
@@ -1106,11 +1118,12 @@
       24
      ]
     }
-   ],
-   "pGroup": 12
+   ]
   },
   {
-   "sentence": "Muy cómodo en su pollino, mientras que el muchacho va a pie, jadeante y cansado.",
+   "sentence": "Muy c\u00f3modo en su pollino, mientras que el muchacho va a pie, jadeante y cansado.",
+   "translation": "Very comfortable in his colt, while the boy is on foot, panting and tired.",
+   "pGroup": 13,
    "wordInfoList": [
     {
      "word": "muy",
@@ -1120,7 +1133,7 @@
      ]
     },
     {
-     "word": "cómodo",
+     "word": "c\u00f3modo",
      "loc": [
       4,
       10
@@ -1217,11 +1230,12 @@
       79
      ]
     }
-   ],
-   "pGroup": 13
+   ]
   },
   {
-   "sentence": "El padre, al oír esto, hizo que el muchacho montase al anca, y así montados los dos siguieron su camino.",
+   "sentence": "El padre, al o\u00edr esto, hizo que el muchacho montase al anca, y as\u00ed montados los dos siguieron su camino.",
+   "translation": "The father, upon hearing this, made the boy mount the haunch, and thus mounted the two continued on their way.",
+   "pGroup": 14,
    "wordInfoList": [
     {
      "word": "el",
@@ -1245,7 +1259,7 @@
      ]
     },
     {
-     "word": "oír",
+     "word": "o\u00edr",
      "loc": [
       13,
       16
@@ -1315,7 +1329,7 @@
      ]
     },
     {
-     "word": "así",
+     "word": "as\u00ed",
      "loc": [
       63,
       66
@@ -1363,11 +1377,12 @@
       103
      ]
     }
-   ],
-   "pGroup": 14
+   ]
   },
   {
-   "sentence": "Al buen viejo le parecía que había encontrado la manera de ir a gusto de todo el mundo, cuando un hombre que pasaba gritó, dirigiéndose al grupo: ",
+   "sentence": "Al buen viejo le parec\u00eda que hab\u00eda encontrado la manera de ir a gusto de todo el mundo, cuando un hombre que pasaba grit\u00f3, dirigi\u00e9ndose al grupo:",
+   "translation": "It seemed to the good old man that he had found a way to please everyone, when a man passing by shouted, addressing the group:",
+   "pGroup": 15,
    "wordInfoList": [
     {
      "word": "al",
@@ -1398,7 +1413,7 @@
      ]
     },
     {
-     "word": "parecía",
+     "word": "parec\u00eda",
      "loc": [
       17,
       24
@@ -1412,7 +1427,7 @@
      ]
     },
     {
-     "word": "había",
+     "word": "hab\u00eda",
      "loc": [
       29,
       34
@@ -1531,14 +1546,14 @@
      ]
     },
     {
-     "word": "gritó",
+     "word": "grit\u00f3",
      "loc": [
       116,
       121
      ]
     },
     {
-     "word": "dirigiéndose",
+     "word": "dirigi\u00e9ndose",
      "loc": [
       123,
       135
@@ -1558,14 +1573,15 @@
       144
      ]
     }
-   ],
-   "pGroup": 15
+   ]
   },
   {
-   "sentence": "—¿Cuál de los tres es el asno?",
+   "sentence": "\u2014\u00bfCu\u00e1l de los tres es el asno?",
+   "translation": "\u2014Which of the three is the donkey?",
+   "pGroup": 16,
    "wordInfoList": [
     {
-     "word": "cuál",
+     "word": "cu\u00e1l",
      "loc": [
       2,
       6
@@ -1613,14 +1629,15 @@
       29
      ]
     }
-   ],
-   "pGroup": 16
+   ]
   },
   {
-   "sentence": "Sintióse el viejo muy mortificado con esta pregunta burlona, y el otro la explicó diciendo que era una barbaridad cargar de aquella manera a un animal tan pequeño y débil, y les hizo ver al padre y al hijo lo cansado que el asno estaba.",
+   "sentence": "Sinti\u00f3se el viejo muy mortificado con esta pregunta burlona, y el otro la explic\u00f3 diciendo que era una barbaridad cargar de aquella manera a un animal tan peque\u00f1o y d\u00e9bil, y les hizo ver al padre y al hijo lo cansado que el asno estaba.",
+   "translation": "The old man felt very mortified with this mocking question, and the other explained it by saying that it was barbaric to carry such a small and weak animal in that way, and he made the father and son see how tired the donkey was.",
+   "pGroup": 17,
    "wordInfoList": [
     {
-     "word": "sintióse",
+     "word": "sinti\u00f3se",
      "loc": [
       0,
       8
@@ -1711,7 +1728,7 @@
      ]
     },
     {
-     "word": "explicó",
+     "word": "explic\u00f3",
      "loc": [
       74,
       81
@@ -1809,7 +1826,7 @@
      ]
     },
     {
-     "word": "pequeño",
+     "word": "peque\u00f1o",
      "loc": [
       155,
       162
@@ -1823,7 +1840,7 @@
      ]
     },
     {
-     "word": "débil",
+     "word": "d\u00e9bil",
      "loc": [
       165,
       170
@@ -1934,11 +1951,12 @@
       235
      ]
     }
-   ],
-   "pGroup": 17
+   ]
   },
   {
-   "sentence": "Page ",
+   "sentence": "Page",
+   "translation": "Page",
+   "pGroup": 18,
    "wordInfoList": [
     {
      "word": "page",
@@ -1947,11 +1965,12 @@
       4
      ]
     }
-   ],
-   "pGroup": 18
+   ]
   },
   {
-   "sentence": "—Mejor sería que le llevaseis cargado hasta el pueblo próximo, para evitar que se muera en el camino.",
+   "sentence": "\u2014Mejor ser\u00eda que le llevaseis cargado hasta el pueblo pr\u00f3ximo, para evitar que se muera en el camino.",
+   "translation": "\u2014It would be better if you carried him to the next town, to prevent him from dying on the way.",
+   "pGroup": 19,
    "wordInfoList": [
     {
      "word": "mejor",
@@ -1961,7 +1980,7 @@
      ]
     },
     {
-     "word": "sería",
+     "word": "ser\u00eda",
      "loc": [
       7,
       12
@@ -2017,7 +2036,7 @@
      ]
     },
     {
-     "word": "próximo",
+     "word": "pr\u00f3ximo",
      "loc": [
       54,
       61
@@ -2079,11 +2098,12 @@
       100
      ]
     }
-   ],
-   "pGroup": 19
+   ]
   },
   {
-   "sentence": "El viejo creyó razonable esta observación, y entre él y su hijo buscaron un fuerte palo, ataron el asno a él, y tomando en hombros una extremidad el padre, y otra el hijo, fueron trabajosamente cargados con la bestia con dirección al pueblo.",
+   "sentence": "El viejo crey\u00f3 razonable esta observaci\u00f3n, y entre \u00e9l y su hijo buscaron un fuerte palo, ataron el asno a \u00e9l, y tomando en hombros una extremidad el padre, y otra el hijo, fueron trabajosamente cargados con la bestia con direcci\u00f3n al pueblo.",
+   "translation": "The old man believed this observation to be reasonable, and between him and his son they looked for a strong pole, they tied the donkey to it, and taking one limb on their shoulders the father, and another the son, they were laboriously carried with the beast towards the town.",
+   "pGroup": 20,
    "wordInfoList": [
     {
      "word": "el",
@@ -2100,7 +2120,7 @@
      ]
     },
     {
-     "word": "creyó",
+     "word": "crey\u00f3",
      "loc": [
       9,
       14
@@ -2121,7 +2141,7 @@
      ]
     },
     {
-     "word": "observación",
+     "word": "observaci\u00f3n",
      "loc": [
       30,
       41
@@ -2142,7 +2162,7 @@
      ]
     },
     {
-     "word": "él",
+     "word": "\u00e9l",
      "loc": [
       51,
       53
@@ -2226,7 +2246,7 @@
      ]
     },
     {
-     "word": "él",
+     "word": "\u00e9l",
      "loc": [
       106,
       108
@@ -2366,7 +2386,7 @@
      ]
     },
     {
-     "word": "dirección",
+     "word": "direcci\u00f3n",
      "loc": [
       221,
       230
@@ -2386,11 +2406,12 @@
       240
      ]
     }
-   ],
-   "pGroup": 20
+   ]
   },
   {
-   "sentence": "Pero entonces se fué reuniendo alrededor de ellos como una procesión de gentes que se burlaban de las personas llevando a cuestas un burro.",
+   "sentence": "Pero entonces se fu\u00e9 reuniendo alrededor de ellos como una procesi\u00f3n de gentes que se burlaban de las personas llevando a cuestas un burro.",
+   "translation": "But then they gathered around them like a procession of people who were making fun of the people carrying a donkey.",
+   "pGroup": 21,
    "wordInfoList": [
     {
      "word": "pero",
@@ -2414,7 +2435,7 @@
      ]
     },
     {
-     "word": "fué",
+     "word": "fu\u00e9",
      "loc": [
       17,
       20
@@ -2463,7 +2484,7 @@
      ]
     },
     {
-     "word": "procesión",
+     "word": "procesi\u00f3n",
      "loc": [
       59,
       68
@@ -2560,11 +2581,12 @@
       138
      ]
     }
-   ],
-   "pGroup": 21
+   ]
   },
   {
-   "sentence": "—¡El mundo al revés!",
+   "sentence": "\u2014\u00a1El mundo al rev\u00e9s!",
+   "translation": "-The world upside down!",
+   "pGroup": 22,
    "wordInfoList": [
     {
      "word": "el",
@@ -2588,17 +2610,18 @@
      ]
     },
     {
-     "word": "revés",
+     "word": "rev\u00e9s",
      "loc": [
       14,
       19
      ]
     }
-   ],
-   "pGroup": 22
+   ]
   },
   {
-   "sentence": "—gritaban en tono de mofa.",
+   "sentence": "\u2014gritaban en tono de mofa.",
+   "translation": "\u2014they shouted in a mocking tone.",
+   "pGroup": 22,
    "wordInfoList": [
     {
      "word": "gritaban",
@@ -2635,11 +2658,12 @@
       25
      ]
     }
-   ],
-   "pGroup": 22
+   ]
   },
   {
-   "sentence": "Por fin, al pasar por un puente, hizo un esfuerzo el burro para recobrar su libertad, asustado por tanto alboroto, y cayó al agua y se ahogó.",
+   "sentence": "Por fin, al pasar por un puente, hizo un esfuerzo el burro para recobrar su libertad, asustado por tanto alboroto, y cay\u00f3 al agua y se ahog\u00f3.",
+   "translation": "Finally, when passing over a bridge, the donkey made an effort to regain its freedom, frightened by so much commotion, and fell into the water and drowned.",
+   "pGroup": 23,
    "wordInfoList": [
     {
      "word": "por",
@@ -2789,7 +2813,7 @@
      ]
     },
     {
-     "word": "cayó",
+     "word": "cay\u00f3",
      "loc": [
       117,
       121
@@ -2824,17 +2848,18 @@
      ]
     },
     {
-     "word": "ahogó",
+     "word": "ahog\u00f3",
      "loc": [
       135,
       140
      ]
     }
-   ],
-   "pGroup": 23
+   ]
   },
   {
-   "sentence": "Por querer complacer a todo el mundo, perdió el pobre viejo su asno.",
+   "sentence": "Por querer complacer a todo el mundo, perdi\u00f3 el pobre viejo su asno.",
+   "translation": "Because he wanted to please everyone, the poor old man lost his donkey.",
+   "pGroup": 24,
    "wordInfoList": [
     {
      "word": "por",
@@ -2886,7 +2911,7 @@
      ]
     },
     {
-     "word": "perdió",
+     "word": "perdi\u00f3",
      "loc": [
       38,
       44
@@ -2927,11 +2952,12 @@
       67
      ]
     }
-   ],
-   "pGroup": 24
+   ]
   },
   {
-   "sentence": "Es bueno ser complaciente, pero sin renunciar al sentido común.",
+   "sentence": "Es bueno ser complaciente, pero sin renunciar al sentido com\u00fan.",
+   "translation": "It is good to be complacent, but without giving up common sense.",
+   "pGroup": 25,
    "wordInfoList": [
     {
      "word": "es",
@@ -2997,4422 +3023,13 @@
      ]
     },
     {
-     "word": "común",
+     "word": "com\u00fan",
      "loc": [
       57,
       62
      ]
     }
-   ],
-   "pGroup": 25
-  }
- ],
- "defInfo": {
-  "el": {
-   "word": "el",
-   "shortDef": "the",
-   "g": 0,
-   "causes": [
-    "el"
-   ],
-   "longDef": [
-    [
-     "(Article) masculine singular definite article; the"
-    ],
-    [
-     "(Article) feminine singular definite article used before nouns which start with a stressed /a/:",
-     "el alma, las almas ― the soul, the souls",
-     "el hacha, las hachas ― the axe, the axes"
-    ]
-   ]
-  },
-  "viejo": {
-   "word": "viejo",
-   "shortDef": "an old person",
-   "g": 0,
-   "causes": [
-    "viejo"
-   ],
-   "longDef": [
-    [
-     "(Noun) an old person",
-     "Synonyms: anciano, (euphemism) adulto mayor"
-    ],
-    [
-     "(Noun) (slang) old man (one's father)",
-     "Mi viejo es un tipo que entra en cualquier sitio y modifica la atmósfera. ― My old man is a guy who can go into any place and change the atmosphere."
-    ],
-    [
-     "old (having existed for a long time)",
-     "Synonyms: antiguo, añejo",
-     "Antonym: nuevo\n2012, Jorge Accame, Forastero, SUDAMERICANA, →ISBN:",
-     "Se levanta del sillón, busca en un estante un disco viejo, de pasta, y lo pone en el combinado. —Un  poco de música —dice. ― He gets out of the chair, looks on the shelf for an old record, made of plastic, and he puts it in the radiogram. \"A little music,\" he says."
-    ],
-    [
-     "old (having lived for many years)",
-     "Synonyms: anciano, mayor",
-     "Antonym: joven",
-     "Mi abuelo es viejo. ― My grandfather is old.\n2014, Victor Muñoz, La noche del 9 de febrero, Punto de Lectura, →ISBN:",
-     "También hay un profesor viejo que se ha vuelto sabio a raíz de vivir mucho tiempo y de escuchar y contar historias. ― There's also an old professor who has grown wise as a result of living a long time and listening to and telling stories."
-    ]
-   ]
-  },
-  "y": {
-   "word": "y",
-   "shortDef": "and\n1605, Miguel de Cervantes Saavedra, Don Quijote de la Mancha1, Chapter I:",
-   "g": 0,
-   "causes": [
-    "y"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) and",
-     "Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso —que eran los más del año—, se daba a leer libros de caballerías, con tanta afición y gusto, que olvidó casi de todo punto el ejercicio de la caza y aun la administración de su hacienda; y llegó a tanto su curiosidad y desatino en esto, que vendió muchas hanegas de tierra de sembradura para comprar libros de caballerías en que leer, y, así, llevó a su casa todos cuantos pudo haber dellos. ― You must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
-    ],
-    [
-     "(Conjunction) (in names of number) and",
-     "setenta y seis ― seventy-six"
-    ]
-   ]
-  },
-  "asno": {
-   "word": "asno",
-   "shortDef": "donkey, ass",
-   "g": 0,
-   "causes": [
-    "asno"
-   ],
-   "longDef": [
-    [
-     "(Noun) donkey, ass",
-     "Synonyms: burro, jumento, pollino"
-    ],
-    [
-     "(Noun) (slang, derogatory) dumbass; ass"
-    ]
-   ]
-  },
-  "mucho": {
-   "word": "mucho",
-   "shortDef": "much, a lot, far, way",
-   "g": 1,
-   "causes": [
-    "mucho"
-   ],
-   "longDef": [
-    [
-     "(Adverb) much, a lot, far, way",
-     "Es mucho más difícil salir que entrar. ― It is way harder to get out than to get in.",
-     "La situación real era mucho más complicada de lo que se sugería en el documento. ― The real situation was far more complicated than was suggested in the document."
-    ],
-    [
-     "(Adverb) long, a long time"
-    ],
-    [
-     "(in the singular) much, a lot of",
-     "No tengo mucho dinero. ― I don't have much money.",
-     "Tengo mucho dinero. ― I have a lot of money."
-    ],
-    [
-     "(in the plural) many, a lot of",
-     "Tengo muchas monedas. ― I have many coins."
-    ],
-    [
-     "a lot, many"
-    ]
-   ]
-  },
-  "tener": {
-   "word": "tener",
-   "shortDef": "to have",
-   "g": 1,
-   "causes": [
-    "tiene",
-    "teniendo"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive, literally) to have, possess",
-     "Synonym: poseer",
-     "Ella tiene seis hermanos. ― She has six brothers.",
-     "Tengo una pluma. ― I have a pen."
-    ],
-    [
-     "(Verb) (transitive) to have, possess, to be (a condition or quality)",
-     "Usted tiene suerte. ― You are lucky. (literally, \"You have luck.\")",
-     "¡Ten cuidado! ― Be careful! (literally, \"Have care!\")",
-     "¿Quién tiene razón? ― Who is right? (literally, \"Who has reason?\")"
-    ]
-   ]
-  },
-  "que": {
-   "word": "que",
-   "shortDef": "that, than",
-   "g": 1,
-   "causes": [
-    "que"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) that",
-     "Él dice que está triste. ― He says that he is sad."
-    ],
-    [
-     "(Conjunction) than",
-     "Llego más tarde que tú. ― I am arriving later than you."
-    ],
-    [
-     "who; that",
-     "Synonym: (Internet slang, text messaging) q",
-     "la estrella que está en la película ― the star who is in the movie"
-    ],
-    [
-     "that; whom",
-     "la mujer con la que yo hablé ― the woman with whom I spoke"
-    ],
-    [
-     "than"
-    ],
-    [
-     "like, as"
-    ],
-    [
-     "to"
-    ]
-   ]
-  },
-  "hacer": {
-   "word": "hacer",
-   "shortDef": "to do, make",
-   "g": 1,
-   "causes": [
-    "hacer",
-    "hizo"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to do",
-     "¿Qué haces? ― What are you doing?",
-     "No sé que hago. ― I don't know what I'm doing.",
-     "Prefiero no hacerlo ― I prefer not to do it."
-    ],
-    [
-     "(Verb) (transitive) to make (something)",
-     "Empecemos a hacer el pastel. ― Let's start making the cake.",
-     "Le gustaba hacer poemas placenteros. ― She liked to make pleasant poems."
-    ],
-    [
-     "task, action",
-     "Synonyms: quehacer, acción",
-     "Nos quedan muchos haceres. ― We have a lot of tasks left."
-    ]
-   ]
-  },
-  "quien": {
-   "word": "quien",
-   "shortDef": "who",
-   "g": 1,
-   "causes": [
-    "quien"
-   ],
-   "longDef": [
-    [
-     "(Pronoun) who",
-     "La mujer con quien se casó ― The woman whom he married"
-    ],
-    [
-     "(Pronoun) (construed with a) whom",
-     "La persona a quien yo amo ― The person whom I love"
-    ]
-   ]
-  },
-  "haber": {
-   "word": "haber",
-   "shortDef": "to have (to do something, auxiliary verb)",
-   "g": 1,
-   "causes": [
-    "ha",
-    "había"
-   ],
-   "longDef": [
-    [
-     "(Verb) (auxiliary verb taking past participle to build various perfect tenses) to have",
-     "He trabajado muy duro durante este mes. ― I have worked very hard during this month.",
-     "Mi hermanito me pidió más chocolate, pero ya le había dado demasiado. ― My little brother asked me for more chocolate, but I had already given him too much."
-    ],
-    [
-     "(Verb) (obsolete) to hold, to possess"
-    ],
-    [
-     "asset"
-    ],
-    [
-     "history"
-    ]
-   ]
-  },
-  "de": {
-   "word": "de",
-   "shortDef": "of, from",
-   "g": 1,
-   "causes": [
-    "de"
-   ],
-   "longDef": [
-    [
-     "(Preposition) of; 's; used after the thing owned and before the owner",
-     "Constitución española de 1812 ― Spanish constitution of 1812",
-     "la cola del perro ― the dog’s tail"
-    ],
-    [
-     "(Preposition) from (with the source or provenance of or at)",
-     "Soy de España. ― I’m from Spain.",
-     "agua de manantial ― springwater"
-    ],
-    [
-     "The name of the Latin-script letter D."
-    ]
-   ]
-  },
-  "dar": {
-   "word": "dar",
-   "shortDef": "to give",
-   "g": 1,
-   "causes": [
-    "dar"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to give, to give out"
-    ],
-    [
-     "(Verb) (transitive) to hand over"
-    ]
-   ]
-  },
-  "gusto": {
-   "word": "gusto",
-   "shortDef": "taste (sense)",
-   "g": 1,
-   "causes": [
-    "gusto"
-   ],
-   "longDef": [
-    [
-     "(Noun) taste (sense)",
-     "El gusto es uno de los cinco sentidos. ― Taste is one of the five senses."
-    ],
-    [
-     "(Noun) taste (flavour)"
-    ],
-    [
-     "first-person singular present indicative of gustar"
-    ]
-   ]
-  },
-  "gustar": {
-   "word": "gustar",
-   "shortDef": "to be pleasing (to), to like",
-   "g": 1,
-   "causes": [
-    "gusto"
-   ],
-   "longDef": [
-    [
-     "(Verb) (intransitive) (followed by a or preceded by an indirect object) to be pleasing to (usually translated into English as like with exchange of the subject and object)",
-     "Me gusta esta manzana ― I like this apple.",
-     "(literally, \"This apple is pleasing to me.\")"
-    ],
-    [
-     "(Verb) (transitive, dated) to taste",
-     "Synonyms: probar, catar, degustar, saborear"
-    ]
-   ]
-  },
-  "a": {
-   "word": "a",
-   "shortDef": "to, at",
-   "g": 1,
-   "causes": [
-    "a"
-   ],
-   "longDef": [
-    [
-     "to",
-     "¿Puedes ir a la tienda? - Can you go to the store?",
-     "Voy a la escuela. - I'm going to school."
-    ],
-    [
-     "at",
-     "Let's go at 8 (o'clock). - Vamos a las 8."
-    ]
-   ]
-  },
-  "todos": {
-   "word": "todos",
-   "shortDef": "plural of todo; all, all of",
-   "g": 1,
-   "causes": [
-    "todos"
-   ],
-   "longDef": [
-    [
-     "plural of todo; all, all of",
-     "{adj}"
-    ]
-   ]
-  },
-  "un": {
-   "word": "un",
-   "shortDef": "a, an",
-   "g": 2,
-   "causes": [
-    "un"
-   ],
-   "longDef": [
-    [
-     "a, an",
-     "¡Mira al cielo, hay un águila! - Look at the sky, there's an eagle!",
-     "¡Manos arriba, tengo un arma! - Hands up, I have a gun!"
-    ]
-   ]
-  },
-  "español": {
-   "word": "español",
-   "shortDef": "Spanish (from or native to Spain)",
-   "g": 2,
-   "causes": [
-    "español"
-   ],
-   "longDef": [
-    [
-     "(Adjective) Spanish (from or native to Spain)"
-    ],
-    [
-     "(Adjective) Spanish (pertaining to Spain or to the language)"
-    ],
-    [
-     "Spaniard (man)"
-    ],
-    [
-     ""
-    ]
-   ]
-  },
-  "su": {
-   "word": "su",
-   "shortDef": "his, her, its, one's, their",
-   "g": 2,
-   "causes": [
-    "su"
-   ],
-   "longDef": [
-    [
-     "his, her, its, one's, their",
-     "Su casa es grande. - His house is big.",
-     "Su madre es muy simpática. - Her mother is very nice."
-    ],
-    [
-     "your (formal)",
-     "¿Cómo está su familia? - How is your family?",
-     "¿Dónde está su coche? - Where is your car?"
-    ]
-   ]
-  },
-  "hijo": {
-   "word": "hijo",
-   "shortDef": "son",
-   "g": 2,
-   "causes": [
-    "hijo"
-   ],
-   "longDef": [
-    [
-     "(Noun) son"
-    ],
-    [
-     "(Noun) child (when the gender of the child is unknown)"
-    ]
-   ]
-  },
-  "llevar": {
-   "word": "llevar",
-   "shortDef": "to carry, bring",
-   "g": 2,
-   "causes": [
-    "llevaban",
-    "llevaseis",
-    "llevando"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to take, to carry, to take away, to carry away, to carry around, to bring, to bear, to lug (implies to move something further from who speaks)",
-     "Synonym: traer",
-     "Antonym: quitar",
-     "Le llevaré un regalo a Rosa para su cumpleaños. ― I will take a present to Rosa for her birthday.\n2013, Ellis Peters, El gorrión del santuario‎[1]:",
-     "Padre, y tú, Daniel, llevadla a la cama. No tiene ningún hueso roto y no siente nada. ― (please add an English translation of this quotation)"
-    ],
-    [
-     "(Verb) (transitive) to take, to take out (implies moving someone further from the speaker)",
-     "Llevamos a las chicas al cine. ― We're taking the girls to the movies."
-    ]
-   ]
-  },
-  "al": {
-   "word": "al",
-   "shortDef": "to the, at the (contraction: 'a' + 'el')",
-   "g": 2,
-   "causes": [
-    "al"
-   ],
-   "longDef": [
-    [
-     "(Contraction) Contraction of a el (\"at the, to the\")."
-    ]
-   ]
-  },
-  "mercado": {
-   "word": "mercado",
-   "shortDef": "market",
-   "g": 2,
-   "causes": [
-    "mercado"
-   ],
-   "longDef": [
-    [
-     "(Noun) market"
-    ],
-    [
-     "past participle of mercar"
-    ]
-   ]
-  },
-  "para": {
-   "word": "para",
-   "shortDef": "for, to (expressing a recipient)",
-   "g": 2,
-   "causes": [
-    "para"
-   ],
-   "longDef": [
-    [
-     "(Preposition) for, to (expressing a recipient)",
-     "Synonyms: pa', (colloquial) pa",
-     "La niña compró un regalo de navidad para su abuela.  ― The girl bought a Christmas gift for her grandmother.",
-     "Ahora me gustaría hacer un truco de magia para ustedes.  ― I'd now like to perform a magic trick for you all."
-    ],
-    [
-     "(Preposition) to, in order to, so, for (expressing the intended purpose of an action)",
-     "Estudio cada noche sin descanso para conseguir un trabajo decente al fin de todo esto.  ― I study every night tirelessly so that I get a decent job at the end of all this.",
-     "Voy a salir temprano para evitar el tráfico.  ― I am going to leave early to avoid traffic."
-    ],
-    [
-     "inflection of parar:\nthird-person singular present indicative\nsecond-person singular imperative"
-    ],
-    [
-     "inflection of parir:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
-    ]
-   ]
-  },
-  "vender": {
-   "word": "vender",
-   "shortDef": "to sell",
-   "g": 2,
-   "causes": [
-    "venderlo"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to sell",
-     "Antonym: comprar"
-    ],
-    [
-     "(Verb) (reflexive) to sell for (a sum), to fetch"
-    ]
-   ]
-  },
-  "lo": {
-   "word": "lo",
-   "shortDef": "it, that",
-   "g": 2,
-   "causes": [
-    "venderlo"
-   ],
-   "longDef": [
-    [
-     "neuter definite article used to make abstract nouns from adjectives; the",
-     "{art}"
-    ],
-    [
-     "impersonal neuter pronoun; it, that",
-     "{pron}"
-    ]
-   ]
-  },
-  "ir": {
-   "word": "ir",
-   "shortDef": "to go",
-   "g": 3,
-   "causes": [
-    "iban",
-    "iba",
-    "va",
-    "fueron"
-   ],
-   "longDef": [
-    [
-     "(Verb) (intransitive) to go (away from speaker and listener)",
-     "Nos gusta ir al cine. ― We like to go to the movies."
-    ],
-    [
-     "(Verb) (intransitive) to come (towards or with the listener)",
-     "Quiero ir contigo. ― I want to come with you.",
-     "Iré a tu casa. ― I'll come to your house."
-    ]
-   ]
-  },
-  "padre": {
-   "word": "padre",
-   "shortDef": "(family) father",
-   "g": 3,
-   "causes": [
-    "padre"
-   ],
-   "longDef": [
-    [
-     "(Noun) (family) father",
-     "Synonyms: papá, progenitor"
-    ],
-    [
-     "(Noun) (Christianity) father",
-     "Synonyms: cura, párroco, sacerdote"
-    ],
-    [
-     "(Mexico, slang) cool, acceptable, easy",
-     "Synonyms: see Thesaurus:guay"
-    ]
-   ]
-  },
-  "e": {
-   "word": "e",
-   "shortDef": "and",
-   "g": 3,
-   "causes": [
-    "e"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) and",
-     "Yo hablo francés e inglés. ― I speak French and English."
-    ],
-    [
-     "Name of the letter E"
-    ]
-   ]
-  },
-  "pie": {
-   "word": "pie",
-   "shortDef": "foot (a part of the body)",
-   "g": 3,
-   "causes": [
-    "pie"
-   ],
-   "longDef": [
-    [
-     "(Noun) foot (a part of the body)",
-     "Synonym: (of an animal) pata"
-    ],
-    [
-     "(Noun) English or American foot (a unit of length equal to 30.48 cm)"
-    ],
-    [
-     "first-person singular preterite indicative of piar"
-    ]
-   ]
-  },
-  "animal": {
-   "word": "animal",
-   "shortDef": "animal",
-   "g": 3,
-   "causes": [
-    "animal"
-   ],
-   "longDef": [
-    [
-     "(Noun) animal"
-    ],
-    [
-     "animal"
-    ]
-   ]
-  },
-  "llegar": {
-   "word": "llegar",
-   "shortDef": "to arrive, come, reach",
-   "g": 3,
-   "causes": [
-    "llegara"
-   ],
-   "longDef": [
-    [
-     "(Verb) (intransitive) to arrive, get (to)",
-     "Cuando llegues a casa, mándame un mensaje. ― When you get home, send me a message.\n2015 July 5, \"Cocodrilos, ¡a desayunar!\", in El País‎[1]:",
-     "Tratad de llegadme enteros que faltan más de tres semanas y os he traído aquí porque os necesito. ― (please add an English translation of this quotation)"
-    ],
-    [
-     "(Verb) (intransitive) to get up to, to go up to (+ a or + hasta)"
-    ]
-   ]
-  },
-  "menos": {
-   "word": "menos",
-   "shortDef": "less",
-   "g": 3,
-   "causes": [
-    "menos"
-   ],
-   "longDef": [
-    [
-     "(Adverb) less",
-     "Antonym: más"
-    ],
-    [
-     "(Adverb) (often with definite article) least",
-     "Antonym: más"
-    ],
-    [
-     "less, fewer",
-     "Antonym: más"
-    ],
-    [
-     "least, fewest",
-     "Antonym: más"
-    ],
-    [
-     "minus",
-     "Dos menos uno son uno. ― Two minus one is one."
-    ],
-    [
-     "except",
-     "Synonym: excepto"
-    ],
-    [
-     "minus sign"
-    ]
-   ]
-  },
-  "fatigado": {
-   "word": "fatigado",
-   "shortDef": "tired",
-   "g": 3,
-   "causes": [
-    "fatigado"
-   ],
-   "longDef": null
-  },
-  "fatigar": {
-   "word": "fatigar",
-   "shortDef": "to fatigue, tire",
-   "g": 3,
-   "causes": [
-    "fatigado"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive, reflexive) to fatigue, wear out, tire"
-    ]
-   ]
-  },
-  "la": {
-   "word": "la",
-   "shortDef": "the",
-   "g": 3,
-   "causes": [
-    "la"
-   ],
-   "longDef": [
-    [
-     "the"
-    ],
-    [
-     "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
-    ],
-    [
-     "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
-     "La sabe toda.  ― He/she knows everything (it all)",
-     "¡Dónde la viste!  ― Where have you seen this!",
-     "No te la creo.  ― I don't believe you."
-    ],
-    [
-     "(music) la (sixth note of the scale)"
-    ]
-   ]
-  },
-  "feria": {
-   "word": "feria",
-   "shortDef": "fair (celebration)",
-   "g": 3,
-   "causes": [
-    "feria"
-   ],
-   "longDef": [
-    [
-     "(Noun) fair (celebration)"
-    ],
-    [
-     "(Noun) street market"
-    ],
-    [
-     "inflection of feriar:\nthird-person singular present indicative\nsecond-person singular imperative"
-    ]
-   ]
-  },
-  "poco": {
-   "word": "poco",
-   "shortDef": "little (not much)",
-   "g": 4,
-   "causes": [
-    "poco"
-   ],
-   "longDef": [
-    [
-     "(Adverb) little (not much)",
-     "Comí poco. ― I ate little / I didn’t eat much."
-    ],
-    [
-     "little, not much",
-     "Bebí poca agua. ― I drank little water.",
-     "Nos casamos hace poco tiempo. ― We got married recently.",
-     "(literally, \"We got married a little time ago.\")"
-    ],
-    [
-     "few, not many",
-     "Muy pocas personas hacen eso. ― Very few people do that."
-    ],
-    [
-     "little (a small amount)",
-     "Hablo un poco (de) inglés. ― I speak a little English."
-    ],
-    [
-     "a short time, a little while",
-     "hace poco ― a little while ago",
-     "dentro de poco ― in a little bit"
-    ]
-   ]
-  },
-  "rato": {
-   "word": "rato",
-   "shortDef": "a while, bit (a short period of time)\n1997, Roberto Bolaño, \"Henri Simon Leprince\", in Llamadas telefónicas [Last Evenings on Earth]:",
-   "g": 4,
-   "causes": [
-    "rato"
-   ],
-   "longDef": [
-    [
-     "(Noun) a while, bit (a short period of time)",
-     "Durante tres meses, en los ratos libres que le deja el periódico y su labor clandestina escribe un poema de más de seiscientos versos en donde se sumerge en el misterio y en el martirio de los poetas menores. ― (please add an English translation of this quotation)"
-    ],
-    [
-     "(Noun) time",
-     "Pasó un buen rato viendo la película. ― He/She had a good time watching the movie.",
-     "Me hizo pasar un mal rato. ― I had a terrible time because of him/her."
-    ]
-   ]
-  },
-  "encontrar": {
-   "word": "encontrar",
-   "shortDef": "to find, encounter",
-   "g": 4,
-   "causes": [
-    "encontraron",
-    "encontrado"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to meet"
-    ],
-    [
-     "(Verb) (transitive) to find, encounter, come across",
-     "Synonyms: hallar, trovar",
-     "María y Gertrudis se escondieron cerca de las flores, y los chicos las encontraron a las chicas. ― Mary and Gertrude hid themselves near the flowers, and the boys found the girls."
-    ]
-   ]
-  },
-  "unas": {
-   "word": "unas",
-   "shortDef": "some, a few",
-   "g": 4,
-   "causes": [
-    "unas"
-   ],
-   "longDef": null
-  },
-  "unir": {
-   "word": "unir",
-   "shortDef": "to connect, to unite, to join, to bind, to attach",
-   "g": 4,
-   "causes": [
-    "unas"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive or reflexive) to unite, join",
-     "¡Únete al sindicato! ― Join up with the union!"
-    ],
-    [
-     "(Verb) (transitive) to merge, conflate"
-    ]
-   ]
-  },
-  "mujer": {
-   "word": "mujer",
-   "shortDef": "woman",
-   "g": 4,
-   "causes": [
-    "mujeres"
-   ],
-   "longDef": [
-    [
-     "(Noun) woman",
-     "Antonym: hombre"
-    ],
-    [
-     "(Noun) wife",
-     "Synonym: esposa"
-    ]
-   ]
-  },
-  "una": {
-   "word": "una",
-   "shortDef": "a, an, one",
-   "g": 4,
-   "causes": [
-    "una"
-   ],
-   "longDef": [
-    [
-     "a, an",
-     "Una manzana al día mantiene al médico en lejanía. - An apple a day keeps the doctor away."
-    ],
-    [
-     "one",
-     "Sólo hay una ruta - There is only one route."
-    ]
-   ]
-  },
-  "ellas": {
-   "word": "ellas",
-   "shortDef": "they",
-   "g": 4,
-   "causes": [
-    "ellas"
-   ],
-   "longDef": [
-    [
-     "they",
-     "{pron}"
-    ]
-   ]
-  },
-  "decir": {
-   "word": "decir",
-   "shortDef": "to say, tell",
-   "g": 4,
-   "causes": [
-    "dijo",
-    "dijeron",
-    "diciendo"
-   ],
-   "longDef": [
-    [
-     "(Verb) to say, to tell",
-     "Es un mentiroso. Nunca dice la verdad. ― He's a liar. He never tells the truth.",
-     "¿Qué te dijeron? ― What did they tell you?\n1615, Miguel de Cervantes, \"Capítulo XXXII\", in El ingenioso hidalgo Don Quijote de la Mancha, Segunda parte:",
-     "Digo, señor don Quijote -dijo la duquesa-, que en todo cuanto vuestra merced dice va con pie de plomo, y, como suele decirse, con la sonda en la mano; y que yo desde aquí adelante creeré  […]  que hay Dulcinea en el Toboso,  […]  merecedora que un tal caballero como es el señor don Quijote la sirva; que es lo más que puedo ni sé encarecer. ― \"I say, Sir Don Quixote,\" said the duchess, \"that in all your mercy says, he goes with leaden feet, and as the saying goes, with sounding plummet in hand; and that I henceforth will believe,  […]  that there is a Dulcinea in El Toboso,  […]  deserving of such a knight as Sir Don Quixote in her service, which is the highest praise that I can give her.\""
-    ],
-    [
-     "(Verb) to suggest"
-    ],
-    [
-     "saying"
-    ],
-    [
-     "idle talk"
-    ]
-   ]
-  },
-  "mirar": {
-   "word": "mirar",
-   "shortDef": "to watch, look at",
-   "g": 5,
-   "causes": [
-    "miren"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to look at (to try to see, to pay attention to with one’s eyes)"
-    ],
-    [
-     "(Verb) (transitive) to watch (to look at, view, or observe for a period of time)",
-     "Estábamos mirando la televisión. ― We were watching TV."
-    ]
-   ]
-  },
-  "qué": {
-   "word": "qué",
-   "shortDef": "what (interrogative only)",
-   "g": 5,
-   "causes": [
-    "qué"
-   ],
-   "longDef": [
-    [
-     "(Pronoun) what (interrogative only)",
-     "¿Qué ves? ― What do you see?"
-    ],
-    [
-     "what; which (interrogative only)",
-     "¿Qué camisa quiere? ― Which shirt do you want?"
-    ],
-    [
-     "what; which",
-     "No sabía qué hacer ― I didn't know what to do"
-    ],
-    [
-     "(before a noun) what a; such (used as an intensifier)",
-     "¡Qué lástima! ― What a pity!",
-     "¡Qué suerte! ― What luck!",
-     "¡Qué casa más bonita! ― What a pretty house!",
-     "¡Qué mierda de tiempo! ― What shitty weather!"
-    ],
-    [
-     "(before an adjective) how (used as a modifier to indicate surprise, delight, or other strong feelings)",
-     "¡Qué feo! ― How ugly!",
-     "¡Qué alto! ― He's so tall!",
-     "¡Qué guay! ― That's so cool!"
-    ],
-    [
-     "If you are using a form of the verb ser, then unless you are asking the definition or meaning of something, you would use cuál even if in English, one would translate it as \"what\"",
-     "¿Cuál es su nombre? ― What is your name?",
-     "¿Cuál es el problema aquí? ― What is the problem here?"
-    ],
-    [
-     "If in English, the interrogative pronoun \"what\" or \"which\" is operating as an adjective preceding the modified noun, then you would use qué and not cuál even if in English you might translate it as \"which\"",
-     "¿Qué medicamentos ha tomado en el pasado, señor? ― Which medications have you taken in the past, sir?",
-     "¿Qué pobre señorita ha capturado tu corazón esta vez? ― Which poor young lady has captured your heart this time?",
-     "¿Qué color de la pintura prefieres para las paredes del baño, rosa o marrón? ― Which color of paint do you prefer for the bathroom walls, pink or brown?"
-    ]
-   ]
-  },
-  "hombre": {
-   "word": "hombre",
-   "shortDef": "man, (adult male human)",
-   "g": 5,
-   "causes": [
-    "hombres"
-   ],
-   "longDef": [
-    [
-     "(Noun) man, (adult male human)",
-     "Synonyms: caballero, señor",
-     "Antonym: mujer",
-     "Sé (un) hombre! ― Man up!"
-    ],
-    [
-     "(Noun) man, (all humans collectively); mankind, humankind",
-     "Synonym: ser humano"
-    ],
-    [
-     "man!"
-    ],
-    [
-     "hey!"
-    ]
-   ]
-  },
-  "más": {
-   "word": "más",
-   "shortDef": "more; -er (used to make comparisons)",
-   "g": 5,
-   "causes": [
-    "más"
-   ],
-   "longDef": [
-    [
-     "(Adverb) more; -er (used to make comparisons)",
-     "Teresa es más lista que su hermano. ― Teresa is more clever than her brother.",
-     "Hay más de cien personas aquí. ― There are more than a hundred people here.\n1605, Miguel de Cervantes, \"Capítulo I\", in El ingenioso hidalgo Don Quijote de la Mancha, Primera parte:",
-     "Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda ― A pot of stew of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income."
-    ],
-    [
-     "(Adverb) (with definite article) most; -est (used to make superlatives)",
-     "Teresa es la más inteligente de la clase. ― Teresa is the most intelligent in her class.",
-     "la cosa más grande ― the biggest thing"
-    ],
-    [
-     "more, any more"
-    ],
-    [
-     "most"
-    ],
-    [
-     "(mathematics) plus",
-     "uno más uno es igual a dos ― one plus one is equal to two"
-    ]
-   ]
-  },
-  "tonto": {
-   "word": "tonto",
-   "shortDef": "stupid",
-   "g": 5,
-   "causes": [
-    "tontos"
-   ],
-   "longDef": [
-    [
-     "(Adjective) stupid",
-     "Synonyms: bobo, estúpido, idiota, retrasado, subnormal, tarado"
-    ],
-    [
-     "(Adjective) silly, foolish",
-     "Synonym: bobo"
-    ],
-    [
-     "a fool, a stupid person"
-    ]
-   ]
-  },
-  "andar": {
-   "word": "andar",
-   "shortDef": "to walk",
-   "g": 6,
-   "causes": [
-    "andan",
-    "andado"
-   ],
-   "longDef": [
-    [
-     "(Verb) to walk, to go",
-     "Synonyms: caminar, ir"
-    ],
-    [
-     "(Verb) to amble, to travel"
-    ],
-    [
-     "walk, pace, gait"
-    ],
-    [
-     "behavior, manner"
-    ]
-   ]
-  },
-  "teniendo": {
-   "word": "teniendo",
-   "shortDef": "having",
-   "g": 6,
-   "causes": [
-    "teniendo"
-   ],
-   "longDef": null
-  },
-  "tan": {
-   "word": "tan",
-   "shortDef": "so, as",
-   "g": 6,
-   "causes": [
-    "tan"
-   ],
-   "longDef": [
-    [
-     "(Adverb) so, as",
-     "Eres tan rico como te sientes. ― You are as rich as you feel."
-    ],
-    [
-     "such, such a",
-     "¡Ese tipo es tan patán! ― That guy is such a jerk!"
-    ]
-   ]
-  },
-  "hermoso": {
-   "word": "hermoso",
-   "shortDef": "gorgeous, beautiful, handsome, lovely",
-   "g": 6,
-   "causes": [
-    "hermoso"
-   ],
-   "longDef": [
-    [
-     "(Adjective) gorgeous, beautiful, handsome, lovely",
-     "Synonyms: apuesto, (more common) guapo"
-    ]
-   ]
-  },
-  "burro": {
-   "word": "burro",
-   "shortDef": "donkey, especially one used as a pack animal",
-   "g": 6,
-   "causes": [
-    "burro"
-   ],
-   "longDef": [
-    [
-     "(Noun) donkey, especially one used as a pack animal",
-     "Synonyms: asno, jumento"
-    ],
-    [
-     "(Noun) (slang) a dunce, an idiot"
-    ],
-    [
-     "(colloquial) stupid, foolish"
-    ],
-    [
-     "(colloquial) brutish"
-    ]
-   ]
-  },
-  "oír": {
-   "word": "oír",
-   "shortDef": "to hear",
-   "g": 7,
-   "causes": [
-    "oyó"
-   ],
-   "longDef": [
-    [
-     "(Verb) (intransitive) to hear",
-     "¡Oiga, por favor! ― Excuse me!",
-     "(literally, \"Hear, please!\")"
-    ],
-    [
-     "(Verb) (transitive) to hear (passively perceive a sound)",
-     "Oí ruidos extraños viniendo desde detrás de la puerta y tuve miedo. ― I heard strange noises coming from behind the door and got scared."
-    ]
-   ]
-  },
-  "estas": {
-   "word": "estas",
-   "shortDef": "feminine plural of este those",
-   "g": 7,
-   "causes": [
-    "estas"
-   ],
-   "longDef": [
-    [
-     "feminine plural of este those",
-     "{adj}"
-    ],
-    [
-     "alternative spelling of éstas Those ones",
-     "{pron}"
-    ]
-   ]
-  },
-  "palabra": {
-   "word": "palabra",
-   "shortDef": "word",
-   "g": 7,
-   "causes": [
-    "palabras"
-   ],
-   "longDef": [
-    [
-     "(Noun) word",
-     "las palabras de amor ― the words of love"
-    ],
-    [
-     "(Noun) wording"
-    ]
-   ]
-  },
-  "mandar": {
-   "word": "mandar",
-   "shortDef": "to command, order",
-   "g": 7,
-   "causes": [
-    "mandó"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to send",
-     "Synonym: enviar"
-    ],
-    [
-     "(Verb) (transitive) to order",
-     "Synonym: ordenar",
-     "me mandó a disparar ― He ordered me to fire"
-    ]
-   ]
-  },
-  "montar": {
-   "word": "montar",
-   "shortDef": "to mount, to goup, toclimb, togeton, towind(awatch)",
-   "g": 7,
-   "causes": [
-    "montara",
-    "montado",
-    "montase"
-   ],
-   "longDef": [
-    [
-     "(Verb) to mount"
-    ],
-    [
-     "(Verb) to ride"
-    ]
-   ]
-  },
-  "en": {
-   "word": "en",
-   "shortDef": "in, at, on",
-   "g": 7,
-   "causes": [
-    "en"
-   ],
-   "longDef": [
-    [
-     "(Preposition) in, at, on",
-     "Estoy en casa. ― I'm at home.",
-     "Estoy sentado en la computadora. ― I'm sitting at the computer.",
-     "en esta página ― on this page",
-     "en la caja en la mesa ― in the box on the table"
-    ],
-    [
-     "(Preposition) in (a time)",
-     "en la antigüedad ― in antiquity",
-     "en 1999 ― in 1999"
-    ]
-   ]
-  },
-  "después": {
-   "word": "después",
-   "shortDef": "later, afterwards, afterward, post",
-   "g": 8,
-   "causes": [
-    "después"
-   ],
-   "longDef": [
-    [
-     "(Adverb) later, afterwards, afterward, post"
-    ],
-    [
-     "(Adverb) next"
-    ]
-   ]
-  },
-  "andado": {
-   "word": "andado",
-   "shortDef": "walked",
-   "g": 8,
-   "causes": [
-    "andado"
-   ],
-   "longDef": null
-  },
-  "tiempo": {
-   "word": "tiempo",
-   "shortDef": "(also physics) time",
-   "g": 8,
-   "causes": [
-    "tiempo"
-   ],
-   "longDef": [
-    [
-     "(Noun) (also physics) time",
-     "No tengo tiempo. ― I don't have time. / I haven't got time.\n1909, Casiodoro de Reina, Biblia Reina-Valera, Juan 7:6:",
-     "Díceles entonces Jesús: Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto. ― Then Jesus says to them: My time has not yet come; but your time is always ready."
-    ],
-    [
-     "(Noun) a while, period of time, long time, length of time, indeterminate amount of time",
-     "¿Cuánto tiempo hace que vives aquí? ― How long have you been living here?",
-     "Amiga, ha pasado demasiado tiempo. ― Friend, it's been too long.",
-     "(literally, \"Too much time has passed.\")",
-     "Hace tiempo que yo no tomaba un buen trago. ― It's been a while since I've had a good drink."
-    ]
-   ]
-  },
-  "pasar": {
-   "word": "pasar",
-   "shortDef": "to pass, to spend (time), to happen",
-   "g": 8,
-   "causes": [
-    "pasaron",
-    "pasaba"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to pass, to hand, to slip"
-    ],
-    [
-     "(Verb) (intransitive) to happen",
-     "Synonyms: ocurrir, suceder",
-     "¿qué pasa? ― what's up?",
-     "estas cosas pasan ― these things happen",
-     "Ya me ha pasado. ― It has already happened to me."
-    ]
-   ]
-  },
-  "cerca": {
-   "word": "cerca",
-   "shortDef": "close, near, around, about, nearly, nigh (referring to quantity or time-related)",
-   "g": 9,
-   "causes": [
-    "cerca"
-   ],
-   "longDef": [
-    [
-     "(Adverb) close, near, around, about, nearly, nigh (referring to quantity or time-related)"
-    ],
-    [
-     "(Adverb) close, near, around, nigh, at hand, close at hand, in sight (spatially)"
-    ],
-    [
-     "fence (a thin artificial barrier that separates two pieces of land or a house perimeter)",
-     "Synonyms: valla, verja"
-    ],
-    [
-     "stone wall",
-     "Synonym: (Mexico) barda"
-    ],
-    [
-     "inflection of cercar:\nthird-person singular present indicative\nsecond-person singular imperative"
-    ]
-   ]
-  },
-  "grupo": {
-   "word": "grupo",
-   "shortDef": "group",
-   "g": 9,
-   "causes": [
-    "grupo"
-   ],
-   "longDef": [
-    [
-     "(Noun) group"
-    ],
-    [
-     "(Noun) party, team, crew, gang, squad, (when interchangeable with \"group\")",
-     "El grupo de abordaje está listo con sus billetes en la mano. ― The boarding party is ready with their tickets in hand."
-    ]
-   ]
-  },
-  "anciano": {
-   "word": "anciano",
-   "shortDef": "an elderly person",
-   "g": 9,
-   "causes": [
-    "ancianos"
-   ],
-   "longDef": [
-    [
-     "(Noun) an elderly person",
-     "Synonyms: mayor, viejo"
-    ],
-    [
-     "(of a person) elderly",
-     "Synonyms: mayor, viejo",
-     "Antonym: joven"
-    ],
-    [
-     "(rare) ancient",
-     "Synonym: antiguo"
-    ]
-   ]
-  },
-  "se": {
-   "word": "se",
-   "shortDef": "third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
-   "g": 9,
-   "causes": [
-    "se",
-    "montase",
-    "dirigiéndose",
-    "sintióse"
-   ],
-   "longDef": [
-    [
-     "(Pronoun) third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
-     "Juan se lava. ― Juan washes himself.",
-     "Juan se lava la cara. ― Juan washes his own face. (literally, \"Juan to himself washes the face.\")",
-     "Juan y María se aman. ― Juan and María love each other."
-    ],
-    [
-     "(Pronoun) used to convey the meaning of the English passive voice in the third person and with usted and ustedes",
-     "¿Cómo se llama? ― What is your name? (literally, \"How do you call yourself?\")",
-     "Se dice que... ― It is said that... (literally, \"It says itself that...\")",
-     "Aquí se habla español ― Spanish is spoken here / They speak Spanish here. (literally, \"One speaks Spanish here, Spanish speaks itself here.\")"
-    ],
-    [
-     "Misspelling of sé."
-    ]
-   ]
-  },
-  "mofar": {
-   "word": "mofar",
-   "shortDef": "(intransitive or transitive or reflexive) taunt (to make fun of someone)",
-   "g": 9,
-   "causes": [
-    "mofaron"
-   ],
-   "longDef": [
-    [
-     "(Verb) (intransitive or transitive or reflexive) taunt (to make fun of someone)",
-     "Synonym: hacer mofa"
-    ]
-   ]
-  },
-  "acción": {
-   "word": "acción",
-   "shortDef": "action, act, deed (something done)",
-   "g": 9,
-   "causes": [
-    "acción"
-   ],
-   "longDef": [
-    [
-     "(Noun) action, act, deed (something done)",
-     "Synonym: acto"
-    ],
-    [
-     "(Noun) action (way of motion or functioning)"
-    ],
-    [
-     "action (demanding the start of something)"
-    ]
-   ]
-  },
-  "del": {
-   "word": "del",
-   "shortDef": "of the, from the (contraction: 'de' + 'el')",
-   "g": 9,
-   "causes": [
-    "del"
-   ],
-   "longDef": [
-    [
-     "(Contraction) of the, from the (+ a masculine noun in singular)."
-    ]
-   ]
-  },
-  "mozo": {
-   "word": "mozo",
-   "shortDef": "boy, lad, young man, youth",
-   "g": 9,
-   "causes": [
-    "mozo"
-   ],
-   "longDef": [
-    [
-     "(Noun) boy, lad, young man, youth"
-    ],
-    [
-     "(Noun) servant, helper, steward, manservant"
-    ],
-    [
-     "young, youthful"
-    ],
-    [
-     "unmarried"
-    ]
-   ]
-  },
-  "montado": {
-   "word": "montado",
-   "shortDef": "mounted",
-   "g": 9,
-   "causes": [
-    "montado",
-    "montados"
-   ],
-   "longDef": [
-    [
-     "(Adjective) (informal, Spain) loaded; rolling in it (rich)"
-    ],
-    [
-     "(Adjective) whipped (said of cream)"
-    ],
-    [
-     "past participle of montar"
-    ]
-   ]
-  },
-  "mientras": {
-   "word": "mientras",
-   "shortDef": "(with the indicative) while, whilst, as (at the same time as)",
-   "g": 9,
-   "causes": [
-    "mientras"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) (with the indicative) while, whilst, as (at the same time as)",
-     "Synonym: en cuanto",
-     "Quédate aquí con los chicos mientras hablo con la gerente. ― Stay here with the kids while I talk with the manager."
-    ],
-    [
-     "(Conjunction) (with the subjunctive) as long as, so long as (expressing a condition)",
-     "Synonym: con tal que",
-     "Mientras llueva, me quedaré en casa. ― As long as it rains, I'll stay at home."
-    ],
-    [
-     "meanwhile"
-    ]
-   ]
-  },
-  "entonces": {
-   "word": "entonces",
-   "shortDef": "then, next, thereupon, at that time, at that point",
-   "g": 10,
-   "causes": [
-    "entonces"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) then, next, thereupon, at that time, at that point",
-     "Desde entonces, siempre he tenido cuidado. ― Since then I've always been careful.",
-     "Entonces, el ladrón se fue. ― After that, the thief left."
-    ],
-    [
-     "(Conjunction) then, therefore, so, thus",
-     "Estaba lloviendo antes, entonces de seguro viniste con paraguas, ¿no?. ― It was raining before, so you certainly came in with an umbrella, didn't you?."
-    ]
-   ]
-  },
-  "desmontar": {
-   "word": "desmontar",
-   "shortDef": "to dismount, dismantle",
-   "g": 10,
-   "causes": [
-    "desmontara"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to dismantle, to disassemble, to demount, to take apart",
-     "Synonym: desensamblar"
-    ],
-    [
-     "(Verb) (transitive) to clear, to stub (cut a forest)"
-    ]
-   ]
-  },
-  "subir": {
-   "word": "subir",
-   "shortDef": "to go up, rise, move up, climb, raise up",
-   "g": 10,
-   "causes": [
-    "subió"
-   ],
-   "longDef": [
-    [
-     "(Verb) to go up or come up",
-     "Antonym: bajar"
-    ],
-    [
-     "(Verb) to raise",
-     "Synonym: alzar"
-    ]
-   ]
-  },
-  "él": {
-   "word": "él",
-   "shortDef": "he, him",
-   "g": 10,
-   "causes": [
-    "él"
-   ],
-   "longDef": [
-    [
-     "(Pronoun) he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions)",
-     "Él es mi hermano. ― He is my brother.",
-     "Lo hice para él. ― I did it for him."
-    ],
-    [
-     "(Pronoun) it, masculine non-personal third-person subject and disjunctive pronoun (used as a subject and after prepositions to refer to masculine nouns)",
-     "―¿Es esto un libro? ―Sí, él es. ― ―Is this a book? ―Yes, it is.",
-     "¡Mi coche! ¿Qué le pasó a él? ― My car! What happened to it?"
-    ]
-   ]
-  },
-  "sobre": {
-   "word": "sobre",
-   "shortDef": "over, above, on, upon, atop",
-   "g": 10,
-   "causes": [
-    "sobre"
-   ],
-   "longDef": [
-    [
-     "(Preposition) over, above, on, upon, atop",
-     "La pluma de mi tía está sobre la mesa. ― My aunt's pen is on the table."
-    ],
-    [
-     "(Preposition) about",
-     "Dime algo sobre ti. ― Tell me something about yourself."
-    ],
-    [
-     "envelope"
-    ],
-    [
-     "small packet; sachet"
-    ],
-    [
-     "inflection of sobrar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
-    ]
-   ]
-  },
-  "adelante": {
-   "word": "adelante",
-   "shortDef": "forward (toward the front)",
-   "g": 11,
-   "causes": [
-    "adelante"
-   ],
-   "longDef": [
-    [
-     "(Adverb) forward (toward the front)"
-    ],
-    [
-     "(Adverb) forward (into the future)"
-    ],
-    [
-     "come in"
-    ],
-    [
-     "go ahead"
-    ],
-    [
-     "inflection of adelantar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
-    ]
-   ]
-  },
-  "hallar": {
-   "word": "hallar",
-   "shortDef": "to find, to discover, tolocate",
-   "g": 11,
-   "causes": [
-    "hallaron"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to find something, deliberately or not",
-     "Synonym: encontrar, trovar (Old Spanish)",
-     "Al final sí lograron hallar dónde comprar el libro. ― In the end they did manage to find where to buy the book."
-    ],
-    [
-     "(Verb) (transitive) to strike (a balance between options)",
-     "El presidente prometió que hallaría un balance entre ambos bandos. ― The president promised to strike a balance between both groups."
-    ]
-   ]
-  },
-  "muchacho": {
-   "word": "muchacho",
-   "shortDef": "boy, servant",
-   "g": 11,
-   "causes": [
-    "muchachos"
-   ],
-   "longDef": [
-    [
-     "(Noun) boy, servant",
-     "Synonyms: chaval, chico, chino, garzón, niño, mocito, machito"
-    ]
-   ]
-  },
-  "ver": {
-   "word": "ver",
-   "shortDef": "to see",
-   "g": 11,
-   "causes": [
-    "verlos"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive, literally) to see, to spot",
-     "Vine, vi, vencí. ― I came, I saw, I conquered.",
-     "Sí, con mis propios ojos, lo vi robar el dinero. ― Yes, with my own eyes, I saw him steal the money."
-    ],
-    [
-     "(Verb) (transitive) to see, to look at, to view (perceive)",
-     "Hmm. Ya veo... ― Hmm. I see...",
-     "Tal experiencia única en la vida cambiará tu manera de ver el mundo. ― Such a once in a lifetime experience will change the way that you look at [or see or view] the world."
-    ]
-   ]
-  },
-  "los": {
-   "word": "los",
-   "shortDef": "the, them",
-   "g": 11,
-   "causes": [
-    "verlos"
-   ],
-   "longDef": [
-    [
-     "the",
-     "{art}"
-    ],
-    [
-     "Accusative form of ellos or ustedes",
-     "{pron}"
-    ],
-    [
-     "Plural masculine or neuter pronoun, e.g. los que no hablan, \"those who do not speak\"",
-     "{pron}"
-    ]
-   ]
-  },
-  "vergüenza": {
-   "word": "vergüenza",
-   "shortDef": "shame",
-   "g": 12,
-   "causes": [
-    "vergüenza"
-   ],
-   "longDef": [
-    [
-     "(Noun) shame",
-     "Synonym: acholo"
-    ],
-    [
-     "(Noun) embarrassment",
-     "Synonyms: (Latin America) pena, (Peru) palta"
-    ]
-   ]
-  },
-  "muy": {
-   "word": "muy",
-   "shortDef": "very",
-   "g": 13,
-   "causes": [
-    "muy"
-   ],
-   "longDef": [
-    [
-     "(Adverb) very",
-     "Synonyms: re-, -ísimo",
-     "Tengo un coche muy caro. ― I have a very expensive car."
-    ]
-   ]
-  },
-  "cómodo": {
-   "word": "cómodo",
-   "shortDef": "comfortable",
-   "g": 13,
-   "causes": [
-    "cómodo"
-   ],
-   "longDef": [
-    [
-     "(Adjective) comfortable",
-     "Synonym: confortable"
-    ],
-    [
-     "(Adjective) convenient",
-     "Synonym: conveniente"
-    ]
-   ]
-  },
-  "jadeante": {
-   "word": "jadeante",
-   "shortDef": "panting, gasping",
-   "g": 13,
-   "causes": [
-    "jadeante"
-   ],
-   "longDef": null
-  },
-  "cansado": {
-   "word": "cansado",
-   "shortDef": "tired, weary, wearied",
-   "g": 13,
-   "causes": [
-    "cansado"
-   ],
-   "longDef": [
-    [
-     "(Adjective) tired, weary, wearied"
-    ],
-    [
-     "(Adjective) (Spain, Central America) tiring"
-    ],
-    [
-     "past participle of cansar"
-    ]
-   ]
-  },
-  "esto": {
-   "word": "esto",
-   "shortDef": "this",
-   "g": 14,
-   "causes": [
-    "esto"
-   ],
-   "longDef": [
-    [
-     "neuter form of éste This",
-     "{pron}"
-    ]
-   ]
-  },
-  "anca": {
-   "word": "anca",
-   "shortDef": "haunch, rump",
-   "g": 14,
-   "causes": [
-    "anca"
-   ],
-   "longDef": [
-    [
-     "(Noun) haunch, rump"
-    ],
-    [
-     "(Noun) chicken leg, frog leg"
-    ]
-   ]
-  },
-  "así": {
-   "word": "así",
-   "shortDef": "like this; like that; as such; thus; so; thereby; this way, that way",
-   "g": 14,
-   "causes": [
-    "así"
-   ],
-   "longDef": [
-    [
-     "(Adverb) like this; like that; as such; thus; so; thereby; this way, that way",
-     "¡Así se hace! Lo hiciste genial. ― Way to go! You did great.",
-     "(literally, \"That's how it's done!\")",
-     "Así es la vida. ― Such is life.",
-     "Si no paras de hablar así, vas a hacerme llorar. ― If you don't stop talking like that, you're going to make me cry."
-    ],
-    [
-     "(Adverb) (followed by a subjunctive clause) used to express wishes of misfortune against someone, or to cast a spell",
-     "¡Así reciba un dolor de cabeza! ― I hope he gets a headache!",
-     "Así hubiera sobrevivido. ― I hope he survived."
-    ],
-    [
-     "inflection of asir:\nfirst-person singular preterite indicative\nsecond-person singular voseo imperative"
-    ]
-   ]
-  },
-  "dos": {
-   "word": "dos",
-   "shortDef": "two",
-   "g": 14,
-   "causes": [
-    "dos"
-   ],
-   "longDef": [
-    [
-     "(Numeral) two"
-    ],
-    [
-     "plural of do"
-    ]
-   ]
-  },
-  "seguir": {
-   "word": "seguir",
-   "shortDef": "to follow, continue",
-   "g": 14,
-   "causes": [
-    "siguieron"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to follow",
-     "¡Sígueme! ― Follow me!",
-     "Ahora siguen los postres ― Now follow the desserts."
-    ],
-    [
-     "(Verb) to continue (on); to keep, to keep on (can be combined with the gerund to indicate that someone or something continues doing something)",
-     "Este tío sigue hablando sin parar. ― This guy keeps talking nonstop.",
-     "¿Y todavía sigues sin hablarle? ― And you still don't talk to him?",
-     "¿Sigues ahí? ― Are you still there?"
-    ]
-   ]
-  },
-  "camino": {
-   "word": "camino",
-   "shortDef": "way, route",
-   "g": 14,
-   "causes": [
-    "camino"
-   ],
-   "longDef": [
-    [
-     "(Noun) way, route",
-     "Synonyms: vía, ruta"
-    ],
-    [
-     "(Noun) road",
-     "Synonym: calle"
-    ],
-    [
-     "first-person singular present indicative of caminar"
-    ]
-   ]
-  },
-  "buen": {
-   "word": "buen",
-   "shortDef": "good",
-   "g": 15,
-   "causes": [
-    "buen"
-   ],
-   "longDef": [
-    [
-     "good",
-     "Buen día. - Good day.",
-     "Buen trabajo. - Good job."
-    ]
-   ]
-  },
-  "le": {
-   "word": "le",
-   "shortDef": "To her, for her (dative form of ella)",
-   "g": 15,
-   "causes": [
-    "le",
-    "les"
-   ],
-   "longDef": [
-    [
-     "To her, for her (dative form of ella)",
-     "{pron}"
-    ],
-    [
-     "To him, for him (dative form of él)",
-     "{pron}"
-    ],
-    [
-     "To you, for you (dative form of usted, ello, lo)",
-     "{pron}"
-    ]
-   ]
-  },
-  "parecer": {
-   "word": "parecer",
-   "shortDef": "to seem, appear",
-   "g": 15,
-   "causes": [
-    "parecía"
-   ],
-   "longDef": [
-    [
-     "(Verb) (impersonal) to seem, to see fit",
-     "Me parece que... ― It seems to me that...",
-     "como mejor le parezca ― as you see fit; as one sees fit"
-    ],
-    [
-     "(Verb) (takes a reflexive pronoun) to believe"
-    ],
-    [
-     "(archaic) appearance (used generally when a person is pretty)\n(Can we date this quote?) Bible, Genesis 29.17:",
-     "Y los ojos de Lea eran tiernos, pero Rachêl era de lindo semblante y de hermoso parecer. ― Leah was tender eyed; but Rachel was beautiful and well favoured.",
-     "Synonym: apariencia"
-    ],
-    [
-     "opinion",
-     "Synonyms: opinión, idea"
-    ]
-   ]
-  },
-  "había": {
-   "word": "había",
-   "shortDef": "There was X",
-   "g": 15,
-   "causes": [
-    "había"
-   ],
-   "longDef": [
-    [
-     "There was X",
-     "{phrase}"
-    ],
-    [
-     "There were X",
-     "{phrase}"
-    ]
-   ]
-  },
-  "encontrado": {
-   "word": "encontrado",
-   "shortDef": "found",
-   "g": 15,
-   "causes": [
-    "encontrado"
-   ],
-   "longDef": [
-    [
-     "(Adjective) found"
-    ],
-    [
-     "(Adjective) facing; opposite"
-    ],
-    [
-     "past participle of encontrar"
-    ]
-   ]
-  },
-  "manera": {
-   "word": "manera",
-   "shortDef": "way; manner",
-   "g": 15,
-   "causes": [
-    "manera"
-   ],
-   "longDef": [
-    [
-     "(Noun) way; manner",
-     "Synonym: modo"
-    ]
-   ]
-  },
-  "todo": {
-   "word": "todo",
-   "shortDef": "all, every",
-   "g": 15,
-   "causes": [
-    "todo"
-   ],
-   "longDef": [
-    [
-     "(Determiner) all, every",
-     "Antonym: ningún",
-     "todos los días ― every day",
-     "Todos somos jóvenes. ― We are all young.",
-     "todo tipo de ― every type/kind/sort of; all kinds/sorts of"
-    ],
-    [
-     "(Determiner) each, every",
-     "Synonym: (more common) cada",
-     "Toda persona es un individuo. ― Every person is an individual."
-    ],
-    [
-     "everything",
-     "Antonym: nada",
-     "todo lo que dijiste ― everything that you said"
-    ]
-   ]
-  },
-  "mundo": {
-   "word": "mundo",
-   "shortDef": "world, earth (human collective existence)",
-   "g": 15,
-   "causes": [
-    "mundo"
-   ],
-   "longDef": [
-    [
-     "(Noun) world, earth (human collective existence)",
-     "El mundo cambia rápidamente. ― The world is rapidly changing.",
-     "Ella es la persona más feliz del mundo. ― She is the happiest person on earth"
-    ],
-    [
-     "(Noun) world, globe (the Earth)",
-     "Synonyms: tierra, (rare, poetic) orbe"
-    ]
-   ]
-  },
-  "cuando": {
-   "word": "cuando",
-   "shortDef": "when",
-   "g": 15,
-   "causes": [
-    "cuando"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) when",
-     "Ven cuando estés listo. ― Come when you're ready."
-    ],
-    [
-     "when"
-    ]
-   ]
-  },
-  "gritar": {
-   "word": "gritar",
-   "shortDef": "to shout, to scream, toshriek, tocryout",
-   "g": 15,
-   "causes": [
-    "gritó",
-    "gritaban"
-   ],
-   "longDef": [
-    [
-     "(Verb) to shout, to scream, to cry out, to call out"
-    ],
-    [
-     "(Verb) to jeer at"
-    ]
-   ]
-  },
-  "dirigir": {
-   "word": "dirigir",
-   "shortDef": "to direct",
-   "g": 15,
-   "causes": [
-    "dirigiéndose"
-   ],
-   "longDef": [
-    [
-     "(Verb) to direct"
-    ],
-    [
-     "(Verb) to lead, guide, conduct"
-    ]
-   ]
-  },
-  "cuál": {
-   "word": "cuál",
-   "shortDef": "(interrogative pronoun, as part of a question) what (in terms of a very specific item); which, which one",
-   "g": 16,
-   "causes": [
-    "cuál"
-   ],
-   "longDef": [
-    [
-     "(Pronoun) (interrogative pronoun, as part of a question) what (in terms of a very specific item); which, which one",
-     "¿Cuál es tu dirección? ― What is your address?"
-    ],
-    [
-     "If one is using a form of the verb ser, then unless one is asking the definition or meaning of something, one would use cuál even if in English, one would translate it as \"what\".",
-     "¿Cuál es su nombre? ― What is your name?",
-     "¿Cuál es el problema aquí? ― What is the problem here?"
-    ],
-    [
-     "If in English, the interrogative pronoun \"what\" or \"which\" is operating as an adjective preceding the modified noun, then one would use qué and not cuál even if in English it might be translated as \"which\"",
-     "¿Qué medicamentos ha tomado en el pasado, señor? ― Which medications have you taken in the past, sir?",
-     "¿Qué pobre señorita ha capturado tu corazón esta vez? ― Which poor young lady has captured your heart this time?",
-     "¿Qué color de la pintura prefieres para las paredes del baño, rosa o marrón? ― Which color of paint do you prefer for the bathroom walls, pink or brown?"
-    ]
-   ]
-  },
-  "tres": {
-   "word": "tres",
-   "shortDef": "three",
-   "g": 16,
-   "causes": [
-    "tres"
-   ],
-   "longDef": null
-  },
-  "ser": {
-   "word": "ser",
-   "shortDef": "to be (essential/permanent quality)",
-   "g": 16,
-   "causes": [
-    "es",
-    "era",
-    "sería",
-    "fueron"
-   ],
-   "longDef": [
-    [
-     "(Verb) to be (essentially or identified as)",
-     "Yo soy de los Estados Unidos. ― I am from the United States.",
-     "Errar es humano. ― To err is human.\n2007, El Sueño de Morfeo, Nada es Suficiente:",
-     "¿Qué voy a ser si te he dado lo que soy? ― What am I going to be if I've given you what I am?\n2007, El Sueño de Morfeo, Para Toda la Vida:",
-     "Si fueras una gota de agua, nadie volvería a tener sed ― If you were a drop of water, no one would thirst again"
-    ],
-    [
-     "(Verb) to be (in the passive voice sense)",
-     "La guitarra fue tocada. ― The guitar was played."
-    ],
-    [
-     "a being, organism"
-    ],
-    [
-     "nature, essence"
-    ]
-   ]
-  },
-  "sentir": {
-   "word": "sentir",
-   "shortDef": "to feel, regret",
-   "g": 17,
-   "causes": [
-    "sintióse",
-    "sentido"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to feel",
-     "Por primera vez en mi vida, yo sentí verdadera paz. ― For the first time in my life, I felt true peace.",
-     "Ella sintió a su corazón latir rápidamente. ― She felt her heart beating rapidly.",
-     "Siento que deberías que estar aquí conmigo. ― I feel that you are supposed to be here with me."
-    ],
-    [
-     "(Verb) (transitive) to regret, feel/be sorry",
-     "Synonym: lamentar",
-     "Lo siento. ― I'm sorry."
-    ],
-    [
-     "feeling; mood"
-    ],
-    [
-     "opinion\n1877, Benito Pérez Galdós, Gloria:",
-     "Un día, como Gloria, viéndole sumergido en hondos comentarios sobre la unidad religiosa impuesta a los Estados después de la unidad política, le dijese que en su sentir los reyes de España habían hecho mal en arrojar del país a los judíos y a los moros, Lantigua abrió mucho los ojos, y después de contemplarla en silencio mientras duró el breve paroxismo de su asombro, le dijo:―Eso es saber más de la cuenta. ¿Qué entiendes tú de eso? Vete a tocar el piano. ― (please add an English translation of this quotation)"
-    ]
-   ]
-  },
-  "mortificado": {
-   "word": "mortificado",
-   "shortDef": "mortified",
-   "g": 17,
-   "causes": [
-    "mortificado"
-   ],
-   "longDef": null
-  },
-  "mortificar": {
-   "word": "mortificar",
-   "shortDef": "to mortify, humiliate, wound, hurt",
-   "g": 17,
-   "causes": [
-    "mortificado"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to mortify"
-    ],
-    [
-     "(Verb) (transitive) to torment, to annoy"
-    ]
-   ]
-  },
-  "con": {
-   "word": "con",
-   "shortDef": "with",
-   "g": 17,
-   "causes": [
-    "con"
-   ],
-   "longDef": [
-    [
-     "(Preposition) with",
-     "Antonym: sin"
-    ],
-    [
-     "(Preposition) on",
-     "Yo cuento con ustedes. ― I count on you."
-    ]
-   ]
-  },
-  "esta": {
-   "word": "esta",
-   "shortDef": "alternative spelling of ésta This one",
-   "g": 17,
-   "causes": [
-    "esta"
-   ],
-   "longDef": [
-    [
-     "alternative spelling of ésta This one",
-     "{pron}"
-    ]
-   ]
-  },
-  "pregunta": {
-   "word": "pregunta",
-   "shortDef": "question (sentence that asks for information)",
-   "g": 17,
-   "causes": [
-    "pregunta"
-   ],
-   "longDef": [
-    [
-     "(Noun) question (sentence that asks for information)",
-     "Tengo una pregunta sobre el perro. ― I have a question about the dog.",
-     "hacer una pregunta ― to ask a question"
-    ],
-    [
-     "inflection of preguntar:\nthird-person singular present indicative\nsecond-person singular imperative"
-    ]
-   ]
-  },
-  "preguntar": {
-   "word": "preguntar",
-   "shortDef": "to ask, inquire",
-   "g": 17,
-   "causes": [
-    "pregunta"
-   ],
-   "longDef": [
-    [
-     "(Verb) to ask",
-     "Me preguntó por su hija. ― He asked me about his daughter.",
-     "Le preguntamos a la profesora cómo proceder. ― We asked the teacher how to proceed.\n2016 September 30, \"La salud es la clave para campaña Canó\", in Listin Diario‎[1]:",
-     "Al preguntársele lo que significaba el fijar un récord personal en jonrones esta campaña, lo primero que Canó destacó fue su trabajo durante la temporada muerta después de su operación en Filadelfia para solucionar las hernias. ― When he was asked what reaching a [new] personal homerun record this season meant, Canó first highlighted his work during the offseason after his surgery in Philadelphia to address his hernias."
-    ],
-    [
-     "(Verb) (reflexive) to wonder, to ask oneself, to ponder",
-     "Me pregunté si todo había sido un sueño. ― I wondered if everything had been a dream.",
-     "Todavía me pregunto cómo pudo pasar eso. ― I still wonder how that could happen."
-    ]
-   ]
-  },
-  "otro": {
-   "word": "otro",
-   "shortDef": "other, another",
-   "g": 17,
-   "causes": [
-    "otro"
-   ],
-   "longDef": [
-    [
-     "(Determiner) other, another",
-     "Deme otro ejemplo. ― Give me another example."
-    ],
-    [
-     "\"Not again!\" or \"What, again?\" (also Otra vez! or Otra vez?)"
-    ],
-    [
-     "someone else; another person"
-    ],
-    [
-     "something else; another one"
-    ]
-   ]
-  },
-  "explicar": {
-   "word": "explicar",
-   "shortDef": "to explain",
-   "g": 17,
-   "causes": [
-    "explicó"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to explain"
-    ],
-    [
-     "(Verb) (reflexive) to explain to oneself"
-    ]
-   ]
-  },
-  "diciendo": {
-   "word": "diciendo",
-   "shortDef": "saying",
-   "g": 17,
-   "causes": [
-    "diciendo"
-   ],
-   "longDef": null
-  },
-  "era": {
-   "word": "era",
-   "shortDef": "era",
-   "g": 17,
-   "causes": [
-    "era"
-   ],
-   "longDef": [
-    [
-     "era",
-     "{f}"
-    ],
-    [
-     "threshing floor",
-     "{f}"
-    ],
-    [
-     "tipple",
-     "{f}"
-    ]
-   ]
-  },
-  "barbaridad": {
-   "word": "barbaridad",
-   "shortDef": "barbarity",
-   "g": 17,
-   "causes": [
-    "barbaridad"
-   ],
-   "longDef": [
-    [
-     "(Noun) barbarity"
-    ],
-    [
-     "(Noun) nonsense; something ridiculous"
-    ],
-    [
-     "incredible!, unbelievable!"
-    ]
-   ]
-  },
-  "cargar": {
-   "word": "cargar",
-   "shortDef": "to load, to burden",
-   "g": 17,
-   "causes": [
-    "cargar",
-    "cargado"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to load (to put a load on or in (a means of conveyance or a place of storage))",
-     "Los estibadores se negaron a cargar el barco. ― The dock workers refused to load the ship."
-    ],
-    [
-     "(Verb) (transitive) to load (to fill (a firearm or artillery) with munition)",
-     "Apreté el gatillo, pero no pasó nada. Me había olvidado de cargar el arma. ― I pulled the trigger, but nothing happened. I had forgotten to load the gun."
-    ]
-   ]
-  },
-  "aquella": {
-   "word": "aquella",
-   "shortDef": "alternative spelling of aquélla That one",
-   "g": 17,
-   "causes": [
-    "aquella"
-   ],
-   "longDef": [
-    [
-     "alternative spelling of aquélla That one",
-     "{pron}"
-    ]
-   ]
-  },
-  "pequeño": {
-   "word": "pequeño",
-   "shortDef": "small; little",
-   "g": 17,
-   "causes": [
-    "pequeño"
-   ],
-   "longDef": [
-    [
-     "(Adjective) small; little",
-     "Synonym: chico",
-     "Tengo un gatito pequeñito. ― I have a small kitten."
-    ]
-   ]
-  },
-  "débil": {
-   "word": "débil",
-   "shortDef": "weak",
-   "g": 17,
-   "causes": [
-    "débil"
-   ],
-   "longDef": [
-    [
-     "(Adjective) weak",
-     "Synonyms: endeble, escuálido, flojo, frágil, lánguido, tenue",
-     "Antonym: fuerte"
-    ]
-   ]
-  },
-  "l": {
-   "word": "l",
-   "shortDef": "The 12th letter of the Spanish alphabet",
-   "g": 17,
-   "causes": [
-    "les"
-   ],
-   "longDef": [
-    [
-     "The 12th letter of the Spanish alphabet",
-     "{letter}"
-    ]
-   ]
-  },
-  "estar": {
-   "word": "estar",
-   "shortDef": "to be (health, location, state)",
-   "g": 17,
-   "causes": [
-    "estaba"
-   ],
-   "longDef": [
-    [
-     "(Verb) (intransitive) to be (have a temporary or permanent location in space)",
-     "¿Dónde estás? ― Where are you?",
-     "Estoy en casa. ― I am at home."
-    ],
-    [
-     "(Verb) (intransitive) to be (denotes a copula, in a transient fashion)",
-     "El tiempo estaba frío/caliente. ― The weather was cold/hot [back then].",
-     "¿Estás feliz? ― Are you happy [right now]?"
-    ]
-   ]
-  },
-  "page": {
-   "word": "page",
-   "shortDef": "page, pageboy",
-   "g": 18,
-   "causes": [
-    "page"
-   ],
-   "longDef": null
-  },
-  "mejor": {
-   "word": "mejor",
-   "shortDef": "better",
-   "g": 19,
-   "causes": [
-    "mejor"
-   ],
-   "longDef": [
-    [
-     "(Adjective) better"
-    ],
-    [
-     "(Adjective) better off"
-    ],
-    [
-     "better",
-     "Antonym: peor"
-    ]
-   ]
-  },
-  "cargado": {
-   "word": "cargado",
-   "shortDef": "loaded",
-   "g": 19,
-   "causes": [
-    "cargado",
-    "cargados"
-   ],
-   "longDef": [
-    [
-     "(Adjective) loaded"
-    ],
-    [
-     "(Adjective) charged"
-    ],
-    [
-     "past participle of cargar"
-    ]
-   ]
-  },
-  "hasta": {
-   "word": "hasta",
-   "shortDef": "until",
-   "g": 19,
-   "causes": [
-    "hasta"
-   ],
-   "longDef": [
-    [
-     "(Preposition) until"
-    ],
-    [
-     "(Preposition) up to, to the point of, as much as"
-    ],
-    [
-     "even",
-     "Synonyms: incluso, aun",
-     "Hasta yo me enteré del asunto. ― Even I heard about the matter."
-    ]
-   ]
-  },
-  "pueblo": {
-   "word": "pueblo",
-   "shortDef": "town, village",
-   "g": 19,
-   "causes": [
-    "pueblo"
-   ],
-   "longDef": [
-    [
-     "(Noun) town, village",
-     "Synonym: aldea",
-     "Coordinate term: ciudad"
-    ],
-    [
-     "(Noun) the common people, the working classes",
-     "Synonym: clase obrera"
-    ],
-    [
-     "first-person singular present indicative of poblar"
-    ]
-   ]
-  },
-  "poblar": {
-   "word": "poblar",
-   "shortDef": "to populate",
-   "g": 19,
-   "causes": [
-    "pueblo"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive, intranstive) to populate"
-    ]
-   ]
-  },
-  "próximo": {
-   "word": "próximo",
-   "shortDef": "near",
-   "g": 19,
-   "causes": [
-    "próximo"
-   ],
-   "longDef": [
-    [
-     "(Adjective) near",
-     "Synonym: cercano"
-    ],
-    [
-     "(Adjective) next",
-     "la próxima vez que usted venga ― the next time you come"
-    ]
-   ]
-  },
-  "evitar": {
-   "word": "evitar",
-   "shortDef": "to avoid",
-   "g": 19,
-   "causes": [
-    "evitar"
-   ],
-   "longDef": [
-    [
-     "(Verb) to avoid, to bypass, to evade, to circumvent, to dodge, to shun, to eschew (to steer clear of)",
-     "Synonyms: rehuir, esquivar",
-     "Después de haberlo evitado muchas horas, acabó por decirnos la verdad. ― After having avoided it for several hours, he ended up telling us the truth."
-    ],
-    [
-     "(Verb) to avoid, to prevent, to keep from, to stop from, to avert, to obviate, to deter"
-    ]
-   ]
-  },
-  "morir": {
-   "word": "morir",
-   "shortDef": "to die",
-   "g": 19,
-   "causes": [
-    "muera"
-   ],
-   "longDef": [
-    [
-     "(Verb) to die",
-     "Synonyms: estirar la pata, fallecer, morirse, palmar, petatearse",
-     "La caballerosidad no ha muerto. ― Chivalry is not dead."
-    ],
-    [
-     "(Verb) (reflexive) to die",
-     "Antonym: vivir"
-    ]
-   ]
-  },
-  "creer": {
-   "word": "creer",
-   "shortDef": "to believe",
-   "g": 20,
-   "causes": [
-    "creyó"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to believe"
-    ],
-    [
-     "(Verb) (transitive) to think, to believe, to reckon, to be of the opinion",
-     "Synonyms: pensar, opinar",
-     "Creo que es mejor así. ― I believe it's better this way."
-    ]
-   ]
-  },
-  "razonable": {
-   "word": "razonable",
-   "shortDef": "reasonable",
-   "g": 20,
-   "causes": [
-    "razonable"
-   ],
-   "longDef": null
-  },
-  "observación": {
-   "word": "observación",
-   "shortDef": "observation",
-   "g": 20,
-   "causes": [
-    "observación"
-   ],
-   "longDef": null
-  },
-  "entre": {
-   "word": "entre",
-   "shortDef": "between",
-   "g": 20,
-   "causes": [
-    "entre"
-   ],
-   "longDef": [
-    [
-     "(Preposition) between",
-     "Entre tú y yo... ― Between you and me..."
-    ],
-    [
-     "(Preposition) among, amongst, from",
-     "Los estudiantes pueden elegir entre una amplia gama de clases. ― Students may choose from a wide range of classes."
-    ],
-    [
-     "inflection of entrar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
-    ]
-   ]
-  },
-  "buscar": {
-   "word": "buscar",
-   "shortDef": "to search for, look for",
-   "g": 20,
-   "causes": [
-    "buscaron"
-   ],
-   "longDef": [
-    [
-     "(Verb) to seek, search for, look for, try to find, to scour"
-    ],
-    [
-     "(Verb) to look up (in a search engine, dictionary, etc.)"
-    ]
-   ]
-  },
-  "fuerte": {
-   "word": "fuerte",
-   "shortDef": "strong",
-   "g": 20,
-   "causes": [
-    "fuerte"
-   ],
-   "longDef": [
-    [
-     "(Adjective) strong",
-     "Antonym: débil"
-    ],
-    [
-     "(Adjective) loud",
-     "Antonym: despacio"
-    ],
-    [
-     "hard"
-    ],
-    [
-     "fort, stronghold"
-    ],
-    [
-     "strong point, forte, strength"
-    ]
-   ]
-  },
-  "palo": {
-   "word": "palo",
-   "shortDef": "stake, stick, wood",
-   "g": 20,
-   "causes": [
-    "palo"
-   ],
-   "longDef": [
-    [
-     "(Noun) stake, stick, wood",
-     "Mamá, me pegó con un palo. ― Mom, he hit me with a stick."
-    ],
-    [
-     "(Noun) (card games) suit",
-     "Las barajas suelen tener cuatro palos. ― Decks usually have four suits."
-    ]
-   ]
-  },
-  "atar": {
-   "word": "atar",
-   "shortDef": "to bind, tie",
-   "g": 20,
-   "causes": [
-    "ataron"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to tie, tie up, tie down, to tether (secure (something) by rope or the like)",
-     "Synonyms: amarrar, ligar",
-     "Antonym: desatar"
-    ],
-    [
-     "(Verb) (transitive) to constrain, limit (prevent or remove movement, leave (someone or something) without freedom of movement or ability to act)"
-    ]
-   ]
-  },
-  "tomando": {
-   "word": "tomando",
-   "shortDef": "taking",
-   "g": 20,
-   "causes": [
-    "tomando"
-   ],
-   "longDef": null
-  },
-  "tomar": {
-   "word": "tomar",
-   "shortDef": "to take, drink",
-   "g": 20,
-   "causes": [
-    "tomando"
-   ],
-   "longDef": [
-    [
-     "(Verb) to take",
-     "Los niños toman clases de inglés ― The children take English classes",
-     "Me tomó mucho tiempo ― It took me a long time",
-     "Tómalo con calma. ― Take it easy.",
-     "Me tomaron por un loco. ― They took me for a lunatic.\n2015 December, \"Cine venezolano después del 6D\", in El Nacional‎[2]:",
-     "Dependerá de cada quien tomarlas en consideración o no. ― (please add an English translation of this quotation)"
-    ],
-    [
-     "(Verb) to drink, have (especially an alcoholic beverage)",
-     "Synonym: beber",
-     "Tomo una sidra. ― I'll have a cider."
-    ]
-   ]
-  },
-  "hombro": {
-   "word": "hombro",
-   "shortDef": "(anatomy) shoulder",
-   "g": 20,
-   "causes": [
-    "hombros"
-   ],
-   "longDef": null
-  },
-  "extremidad": {
-   "word": "extremidad",
-   "shortDef": "end, extremity (most extreme point)",
-   "g": 20,
-   "causes": [
-    "extremidad"
-   ],
-   "longDef": [
-    [
-     "(Noun) end, extremity (most extreme point)"
-    ],
-    [
-     "(Noun) extremity (hand or foot)"
-    ]
-   ]
-  },
-  "otra": {
-   "word": "otra",
-   "shortDef": "feminine of otro; another, another one",
-   "g": 20,
-   "causes": [
-    "otra"
-   ],
-   "longDef": [
-    [
-     "feminine of otro; another, another one",
-     "{pron}"
-    ]
-   ]
-  },
-  "trabajosamente": {
-   "word": "trabajosamente",
-   "shortDef": "laboriously, arduously, toilsomely (requiring much work)",
-   "g": 20,
-   "causes": [
-    "trabajosamente"
-   ],
-   "longDef": [
-    [
-     "laboriously, arduously, toilsomely (requiring much work)",
-     "{adv}"
-    ]
-   ]
-  },
-  "bestia": {
-   "word": "bestia",
-   "shortDef": "beast",
-   "g": 20,
-   "causes": [
-    "bestia"
-   ],
-   "longDef": [
-    [
-     "(Noun) beast",
-     "Synonym: bicho"
-    ],
-    [
-     "(Noun) animal",
-     "Synonym: animal"
-    ]
-   ]
-  },
-  "dirección": {
-   "word": "dirección",
-   "shortDef": "direction",
-   "g": 20,
-   "causes": [
-    "dirección"
-   ],
-   "longDef": [
-    [
-     "(Noun) direction",
-     "Synonyms: sentido, rumbo"
-    ],
-    [
-     "(Noun) address",
-     "Synonyms: residencia, domicilio"
-    ]
-   ]
-  },
-  "pero": {
-   "word": "pero",
-   "shortDef": "but",
-   "g": 21,
-   "causes": [
-    "pero"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) but",
-     "Synonym: mas",
-     "Mi casa es pequeña, pero cómoda. ― My house is small, but comfortable."
-    ],
-    [
-     "(Conjunction) well well; so; well (used for emphasis)"
-    ],
-    [
-     "but (restriction)"
-    ]
-   ]
-  },
-  "fu": {
-   "word": "fu",
-   "shortDef": "An indication of disgust",
-   "g": 21,
-   "causes": [
-    "fué"
-   ],
-   "longDef": [
-    [
-     "(Interjection) An indication of disgust"
-    ],
-    [
-     "(Interjection) the hissing of a cat"
-    ]
-   ]
-  },
-  "reuniendo": {
-   "word": "reuniendo",
-   "shortDef": "gathering",
-   "g": 21,
-   "causes": [
-    "reuniendo"
-   ],
-   "longDef": null
-  },
-  "reunir": {
-   "word": "reunir",
-   "shortDef": "to gather, meet, collect",
-   "g": 21,
-   "causes": [
-    "reuniendo"
-   ],
-   "longDef": [
-    [
-     "(Verb) to gather, to collect, to bring together, to assemble,  to get together, to round up, to marshal, to compile, to put together, to pull together, to draw together, to pool"
-    ],
-    [
-     "(Verb) to satisfy, to meet, to possess (e.g. conditions, requirements, criteria, qualifications, characteristics)"
-    ]
-   ]
-  },
-  "alrededor": {
-   "word": "alrededor",
-   "shortDef": "around (from place to place)",
-   "g": 21,
-   "causes": [
-    "alrededor"
-   ],
-   "longDef": [
-    [
-     "(Adverb) around (from place to place)"
-    ],
-    [
-     "(also in the plural) surroundings",
-     "Synonyms: contorno, entorno, extrarradio"
-    ]
-   ]
-  },
-  "ellos": {
-   "word": "ellos",
-   "shortDef": "they {m}",
-   "g": 21,
-   "causes": [
-    "ellos"
-   ],
-   "longDef": [
-    [
-     "they {m}",
-     "{pron}"
-    ]
-   ]
-  },
-  "como": {
-   "word": "como",
-   "shortDef": "as (introducing a basis of comparison or equality)",
-   "g": 21,
-   "causes": [
-    "como"
-   ],
-   "longDef": [
-    [
-     "(Conjunction) as (introducing a basis of comparison or equality)",
-     "¿Tienes tanta hambre como yo? ― Are you as hungry as I am?"
-    ],
-    [
-     "(Conjunction) as, since (being that)",
-     "Synonym: ya que",
-     "Como nunca vio mi mensaje, vamos sin ella. ― Since she never saw my message, we're going without her."
-    ],
-    [
-     "as (to such an extent or degree)",
-     "No es tan alta como nosotras. ― She's not as tall as us."
-    ],
-    [
-     "like, about (approximately)",
-     "Hemos esperado como media hora. ― We've waited like half an hour."
-    ],
-    [
-     "as (in the manner or role specified)",
-     "Mis ahijados me ven como un tío. ― My godchildren see me as an uncle."
-    ],
-    [
-     "such as (for example)",
-     "Synonyms: por ejemplo, como por ejemplo",
-     "Algunos países de Asia, como Laos y Vietnam... ― Some countries in Asia, such as Laos and Vietnam..."
-    ],
-    [
-     "first-person singular present indicative of comer"
-    ]
-   ]
-  },
-  "procesión": {
-   "word": "procesión",
-   "shortDef": "procession (act of progressing or proceeding)",
-   "g": 21,
-   "causes": [
-    "procesión"
-   ],
-   "longDef": [
-    [
-     "(Noun) procession (act of progressing or proceeding)"
-    ],
-    [
-     "(Noun) procession (group of people or things moving along in an orderly manner, especially religeous)"
-    ]
-   ]
-  },
-  "gente": {
-   "word": "gente",
-   "shortDef": "people",
-   "g": 21,
-   "causes": [
-    "gentes"
-   ],
-   "longDef": null
-  },
-  "burlar": {
-   "word": "burlar",
-   "shortDef": "(transitive) to outwit, to outsmart, to circumvent, to trick, to deceive\n1998, \"Clandestino\", in Clandestino, performed by Manu Chao:",
-   "g": 21,
-   "causes": [
-    "burlaban"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to outwit, to outsmart, to circumvent, to trick, to deceive",
-     "Correr es mi destino  para burlar la ley  Perdido en el corazón  De la grande Babylon ― (please add an English translation of this quotation)"
-    ],
-    [
-     "(Verb) (transitive) to circumvent, to evade, to cheat",
-     "No puedes burlar a la muerte. ― You cannot cheat death."
-    ]
-   ]
-  },
-  "las": {
-   "word": "las",
-   "shortDef": "the",
-   "g": 21,
-   "causes": [
-    "las"
-   ],
-   "longDef": [
-    [
-     "the",
-     "{art}"
-    ],
-    [
-     "Accusative of ellas",
-     "{pron}"
-    ],
-    [
-     "feminine plural pronoun",
-     "{pron}"
-    ]
-   ]
-  },
-  "persona": {
-   "word": "persona",
-   "shortDef": "person (an individual; usually a human being)",
-   "g": 21,
-   "causes": [
-    "personas"
-   ],
-   "longDef": [
-    [
-     "(Noun) person (an individual; usually a human being)",
-     "Synonym: individuo"
-    ],
-    [
-     "only used in se persona, third-person singular present indicative of personarse"
-    ],
-    [
-     "only used in te ... persona, syntactic variant of persónate, second-person singular imperative of personarse"
-    ]
-   ]
-  },
-  "llevando": {
-   "word": "llevando",
-   "shortDef": "carrying",
-   "g": 21,
-   "causes": [
-    "llevando"
-   ],
-   "longDef": null
-  },
-  "cuesta": {
-   "word": "cuesta",
-   "shortDef": "slope (acclivity or declivity)",
-   "g": 21,
-   "causes": [
-    "cuestas"
-   ],
-   "longDef": [
-    [
-     "slope (acclivity or declivity)",
-     "{f}"
-    ]
-   ]
-  },
-  "costar": {
-   "word": "costar",
-   "shortDef": "to cost",
-   "g": 21,
-   "causes": [
-    "cuestas"
-   ],
-   "longDef": [
-    [
-     "(Verb) to cost"
-    ],
-    [
-     "(Verb) to find something very difficult, to have a hard time with something (the subject and object roles are inverted relative to the English phrasing, like with gustar)",
-     "Cuando estoy de pie, me cuesta respirar. ― When I'm standing, I find it hard to breathe.",
-     "Le cuesta mucho pronunciar esa palabra. ― He has a really hard time pronouncing that word."
-    ]
-   ]
-  },
-  "revés": {
-   "word": "revés",
-   "shortDef": "back, reverse side",
-   "g": 22,
-   "causes": [
-    "revés"
-   ],
-   "longDef": [
-    [
-     "(Noun) back, reverse side"
-    ],
-    [
-     "(Noun) setback",
-     "Synonym: retroceso"
-    ],
-    [
-     "inflection of rever:\nsecond-person singular present indicative\nsecond-person singular voseo present indicative"
-    ]
-   ]
-  },
-  "tono": {
-   "word": "tono",
-   "shortDef": "tone",
-   "g": 23,
-   "causes": [
-    "tono"
-   ],
-   "longDef": null
-  },
-  "mofa": {
-   "word": "mofa",
-   "shortDef": "taunt, joke",
-   "g": 23,
-   "causes": [
-    "mofa"
-   ],
-   "longDef": [
-    [
-     "taunt, joke",
-     "{f}"
-    ]
-   ]
-  },
-  "por": {
-   "word": "por",
-   "shortDef": "for, by, through",
-   "g": 24,
-   "causes": [
-    "por"
-   ],
-   "longDef": [
-    [
-     "for",
-     "Lo hice por ti. - I did it for you."
-    ],
-    [
-     "by",
-     "Escrito por Juan. - Written by Juan."
-    ],
-    [
-     "through",
-     "Entra por la puerta principal. - Enter through the main door."
-    ]
-   ]
-  },
-  "fin": {
-   "word": "fin",
-   "shortDef": "(sometimes feminine) end",
-   "g": 24,
-   "causes": [
-    "fin"
-   ],
-   "longDef": [
-    [
-     "(Noun) (sometimes feminine) end",
-     "el fin de semana ― the weekend"
-    ],
-    [
-     "(Noun) purpose, aim, objective, goal",
-     "con este fin ― for that to happen; to that end"
-    ]
-   ]
-  },
-  "puente": {
-   "word": "puente",
-   "shortDef": "bridge (construction spanning a waterway, ravine, or valley from an elevated height)",
-   "g": 24,
-   "causes": [
-    "puente"
-   ],
-   "longDef": [
-    [
-     "(Noun) bridge (construction spanning a waterway, ravine, or valley from an elevated height)",
-     "Synonym: (El Salvador) bóveda"
-    ],
-    [
-     "(Noun) long weekend; a day which falls between two work-free days (holidays or weekend days), on which leave is preferred",
-     "Synonym: (Chile) sándwich"
-    ]
-   ]
-  },
-  "esfuerzo": {
-   "word": "esfuerzo",
-   "shortDef": "effort, endeavor",
-   "g": 24,
-   "causes": [
-    "esfuerzo"
-   ],
-   "longDef": [
-    [
-     "(Noun) effort, endeavor",
-     "Synonym: empeño"
-    ],
-    [
-     "first-person singular present indicative of esforzar"
-    ]
-   ]
-  },
-  "esforzar": {
-   "word": "esforzar",
-   "shortDef": "to strengthen, encourage",
-   "g": 24,
-   "causes": [
-    "esfuerzo"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to encourage"
-    ],
-    [
-     "(Verb) (transitive) to strain, struggle"
-    ]
-   ]
-  },
-  "recobrar": {
-   "word": "recobrar",
-   "shortDef": "to recover, regain, get back",
-   "g": 24,
-   "causes": [
-    "recobrar"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to recover, regain"
-    ],
-    [
-     "(Verb) (reflexive) to recuperate",
-     "Synonym: recuperar"
-    ]
-   ]
-  },
-  "libertad": {
-   "word": "libertad",
-   "shortDef": "liberty, freedom",
-   "g": 24,
-   "causes": [
-    "libertad"
-   ],
-   "longDef": [
-    [
-     "(Noun) liberty, freedom"
-    ],
-    [
-     "(Noun) latitude, leeway",
-     "Synonym: margen"
-    ],
-    [
-     "second-person plural imperative of libertar"
-    ]
-   ]
-  },
-  "libertar": {
-   "word": "libertar",
-   "shortDef": "to liberate, free, release",
-   "g": 24,
-   "causes": [
-    "libertad"
-   ],
-   "longDef": [
-    [
-     "(Verb) to liberate, set free"
-    ]
-   ]
-  },
-  "asustado": {
-   "word": "asustado",
-   "shortDef": "afraid",
-   "g": 24,
-   "causes": [
-    "asustado"
-   ],
-   "longDef": [
-    [
-     "(Adjective) scared",
-     "Synonyms: aterrado, temeroso"
-    ],
-    [
-     "past participle of asustar"
-    ]
-   ]
-  },
-  "asustar": {
-   "word": "asustar",
-   "shortDef": "to scare, frighten",
-   "g": 24,
-   "causes": [
-    "asustado"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to scare, to frighten, to spook",
-     "Synonyms: see Thesaurus:asustar"
-    ],
-    [
-     "(Verb) (transitive) to freak out (somebody), to creep out"
-    ]
-   ]
-  },
-  "tanto": {
-   "word": "tanto",
-   "shortDef": "so much, long, hard, often, etc.",
-   "g": 24,
-   "causes": [
-    "tanto"
-   ],
-   "longDef": [
-    [
-     "(Adverb) so much, long, hard, often, etc.",
-     "Te amo tanto. ― I love you so much.",
-     "De tanto hacerlo, se me irrita. ― It gets irritating because I do it so much/so often."
-    ],
-    [
-     "(Adverb) (un tanto) somewhat, to a certain extent",
-     "La Teoría de la Relatividad era aún considerada un tanto controvertida. ― The Theory of Relativity was still considered somewhat controversial."
-    ],
-    [
-     "so much, as much, that much"
-    ],
-    [
-     "(in the plural) so many, as many, that many"
-    ],
-    [
-     "copy",
-     "Synonym: copia"
-    ],
-    [
-     "poker chip, counter",
-     "Synonym: ficha"
-    ],
-    [
-     "so much, so many"
-    ]
-   ]
-  },
-  "alboroto": {
-   "word": "alboroto",
-   "shortDef": "fuss, commotion, ruckus, hubbub, brouhaha, ado, uproar, tumult, riot, bustle, din, rumpus, fracas, rowdiness\n1870, Vicente Fidel López, La novia del hereje o la Inquisición de Lima:",
-   "g": 24,
-   "causes": [
-    "alboroto"
-   ],
-   "longDef": [
-    [
-     "(Noun) fuss, commotion, ruckus, hubbub, brouhaha, ado, uproar, tumult, riot, bustle, din, rumpus, fracas, rowdiness",
-     "Óyese de repente un terrible alboroto de gritos desesperados y alarmantes en la plaza. El tumulto se hacía por momentos más grueso y aterrante; y entre las voces que el estruendo de la multitud dejaba percibir, se dejaban de cuando en cuando oír estas palabras: -¡Un chasqui! -¡Arequipa! -¡Los Herejes! -¡Francisco! y se veía un agitado pelotón de hombres blancos y negros, y niños que empujándose en masa unos a otros rodaban por la plaza hacia la casa o palacio del Virrey. ― (please add an English translation of this quotation)\n2016 November 1, \"Unas setenta personas se amotinan en el CIE de la Zona Franca\", in El Periódico‎[1]:",
-     "A las 22:30 horas, desde el exterior no se percibía ningún tipo de alboroto, aunque sí se han visto tres furgonetas de antidisturbios -con agentes vestidos con uniforme antitrauma y escudos- acceder al interior del recinto. ― At 10.30 pm., no sign of commotion was perceived from the outside, although anti-riot vans have been seen - with agents in safety uniform and shields - accessing the interior of the precinct."
-    ],
-    [
-     "(Noun) disturbance, racket, mayhem"
-    ],
-    [
-     "first-person singular present indicative of alborotar"
-    ]
-   ]
-  },
-  "alborotar": {
-   "word": "alborotar",
-   "shortDef": "to stir up, arouse, incite",
-   "g": 24,
-   "causes": [
-    "alboroto"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to stir up, agitate",
-     "Synonym: (Colombia) embullar\n1888, José María de Pereda, La Montálvez:",
-     "[…] un huésped desconocido que se mete a las dos de la mañana en casa de su prójimo, robándole el sueño y alborotándole el hogar […] ―  […] an unknown guest who comes back home at two in the morning, keeping him awake and stirring up his home […] "
-    ],
-    [
-     "(Verb) (transitive) to disturb, tease (provoke or disturb)",
-     "Synonym: provocar\n1887, Emilia Pardo Bazán, La madre Naturaleza:",
-     "¡Mecachis en los que vienen ahí a alborotar a la gente! ― A pox on those who came here to disturb the people!"
-    ]
-   ]
-  },
-  "caer": {
-   "word": "caer",
-   "shortDef": "to fall",
-   "g": 24,
-   "causes": [
-    "cayó"
-   ],
-   "longDef": [
-    [
-     "(Verb) (intransitive, reflexive) to fall (to move to a lower position due to gravity)"
-    ],
-    [
-     "(Verb) (intransitive) to fall (to come down, to drop, to descend)",
-     "La lluvia cae más fuerte que antes. ― The rain is falling heavier than before."
-    ]
-   ]
-  },
-  "agua": {
-   "word": "agua",
-   "shortDef": "water",
-   "g": 24,
-   "causes": [
-    "agua"
-   ],
-   "longDef": [
-    [
-     "(Noun) water",
-     "Quiere un vaso de agua fresca. ― He wants a glass of cold water."
-    ],
-    [
-     "(Noun) body of water",
-     "Synonym: cuerpo de agua"
-    ],
-    [
-     "inflection of aguar:\nthird-person singular present indicative\nsecond-person singular imperative"
-    ]
-   ]
-  },
-  "ahogar": {
-   "word": "ahogar",
-   "shortDef": "to drown, choke, smother, stifle, suffocate",
-   "g": 24,
-   "causes": [
-    "ahogó"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive) to drown (kill by immersion in water)"
-    ],
-    [
-     "(Verb) (transitive) to stifle"
-    ]
-   ]
-  },
-  "querer": {
-   "word": "querer",
-   "shortDef": "to want, love",
-   "g": 25,
-   "causes": [
-    "querer"
-   ],
-   "longDef": [
-    [
-     "(Verb) to desire, to want, to want to",
-     "Yo quiero leer ese libro. ― I want to read that book."
-    ],
-    [
-     "(Verb) to love; to be fond of",
-     "Te quiero. ― I love you.",
-     "Ese hombre quiere a su país y moriría por él sin vacilar. ― That man loves his country and would die for it without hesitation."
-    ],
-    [
-     "love; affection; fondness",
-     "Synonyms: amor, cariño"
-    ]
-   ]
-  },
-  "complacer": {
-   "word": "complacer",
-   "shortDef": "to please",
-   "g": 25,
-   "causes": [
-    "complacer"
-   ],
-   "longDef": [
-    [
-     "(Verb) to please"
-    ],
-    [
-     "(Verb) to satisfy"
-    ],
-    [
-     "concession"
-    ]
-   ]
-  },
-  "perder": {
-   "word": "perder",
-   "shortDef": "to lose",
-   "g": 25,
-   "causes": [
-    "perdió"
-   ],
-   "longDef": [
-    [
-     "(Verb) to lose"
-    ],
-    [
-     "(Verb) to miss, to miss out",
-     "No quiero perderme nada. ― I don't want to miss anything."
-    ]
-   ]
-  },
-  "pobre": {
-   "word": "pobre",
-   "shortDef": "(before the noun) poor (pitiable, pitiful)",
-   "g": 25,
-   "causes": [
-    "pobre"
-   ],
-   "longDef": [
-    [
-     "(Adjective) (before the noun) poor (pitiable, pitiful)",
-     "Mi pobre vecino siempre está llorando. ― My poor neighbor is always crying.\n2013, El sueño el Morfeo, Vuelve (a donde has venido):",
-     "El pasado ya es pasado, no tienes que pedir perdón. Solo déjanos tranquilos a mí y a mi pobre corazón. ― The past is the past, you don't have to ask forgiveness. Just leave us alone, me and my poor heart."
-    ],
-    [
-     "(Adjective) (after the noun) poor (lacking money, resources, etc.)",
-     "Se relajan las familias ricas en casas lujosas y las familias pobres tiran en chozas desmoronadas. ― The rich families relax in luxurious houses and the poor families get by in dilapidated huts."
-    ]
-   ]
-  },
-  "bueno": {
-   "word": "bueno",
-   "shortDef": "good",
-   "g": 26,
-   "causes": [
-    "bueno"
-   ],
-   "longDef": [
-    [
-     "(Adjective) good",
-     "Antonym: malo",
-     "Que tengas una buena noche. ― Have a good night.",
-     "Que tengas un buen viaje. ― Have a good trip."
-    ],
-    [
-     "(Adjective) fine",
-     "Synonym: fino"
-    ],
-    [
-     "okay; fine",
-     "Synonyms: vale, de acuerdo, está bien"
-    ],
-    [
-     "(used at the start of a phrase) well; a short pause in a sentence",
-     "Bueno, pues, mira. ― Well, then, look."
-    ]
-   ]
-  },
-  "complaciente": {
-   "word": "complaciente",
-   "shortDef": "complaisant (willing to do what pleases others)",
-   "g": 26,
-   "causes": [
-    "complaciente"
-   ],
-   "longDef": null
-  },
-  "sin": {
-   "word": "sin",
-   "shortDef": "without",
-   "g": 26,
-   "causes": [
-    "sin"
-   ],
-   "longDef": [
-    [
-     "(Preposition) without",
-     "Antonym: con"
-    ]
-   ]
-  },
-  "renunciar": {
-   "word": "renunciar",
-   "shortDef": "to renounce",
-   "g": 26,
-   "causes": [
-    "renunciar"
-   ],
-   "longDef": [
-    [
-     "(Verb) to renounce",
-     "Hija de mi corazón, mientras no te sometas por entero, no tendrás paz; mientras no renuncies a ese perverso juicio de las determinaciones superiores, no alcanzará tu espíritu sencillez ni pureza, ni la humildad que ha de acercarte a Dios. ― (please add an English translation of this quotation)"
-    ],
-    [
-     "(Verb) (intransitive) to quit, to resign",
-     "renunciar a su trabajo ― resign from one's job",
-     "renunciar a su cargo ― resign from one's post"
-    ]
-   ]
-  },
-  "sentido": {
-   "word": "sentido",
-   "shortDef": "felt",
-   "g": 26,
-   "causes": [
-    "sentido"
-   ],
-   "longDef": [
-    [
-     "(Noun) sense (faculties of perception)",
-     "Los cinco sentidos tradicionales son la vista, el tacto, el oído, el gusto y el olfacto. ― The traditional five senses are sight, touch, hearing, taste and smell.",
-     "Los humanos también tienen un sexto sentido llamado la \"propriocepción\" que tiene que ver con la consciencia de la posición del propio cuerpo. ― Humans also have a sixth sense called \"proprioception\", which has to do with awareness of the position of one's body."
-    ],
-    [
-     "(Noun) sense, way (manner)",
-     "Lo dije en un buen sentido. ― I meant it in a good way."
-    ],
-    [
-     "deeply felt, heartfelt"
-    ],
-    [
-     "past participle of sentir"
-    ]
-   ]
-  },
-  "común": {
-   "word": "común",
-   "shortDef": "common, ordinary",
-   "g": 26,
-   "causes": [
-    "común"
-   ],
-   "longDef": [
-    [
-     "(Adjective) common, ordinary",
-     "Synonym: ordinario"
-    ],
-    [
-     "(Adjective) common, joint",
-     "Synonym: conjunto"
-    ],
-    [
-     "all of the people or inhabitants of a city, town"
-    ],
-    [
-     "community",
-     "Synonym: comunidad"
-    ]
    ]
   }
- },
- "title": "EL VIEJO Y EL ASNO ",
- "genders": {
-  "viejo": {
-   "q": "me",
-   "g": 0
-  },
-  "asno": {
-   "q": "me",
-   "g": 0
-  },
-  "gusto": {
-   "q": "me",
-   "g": 1
-  },
-  "hijo": {
-   "q": "me",
-   "g": 2
-  },
-  "mercado": {
-   "q": "me",
-   "g": 2
-  },
-  "padre": {
-   "q": "me",
-   "g": 3
-  },
-  "pie": {
-   "q": "me",
-   "g": 3
-  },
-  "animal": {
-   "q": "me",
-   "g": 3
-  },
-  "feria": {
-   "q": "fl",
-   "g": 3
-  },
-  "rato": {
-   "q": "me",
-   "g": 4
-  },
-  "mujer": {
-   "q": "fl",
-   "g": 4
-  },
-  "hombre": {
-   "q": "me",
-   "g": 5
-  },
-  "burro": {
-   "q": "me",
-   "g": 6
-  },
-  "palabra": {
-   "q": "fl",
-   "g": 7
-  },
-  "tiempo": {
-   "q": "me",
-   "g": 8
-  },
-  "grupo": {
-   "q": "me",
-   "g": 9
-  },
-  "anciano": {
-   "q": "me",
-   "g": 9
-  },
-  "acción": {
-   "q": "fl",
-   "g": 9
-  },
-  "mozo": {
-   "q": "me",
-   "g": 9
-  },
-  "sobre": {
-   "q": [
-    [
-     "me",
-     "sack, envelope"
-    ]
-   ],
-   "g": 10
-  },
-  "muchacho": {
-   "q": "me",
-   "g": 11
-  },
-  "vergüenza": {
-   "q": "fl",
-   "g": 12
-  },
-  "camino": {
-   "q": "me",
-   "g": 14
-  },
-  "manera": {
-   "q": "fl",
-   "g": 15
-  },
-  "mundo": {
-   "q": "me",
-   "g": 15
-  },
-  "ser": {
-   "q": "me",
-   "g": 16
-  },
-  "pregunta": {
-   "q": "fl",
-   "g": 17
-  },
-  "barbaridad": {
-   "q": "fl",
-   "g": 17
-  },
-  "pueblo": {
-   "q": "me",
-   "g": 19
-  },
-  "observación": {
-   "q": "fl",
-   "g": 20
-  },
-  "palo": {
-   "q": "me",
-   "g": 20
-  },
-  "hombro": {
-   "q": "me",
-   "g": 20
-  },
-  "extremidad": {
-   "q": "fl",
-   "g": 20
-  },
-  "bestia": {
-   "q": "fl",
-   "g": 20
-  },
-  "dirección": {
-   "q": "fl",
-   "g": 20
-  },
-  "alrededor": {
-   "q": "me",
-   "g": 21
-  },
-  "procesión": {
-   "q": "fl",
-   "g": 21
-  },
-  "gente": {
-   "q": "fl",
-   "g": 21
-  },
-  "persona": {
-   "q": "fl",
-   "g": 21
-  },
-  "tono": {
-   "q": "me",
-   "g": 23
-  },
-  "fin": {
-   "q": "me",
-   "g": 24
-  },
-  "puente": {
-   "q": "me",
-   "g": 24
-  },
-  "esfuerzo": {
-   "q": "me",
-   "g": 24
-  },
-  "libertad": {
-   "q": "fl",
-   "g": 24
-  },
-  "alboroto": {
-   "q": "me",
-   "g": 24
-  },
-  "agua": {
-   "q": "fe",
-   "g": 24
-  },
-  "sentido": {
-   "q": "me",
-   "g": 26
-  }
- },
- "conjs": {
-  "tiene": {
-   "g": 1,
-   "c": [
-    "002",
-    "tener"
-   ]
-  },
-  "ha": {
-   "g": 1,
-   "c": [
-    "002",
-    "haber"
-   ]
-  },
-  "gusto": {
-   "g": 1,
-   "c": [
-    "000",
-    "gustar"
-   ]
-  },
-  "llevaban": {
-   "g": 2,
-   "c": [
-    "025",
-    "llevar"
-   ]
-  },
-  "iban": {
-   "g": 3,
-   "c": [
-    "025",
-    "ir"
-   ]
-  },
-  "llegara": {
-   "g": 3,
-   "c": [
-    "110",
-    "llegar",
-    "112",
-    "llegar"
-   ]
-  },
-  "fatigado": {
-   "g": 3,
-   "c": [
-    "7",
-    "fatigar"
-   ]
-  },
-  "encontraron": {
-   "g": 4,
-   "c": [
-    "015",
-    "encontrar"
-   ]
-  },
-  "unas": {
-   "g": 4,
-   "c": [
-    "101",
-    "unir",
-    "211",
-    "unir"
-   ]
-  },
-  "dijo": {
-   "g": 4,
-   "c": [
-    "012",
-    "decir"
-   ]
-  },
-  "miren": {
-   "g": 5,
-   "c": [
-    "105",
-    "mirar",
-    "205",
-    "mirar",
-    "215",
-    "mirar"
-   ]
-  },
-  "andan": {
-   "g": 6,
-   "c": [
-    "005",
-    "andar"
-   ]
-  },
-  "teniendo": {
-   "g": 6,
-   "c": [
-    "6",
-    "tener"
-   ]
-  },
-  "oyó": {
-   "g": 7,
-   "c": [
-    "012",
-    "oír"
-   ]
-  },
-  "mandó": {
-   "g": 7,
-   "c": [
-    "012",
-    "mandar"
-   ]
-  },
-  "montara": {
-   "g": 7,
-   "c": [
-    "110",
-    "montar",
-    "112",
-    "montar"
-   ]
-  },
-  "andado": {
-   "g": 8,
-   "c": [
-    "7",
-    "andar"
-   ]
-  },
-  "pasaron": {
-   "g": 8,
-   "c": [
-    "015",
-    "pasar"
-   ]
-  },
-  "iba": {
-   "g": 9,
-   "c": [
-    "020",
-    "ir",
-    "022",
-    "ir"
-   ]
-  },
-  "montado": {
-   "g": 9,
-   "c": [
-    "7",
-    "montar"
-   ]
-  },
-  "hizo": {
-   "g": 10,
-   "c": [
-    "012",
-    "hacer"
-   ]
-  },
-  "desmontara": {
-   "g": 10,
-   "c": [
-    "110",
-    "desmontar",
-    "112",
-    "desmontar"
-   ]
-  },
-  "subió": {
-   "g": 10,
-   "c": [
-    "012",
-    "subir"
-   ]
-  },
-  "hallaron": {
-   "g": 11,
-   "c": [
-    "015",
-    "hallar"
-   ]
-  },
-  "dijeron": {
-   "g": 11,
-   "c": [
-    "015",
-    "decir"
-   ]
-  },
-  "va": {
-   "g": 13,
-   "c": [
-    "002",
-    "ir"
-   ]
-  },
-  "siguieron": {
-   "g": 14,
-   "c": [
-    "015",
-    "seguir"
-   ]
-  },
-  "parecía": {
-   "g": 15,
-   "c": [
-    "020",
-    "parecer",
-    "022",
-    "parecer"
-   ]
-  },
-  "había": {
-   "g": 15,
-   "c": [
-    "020",
-    "haber",
-    "022",
-    "haber"
-   ]
-  },
-  "encontrado": {
-   "g": 15,
-   "c": [
-    "7",
-    "encontrar"
-   ]
-  },
-  "pasaba": {
-   "g": 15,
-   "c": [
-    "020",
-    "pasar",
-    "022",
-    "pasar"
-   ]
-  },
-  "gritó": {
-   "g": 15,
-   "c": [
-    "012",
-    "gritar"
-   ]
-  },
-  "es": {
-   "g": 16,
-   "c": [
-    "002",
-    "ser"
-   ]
-  },
-  "mortificado": {
-   "g": 17,
-   "c": [
-    "7",
-    "mortificar"
-   ]
-  },
-  "pregunta": {
-   "g": 17,
-   "c": [
-    "002",
-    "preguntar",
-    "201",
-    "preguntar"
-   ]
-  },
-  "explicó": {
-   "g": 17,
-   "c": [
-    "012",
-    "explicar"
-   ]
-  },
-  "diciendo": {
-   "g": 17,
-   "c": [
-    "6",
-    "decir"
-   ]
-  },
-  "era": {
-   "g": 17,
-   "c": [
-    "020",
-    "ser",
-    "022",
-    "ser"
-   ]
-  },
-  "estaba": {
-   "g": 17,
-   "c": [
-    "020",
-    "estar",
-    "022",
-    "estar"
-   ]
-  },
-  "sería": {
-   "g": 19,
-   "c": [
-    "040",
-    "ser",
-    "042",
-    "ser"
-   ]
-  },
-  "cargado": {
-   "g": 19,
-   "c": [
-    "7",
-    "cargar"
-   ]
-  },
-  "pueblo": {
-   "g": 19,
-   "c": [
-    "000",
-    "poblar"
-   ]
-  },
-  "muera": {
-   "g": 19,
-   "c": [
-    "100",
-    "morir",
-    "102",
-    "morir",
-    "202",
-    "morir",
-    "212",
-    "morir"
-   ]
-  },
-  "creyó": {
-   "g": 20,
-   "c": [
-    "012",
-    "creer"
-   ]
-  },
-  "buscaron": {
-   "g": 20,
-   "c": [
-    "015",
-    "buscar"
-   ]
-  },
-  "ataron": {
-   "g": 20,
-   "c": [
-    "015",
-    "atar"
-   ]
-  },
-  "tomando": {
-   "g": 20,
-   "c": [
-    "6",
-    "tomar"
-   ]
-  },
-  "fueron": {
-   "g": 20,
-   "c": [
-    "015",
-    "ir",
-    "015",
-    "ser"
-   ]
-  },
-  "reuniendo": {
-   "g": 21,
-   "c": [
-    "6",
-    "reunir"
-   ]
-  },
-  "llevando": {
-   "g": 21,
-   "c": [
-    "6",
-    "llevar"
-   ]
-  },
-  "cuestas": {
-   "g": 21,
-   "c": [
-    "001",
-    "costar"
-   ]
-  },
-  "gritaban": {
-   "g": 23,
-   "c": [
-    "025",
-    "gritar"
-   ]
-  },
-  "esfuerzo": {
-   "g": 24,
-   "c": [
-    "000",
-    "esforzar"
-   ]
-  },
-  "libertad": {
-   "g": 24,
-   "c": [
-    "204",
-    "libertar"
-   ]
-  },
-  "asustado": {
-   "g": 24,
-   "c": [
-    "7",
-    "asustar"
-   ]
-  },
-  "alboroto": {
-   "g": 24,
-   "c": [
-    "000",
-    "alborotar"
-   ]
-  },
-  "cayó": {
-   "g": 24,
-   "c": [
-    "012",
-    "caer"
-   ]
-  },
-  "ahogó": {
-   "g": 24,
-   "c": [
-    "012",
-    "ahogar"
-   ]
-  },
-  "perdió": {
-   "g": 25,
-   "c": [
-    "012",
-    "perder"
-   ]
-  },
-  "sentido": {
-   "g": 26,
-   "c": [
-    "7",
-    "sentir"
-   ]
-  }
- }
+ ]
 }
