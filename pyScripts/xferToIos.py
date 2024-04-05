@@ -3,6 +3,8 @@ import json
 
 def makeAssets(info):
     inlineJSONS = {
+        "adj_multiple.json": "optsAdj",
+        "determiner_multiple.json": "optsDeterminer",
         "es_to_en_wiki.json": "wiki",
         "myShortDefs.json": "myShortDefs",
         "myLongDefs.json": "myLongDefs",
