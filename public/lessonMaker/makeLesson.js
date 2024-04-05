@@ -27,6 +27,7 @@ function makeLesson(textStr, title) {
     getAllDefs(lesson)
     getAllGenders(lesson)
     addQuiz4Conj(lesson)
+    optionalForms(lesson)
     return lesson
 }
 
