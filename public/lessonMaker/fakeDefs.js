@@ -71,4 +71,36 @@ function getFakeDefs(lesson) {
             }
         }
     }
+
+    const fakeDefN = 30
+    const fakeNonInfDefN = 20
+    for (let i = 0; i < 125 && lesson.fakeDefs.length + lesson.fakeInfDefs.length < fakeDefN; i++) {
+        const keys = lesson.fakeDefs.length < fakeNonInfDefN ? A.manuelDictKeys : A.master5DictKeys
+        const dicto = lesson.fakeDefs.length < fakeNonInfDefN ? A.manuelDict : A.master5Dict
+        const targetArr = lesson.fakeDefs.length < fakeNonInfDefN ? lesson.fakeDefs : lesson.fakeInfDefs
+        const randI = Math.floor(Math.random() * keys.length)
+        const randWord = keys[randI]
+        let randDef = ""
+        if (lesson.fakeDefs.length < fakeNonInfDefN) {
+            if (dicto[randWord].length == 0) continue 
+            if (typeof dicto[randWord][0] != "string") continue
+            randDef = dicto[randWord][0]
+        } else {
+            if (dicto[randWord].definitions.length == 0) continue
+            if (typeof dicto[randWord].definitions[0] != "string") continue
+            randDef = dicto[randWord].definitions[0]
+        }
+        if (2 >= randDef.length || randDef.length >= 28) continue
+        if (lesson.defInfo.hasOwnProperty(randWord)) { continue }
+        let isAConflict = false
+        for (const definedWord in lesson.defInfo) {
+            isAConflict = isAConflict || wordsConflict(lesson, definedWord, randWord)
+            isAConflict = isAConflict || randDef == lesson.defInfo[definedWord].shortDef
+        }
+        if (isAConflict) { continue }
+        targetArr.push([
+            randWord,
+            randDef
+        ])
+    }
 }

@@ -16,7 +16,9 @@ const A = {
     freqInfo: null,
     myFreqInfo: null,
     manuelDict: null,
+    manuelDictKeys: null,
     master5Dict: null,
+    master5DictKeys: null,
     commonParticiplesArr: null,
     commonParticiplesDict: {},
 }
@@ -166,6 +168,8 @@ function prepareAssets() {
     init_nonBreakingPrefixes(assets["txt/esSplitterInfo.txt"])
 
     prepareIrregularPastParticiples() 
+    A.manuelDictKeys = Object.keys(A.manuelDict)
+    A.master5DictKeys = Object.keys(A.master5Dict)
 
     console.log("assets prepped: " + (performance.now() - start))
 }

@@ -9,6 +9,7 @@ function makeLesson(textStr, title) {
         genders: {},
         conjs: {},
         fakeDefs: [],
+        fakeInfDefs: [],
     }
 
     const sentences_paragraphs = paragraphSplit(textStr)
