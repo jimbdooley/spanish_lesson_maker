@@ -13,7 +13,8 @@ def getToXlate():
             continue
         with open(os.getcwd() + "/editedLessons/" + fileName, 
                   'r', encoding="utf8") as file:
-            obj = json.loads(file.read())["sentenceInfoList"]
+            fullObj = json.loads(file.read())
+            obj = fullObj["sentenceInfoList"]
         for i in range(len(obj)):
             lessonSentence = obj[i]["sentence"].strip()
             for pair in knownXlates:
@@ -30,7 +31,8 @@ def getToXlate():
         with open(os.getcwd() + "/editedLessons/" + fileName, 
                     'w', encoding="utf8") as file:
             # save with indent of 1
-            file.write(json.dumps({"sentenceInfoList": obj}, indent=1))
+            fullObj["sentenceInfoList"] = obj
+            file.write(json.dumps(fullObj, indent=1))
 
     return list(set(rtn))
 
