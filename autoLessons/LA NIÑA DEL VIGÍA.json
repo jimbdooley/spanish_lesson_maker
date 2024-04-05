@@ -4792,32 +4792,29 @@
  "defInfo": {
   "la": {
    "word": "la",
-   "shortDef": "the",
+   "shortDef": "the (feminine)",
    "g": 0,
    "causes": [
     "la"
    ],
    "longDef": [
     [
-     "the"
+     "the (feminine)"
     ],
     [
-     "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
+     "her, it, you (formal)"
     ],
     [
      "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
      "La sabe toda.  ― He/she knows everything (it all)",
      "¡Dónde la viste!  ― Where have you seen this!",
      "No te la creo.  ― I don't believe you."
-    ],
-    [
-     "(music) la (sixth note of the scale)"
     ]
    ]
   },
   "niña": {
    "word": "niña",
-   "shortDef": "feminine form of niño, girl",
+   "shortDef": "girl",
    "g": 0,
    "causes": [
     "niña"
@@ -4898,6 +4895,7 @@
    "g": 1,
    "causes": [
     "es",
+    "ser",
     "eran",
     "era"
    ],
@@ -4965,6 +4963,11 @@
     [
      "past participle of elevar"
     ]
+   ],
+   "opts": [
+    "elevada",
+    "elevados",
+    "elevadas"
    ]
   },
   "elevar": {
@@ -4973,6 +4976,7 @@
    "g": 1,
    "causes": [
     "elevado",
+    "elevadas",
     "elevó"
    ],
    "longDef": [
@@ -5134,6 +5138,11 @@
      "one",
      "Sólo hay una ruta - There is only one route."
     ]
+   ],
+   "opts": [
+    "uno",
+    "unos",
+    "unas"
    ]
   },
   "torre": {
@@ -5173,6 +5182,28 @@
      "Yo cuento con ustedes. ― I count on you."
     ]
    ]
+  },
+  "gran": {
+   "word": "gran",
+   "shortDef": "great, big, large",
+   "g": 1,
+   "causes": [
+    "gran"
+   ],
+   "longDef": null,
+   "opts": [
+    "grande",
+    "grandes"
+   ]
+  },
+  "fanal": {
+   "word": "fanal",
+   "shortDef": "beacon, lantern, light",
+   "g": 1,
+   "causes": [
+    "fanal"
+   ],
+   "longDef": null
   },
   "en": {
    "word": "en",
@@ -5254,6 +5285,9 @@
      "boss",
      "Synonyms: jefe, jefa, patrón, patrona"
     ]
+   ],
+   "opts": [
+    "superiores"
    ]
   },
   "este": {
@@ -5278,11 +5312,16 @@
      "Synonym: oriente",
      "Antonyms: oeste, occidente"
     ]
+   ],
+   "opts": [
+    "esta",
+    "estas",
+    "estos"
    ]
   },
   "se": {
    "word": "se",
-   "shortDef": "third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
+   "shortDef": "oneself, himself, herself, itself, yourself; each other; one another",
    "g": 2,
    "causes": [
     "se",
@@ -5313,6 +5352,7 @@
    "causes": [
     "enciende",
     "encienden",
+    "encender",
     "encendido"
    ],
    "longDef": [
@@ -5338,11 +5378,16 @@
      "plural of toda; all, all of",
      "{adj}"
     ]
+   ],
+   "opts": [
+    "todo",
+    "todos",
+    "toda"
    ]
   },
   "las": {
    "word": "las",
-   "shortDef": "the",
+   "shortDef": "the, them (feminine)",
    "g": 2,
    "causes": [
     "las"
@@ -5367,7 +5412,8 @@
    "shortDef": "night (the period between sunset and sunrise)",
    "g": 2,
    "causes": [
-    "noches"
+    "noches",
+    "noche"
    ],
    "longDef": [
     [
@@ -5384,7 +5430,7 @@
   },
   "y": {
    "word": "y",
-   "shortDef": "and\n1605, Miguel de Cervantes Saavedra, Don Quijote de la Mancha1, Chapter I:",
+   "shortDef": "and",
    "g": 2,
    "causes": [
     "y"
@@ -5457,6 +5503,10 @@
      "¿Cómo está su familia? - How is your family?",
      "¿Dónde está su coche? - Where is your car?"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "sus"
    ]
   },
   "luz": {
@@ -5507,6 +5557,9 @@
     [
      "(Adjective) considerable (large in amount)"
     ]
+   ],
+   "opts": [
+    "considerables"
    ]
   },
   "aumento": {
@@ -5586,7 +5639,7 @@
   },
   "lentes": {
    "word": "lentes",
-   "shortDef": "eyeglasses",
+   "shortDef": "glasses, lenses",
    "g": 2,
    "causes": [
     "lentes"
@@ -5603,7 +5656,7 @@
   },
   "grande": {
    "word": "grande",
-   "shortDef": "(after the noun or predicatively) big, large",
+   "shortDef": "big, large",
    "g": 2,
    "causes": [
     "grandes"
@@ -5622,6 +5675,10 @@
     [
      "grandee"
     ]
+   ],
+   "opts": [
+    "gran",
+    "grandes"
    ]
   },
   "reflector": {
@@ -5651,6 +5708,7 @@
    "causes": [
     "puede",
     "podía",
+    "poder",
     "pudieron",
     "pudo"
    ],
@@ -5699,6 +5757,29 @@
     ],
     [
      "inflection of vestir:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
+    ]
+   ]
+  },
+  "ver": {
+   "word": "ver",
+   "shortDef": "to see",
+   "g": 2,
+   "causes": [
+    "vista",
+    "veían",
+    "vió",
+    "vieron"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive, literally) to see, to spot",
+     "Vine, vi, vencí. ― I came, I saw, I conquered.",
+     "Sí, con mis propios ojos, lo vi robar el dinero. ― Yes, with my own eyes, I saw him steal the money."
+    ],
+    [
+     "(Verb) (transitive) to see, to look at, to view (perceive)",
+     "Hmm. Ya veo... ― Hmm. I see...",
+     "Tal experiencia única en la vida cambiará tu manera de ver el mundo. ― Such a once in a lifetime experience will change the way that you look at [or see or view] the world."
     ]
    ]
   },
@@ -5777,6 +5858,11 @@
      "alternative spelling of ésta This one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "este",
+    "estas",
+    "estos"
    ]
   },
   "manera": {
@@ -5795,7 +5881,7 @@
   },
   "los": {
    "word": "los",
-   "shortDef": "the, them",
+   "shortDef": "the, them (masculine)",
    "g": 2,
    "causes": [
     "los"
@@ -5980,7 +6066,7 @@
   },
   "mar": {
    "word": "mar",
-   "shortDef": "sea\n2008, Cécile Corbel (lyrics and music), \"En la mar [In the Middle of the Sea]\", in Songbook vol. 2‎[4] (CD), performed by Cécile Corbel, Brittany: Keltia Musique:",
+   "shortDef": "sea",
    "g": 3,
    "causes": [
     "mar"
@@ -6106,7 +6192,7 @@
   },
   "buque": {
    "word": "buque",
-   "shortDef": "ship, vessel\n1981, Gabriel García Márquez, Crónica de una muerte anunciada:",
+   "shortDef": "ship, vessel",
    "g": 3,
    "causes": [
     "buques"
@@ -6166,6 +6252,28 @@
     ],
     [
      "past participle of encargar"
+    ]
+   ],
+   "opts": [
+    "encargada",
+    "encargados",
+    "encargadas"
+   ]
+  },
+  "encargar": {
+   "word": "encargar",
+   "shortDef": "to put in charge, entrust",
+   "g": 4,
+   "causes": [
+    "encargados"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to entrust",
+     "Synonym: encomendar"
+    ],
+    [
+     "(Verb) (transitive) to order (goods)"
     ]
    ]
   },
@@ -6236,6 +6344,11 @@
      "alternative spelling of aquélla That one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "aquel",
+    "aquellos",
+    "aquellas"
    ]
   },
   "estos": {
@@ -6254,6 +6367,11 @@
      "These ones",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "este",
+    "esta",
+    "estas"
    ]
   },
   "llamar": {
@@ -6301,6 +6419,28 @@
     [
      "past participle of emplear"
     ]
+   ],
+   "opts": [
+    "empleada",
+    "empleadas",
+    "empleados"
+   ]
+  },
+  "emplear": {
+   "word": "emplear",
+   "shortDef": "to employ, to use",
+   "g": 5,
+   "causes": [
+    "empleados"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to hire, to employ (to give someone a job)"
+    ],
+    [
+     "(Verb) (transitive) to use (employ, apply)",
+     "Synonyms: usar, utilizar"
+    ]
    ]
   },
   "sumamente": {
@@ -6336,6 +6476,9 @@
      "(Adjective) loyal",
      "Los perros son fieles. ― Dogs are loyal."
     ]
+   ],
+   "opts": [
+    "fieles"
    ]
   },
   "uno": {
@@ -6351,6 +6494,11 @@
      "Uno más uno es igual a dos. - One plus one equals two.",
      "Uno de los dos tiene que ceder. - One of the two has to give in."
     ]
+   ],
+   "opts": [
+    "una",
+    "unos",
+    "unas"
    ]
   },
   "costa": {
@@ -6404,6 +6552,11 @@
      "(Adjective) unique, one-of-a-kind",
      "único en su clase/especie/género ― one of a kind"
     ]
+   ],
+   "opts": [
+    "única",
+    "únicos",
+    "únicas"
    ]
   },
   "unos": {
@@ -6413,7 +6566,12 @@
    "causes": [
     "unos"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "uno",
+    "una",
+    "unas"
+   ]
   },
   "ocho": {
    "word": "ocho",
@@ -6481,7 +6639,7 @@
   },
   "el": {
    "word": "el",
-   "shortDef": "the",
+   "shortDef": "the (masculine)",
    "g": 7,
    "causes": [
     "el"
@@ -6536,6 +6694,11 @@
     [
      "past participle of situar"
     ]
+   ],
+   "opts": [
+    "situada",
+    "situados",
+    "situadas"
    ]
   },
   "situar": {
@@ -6603,7 +6766,7 @@
   },
   "tierra": {
    "word": "tierra",
-   "shortDef": "(geography) land, ground (the part of Earth which is not covered by oceans or other bodies of water)",
+   "shortDef": "land, ground (the part of Earth which is not covered by oceans or other bodies of water)",
    "g": 7,
    "causes": [
     "tierra"
@@ -6639,6 +6802,9 @@
     [
      "inflection of firmar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "opts": [
+    "firmes"
    ]
   },
   "firmar": {
@@ -6715,6 +6881,10 @@
     [
      "first-person singular present indicative of mediar"
     ]
+   ],
+   "opts": [
+    "media",
+    "medias"
    ]
   },
   "mediar": {
@@ -6758,6 +6928,24 @@
     ]
    ]
   },
+  "calzar": {
+   "word": "calzar",
+   "shortDef": "to shoe, to wear(shoes), toputon(shoes)",
+   "g": 7,
+   "causes": [
+    "calzada"
+   ],
+   "longDef": [
+    [
+     "(Verb) to wear or put on shoes"
+    ],
+    [
+     "(Verb) to be or have (a shoe size)",
+     "¿Cuánto calzas? ― What's your shoe size?",
+     "Yo calzo 44. ― I wear size 44."
+    ]
+   ]
+  },
   "estrecho": {
    "word": "estrecho",
    "shortDef": "narrow",
@@ -6781,6 +6969,10 @@
     [
      "first-person singular present indicative of estrechar"
     ]
+   ],
+   "opts": [
+    "estrecha",
+    "estrechas"
    ]
   },
   "construido": {
@@ -6796,6 +6988,29 @@
     ],
     [
      "past participle of construir"
+    ]
+   ],
+   "opts": [
+    "construida",
+    "construidos",
+    "construidas"
+   ]
+  },
+  "construir": {
+   "word": "construir",
+   "shortDef": "to build, construct",
+   "g": 7,
+   "causes": [
+    "construida"
+   ],
+   "longDef": [
+    [
+     "(Verb) to build",
+     "El año pasado, construyeron muchos apartamentos. ― They built a lot of apartments last year.\n2020, \"Yóok 'ol kaab Maya\", performed by Cemican:",
+     "Deja que la turquesa construya un templo azul ― Let the turquoise build a blue temple"
+    ],
+    [
+     "(Verb) to construct"
     ]
    ]
   },
@@ -6855,6 +7070,12 @@
      "A casualty",
      "{f}"
     ]
+   ],
+   "opts": [
+    "bajo",
+    "bajas",
+    "bajos",
+    "baxo"
    ]
   },
   "bajar": {
@@ -6881,7 +7102,7 @@
   },
   "arena": {
    "word": "arena",
-   "shortDef": "(geology) sand, gravel",
+   "shortDef": "sand, gravel",
    "g": 7,
    "causes": [
     "arena"
@@ -6993,7 +7214,8 @@
    "shortDef": "hour (a time period of sixty minutes)",
    "g": 8,
    "causes": [
-    "horas"
+    "horas",
+    "hora"
    ],
    "longDef": [
     [
@@ -7117,11 +7339,16 @@
      "Antonym: nada",
      "todo lo que dijiste ― everything that you said"
     ]
+   ],
+   "opts": [
+    "todos",
+    "todas",
+    "toda"
    ]
   },
   "tiempo": {
    "word": "tiempo",
-   "shortDef": "(also physics) time",
+   "shortDef": "time",
    "g": 8,
    "causes": [
     "tiempo"
@@ -7155,6 +7382,9 @@
     [
      "remnant (small portion remaining of a larger thing or group)"
     ]
+   ],
+   "opts": [
+    "restantes"
    ]
   },
   "cubierta": {
@@ -7177,6 +7407,23 @@
     ],
     [
      "feminine singular of cubierto"
+    ]
+   ]
+  },
+  "cubrir": {
+   "word": "cubrir",
+   "shortDef": "to cover",
+   "g": 8,
+   "causes": [
+    "cubierta"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to cover",
+     "Synonym: tapar"
+    ],
+    [
+     "(Verb) (zoology) to cover, to mount"
     ]
    ]
   },
@@ -7340,6 +7587,12 @@
      "Feminine plural of alguno; some (some people)",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "alguno",
+    "alguna",
+    "algún",
+    "algunos"
    ]
   },
   "dejando": {
@@ -7391,6 +7644,11 @@
     [
      "lonely, lonesome"
     ]
+   ],
+   "opts": [
+    "sola",
+    "solos",
+    "solas"
    ]
   },
   "hijita": {
@@ -7409,7 +7667,7 @@
   },
   "mientras": {
    "word": "mientras",
-   "shortDef": "(with the indicative) while, whilst, as (at the same time as)",
+   "shortDef": "while, whilst, as (at the same time as)",
    "g": 11,
    "causes": [
     "mientras"
@@ -7432,7 +7690,7 @@
   },
   "padre": {
    "word": "padre",
-   "shortDef": "(family) father",
+   "shortDef": "father",
    "g": 11,
    "causes": [
     "padre"
@@ -7497,6 +7755,7 @@
    "g": 11,
    "causes": [
     "paso",
+    "pasar",
     "pasado"
    ],
    "longDef": [
@@ -7579,6 +7838,10 @@
     [
      "neighboring, adjacent"
     ]
+   ],
+   "opts": [
+    "vecina",
+    "vecinas"
    ]
   },
   "mala": {
@@ -7593,6 +7856,10 @@
      "suitcase",
      "{f}"
     ]
+   ],
+   "opts": [
+    "malo",
+    "malas"
    ]
   },
   "traza": {
@@ -7648,6 +7915,9 @@
     [
      "first-person singular present indicative of ocultar"
     ]
+   ],
+   "opts": [
+    "ocultos"
    ]
   },
   "detrás": {
@@ -7673,7 +7943,12 @@
    "causes": [
     "unas"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "uno",
+    "una",
+    "unos"
+   ]
   },
   "espiar": {
    "word": "espiar",
@@ -7701,6 +7976,10 @@
      "Your",
      "{adj} [formal]"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "su"
    ]
   },
   "movimiento": {
@@ -7888,10 +8167,11 @@
   },
   "le": {
    "word": "le",
-   "shortDef": "To her, for her (dative form of ella)",
+   "shortDef": "to him, to her, to you",
    "g": 13,
    "causes": [
-    "les"
+    "les",
+    "le"
    ],
    "longDef": [
     [
@@ -7905,20 +8185,6 @@
     [
      "To you, for you (dative form of usted, ello, lo)",
      "{pron}"
-    ]
-   ]
-  },
-  "l": {
-   "word": "l",
-   "shortDef": "The 12th letter of the Spanish alphabet",
-   "g": 13,
-   "causes": [
-    "les"
-   ],
-   "longDef": [
-    [
-     "The 12th letter of the Spanish alphabet",
-     "{letter}"
     ]
    ]
   },
@@ -8003,6 +8269,15 @@
      "(used at the start of a phrase) well; a short pause in a sentence",
      "Bueno, pues, mira. ― Well, then, look."
     ]
+   ],
+   "opts": [
+    "buena",
+    "buen",
+    "buenas",
+    "buenos",
+    "bona",
+    "wena",
+    "weno"
    ]
   },
   "presa": {
@@ -8021,6 +8296,24 @@
     ],
     [
      "feminine singular of preso"
+    ]
+   ]
+  },
+  "prender": {
+   "word": "prender",
+   "shortDef": "to seize, grasp, catch",
+   "g": 13,
+   "causes": [
+    "presa"
+   ],
+   "longDef": [
+    [
+     "(Verb) to catch, to arrest",
+     "Synonyms: detener, arrestar, aprehender"
+    ],
+    [
+     "(Verb) to take, to pick up",
+     "Synonyms: tomar, coger"
     ]
    ]
   },
@@ -8061,7 +8354,12 @@
    "causes": [
     "llegado"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "llegada",
+    "llegados",
+    "llegadas"
+   ]
   },
   "llegar": {
    "word": "llegar",
@@ -8069,7 +8367,8 @@
    "g": 14,
    "causes": [
     "llegado",
-    "llegaba"
+    "llegaba",
+    "llegar"
    ],
    "longDef": [
     [
@@ -8235,7 +8534,7 @@
   },
   "mano": {
    "word": "mano",
-   "shortDef": "(anatomy, of a person) hand",
+   "shortDef": "hand",
    "g": 14,
    "causes": [
     "manos"
@@ -8285,6 +8584,12 @@
     [
      "first-person singular present indicative of bajar"
     ]
+   ],
+   "opts": [
+    "baja",
+    "bajas",
+    "bajos",
+    "baxo"
    ]
   },
   "custodia": {
@@ -8359,7 +8664,7 @@
   },
   "playa": {
    "word": "playa",
-   "shortDef": "beach\n1989, \"Aquí no hay playa\", performed by The Refrescos:",
+   "shortDef": "beach",
    "g": 14,
    "causes": [
     "playa"
@@ -8429,6 +8734,9 @@
     [
      "inflection of impacientar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "opts": [
+    "impacientes"
    ]
   },
   "vuelta": {
@@ -8447,6 +8755,25 @@
     ],
     [
      "feminine singular of vuelto"
+    ]
+   ]
+  },
+  "volver": {
+   "word": "volver",
+   "shortDef": "to return, go back",
+   "g": 15,
+   "causes": [
+    "vuelta"
+   ],
+   "longDef": [
+    [
+     "(Verb) to return, to revert, to get back",
+     "Synonym: regresar",
+     "Vuelvan a trabajar. / Vuelva al trabajo. ― Get back to work."
+    ],
+    [
+     "(Verb) to come back, go back",
+     "Si realmente estás pensando en volver a aquel lugar sucio, debes haberte enloquecido totalmente. ― If you're really thinking about going back to that filthy place, you must have gone totally crazy."
     ]
    ]
   },
@@ -8527,28 +8854,6 @@
      "(colloquial) used to acknowledge or dismiss the previous statement",
      "—Sabes que quedamos con Antonio esta tarde. —Ya. ― \"You know we're hanging out with Antonio tonight.\" \"I know.\"",
      "—No podrás venir, que trabajas ese día. —Ya, pero cerramos temprano los viernes. ― \"You can't come, you're working that day.\" \"Right, but we close early on Fridays.\""
-    ]
-   ]
-  },
-  "ver": {
-   "word": "ver",
-   "shortDef": "to see",
-   "g": 16,
-   "causes": [
-    "veían",
-    "vió",
-    "vieron"
-   ],
-   "longDef": [
-    [
-     "(Verb) (transitive, literally) to see, to spot",
-     "Vine, vi, vencí. ― I came, I saw, I conquered.",
-     "Sí, con mis propios ojos, lo vi robar el dinero. ― Yes, with my own eyes, I saw him steal the money."
-    ],
-    [
-     "(Verb) (transitive) to see, to look at, to view (perceive)",
-     "Hmm. Ya veo... ― Hmm. I see...",
-     "Tal experiencia única en la vida cambiará tu manera de ver el mundo. ― Such a once in a lifetime experience will change the way that you look at [or see or view] the world."
     ]
    ]
   },
@@ -8702,6 +9007,11 @@
     [
      "ready"
     ]
+   ],
+   "opts": [
+    "pronta",
+    "prontos",
+    "prontas"
    ]
   },
   "subir": {
@@ -8800,6 +9110,10 @@
      "sock, stocking",
      "{f}"
     ]
+   ],
+   "opts": [
+    "medio",
+    "medias"
    ]
   },
   "borde": {
@@ -8870,6 +9184,11 @@
      "tax declaration",
      "{f}"
     ]
+   ],
+   "opts": [
+    "alto",
+    "altos",
+    "altas"
    ]
   },
   "descubrir": {
@@ -8945,11 +9264,16 @@
    "causes": [
     "turbulentas"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "turbulenta",
+    "turbulentas",
+    "turbulentos"
+   ]
   },
   "papá": {
    "word": "papá",
-   "shortDef": "(colloquial, familiar, endearing) dad",
+   "shortDef": "dad",
    "g": 20,
    "causes": [
     "papá"
@@ -8970,7 +9294,7 @@
   },
   "mío": {
    "word": "mío",
-   "shortDef": "(predicative or after the noun) mine, my",
+   "shortDef": "mine, my",
    "g": 21,
    "causes": [
     "mío"
@@ -8985,6 +9309,11 @@
      "mine",
      "¿De quién son estos libros? — Son míos. Los tuyos están en la mesa. ― Whose books are these? — They're mine. Yours are on the table."
     ]
+   ],
+   "opts": [
+    "mi",
+    "mis",
+    "míos"
    ]
   },
   "exclamar": {
@@ -9012,7 +9341,7 @@
   },
   "dónde": {
    "word": "dónde",
-   "shortDef": "(interrogative) where?; in what place?",
+   "shortDef": "where?; in what place?",
    "g": 22,
    "causes": [
     "dónde"
@@ -9063,6 +9392,11 @@
     [
      "past participle of olvidar"
     ]
+   ],
+   "opts": [
+    "olvidada",
+    "olvidadas",
+    "olvidados"
    ]
   },
   "olvidar": {
@@ -9091,7 +9425,7 @@
   },
   "momento": {
    "word": "momento",
-   "shortDef": "(time) moment, instant",
+   "shortDef": "moment, instant",
    "g": 24,
    "causes": [
     "momento"
@@ -9242,7 +9576,7 @@
   },
   "pobre": {
    "word": "pobre",
-   "shortDef": "(before the noun) poor (pitiable, pitiful)",
+   "shortDef": "poor (pitiable, pitiful)",
    "g": 24,
    "causes": [
     "pobre"
@@ -9257,6 +9591,11 @@
      "(Adjective) (after the noun) poor (lacking money, resources, etc.)",
      "Se relajan las familias ricas en casas lujosas y las familias pobres tiran en chozas desmoronadas. ― The rich families relax in luxurious houses and the poor families get by in dilapidated huts."
     ]
+   ],
+   "opts": [
+    "pobres",
+    "probe",
+    "probes"
    ]
   },
   "estando": {
@@ -9311,6 +9650,9 @@
      "Amiga, ha pasado demasiado tiempo. ― Friend, it's been too long.",
      "(literally, \"Too much time has passed.\")"
     ]
+   ],
+   "opts": [
+    "demasiados"
    ]
   },
   "estatura": {
@@ -9352,7 +9694,8 @@
    "shortDef": "as much; however much; in whatever quantity",
    "g": 25,
    "causes": [
-    "cuantos"
+    "cuantos",
+    "cuanto"
    ],
    "longDef": [
     [
@@ -9374,6 +9717,11 @@
     [
      "(physics) quantum"
     ]
+   ],
+   "opts": [
+    "cuantos",
+    "cuantas",
+    "cuanta"
    ]
   },
   "fósforo": {
@@ -9458,7 +9806,12 @@
    "causes": [
     "apetecido"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "apetecida",
+    "apetecidos",
+    "apetecidas"
+   ]
   },
   "apetecer": {
    "word": "apetecer",
@@ -9613,6 +9966,11 @@
      "hace poco ― a little while ago",
      "dentro de poco ― in a little bit"
     ]
+   ],
+   "opts": [
+    "pocos",
+    "pocas",
+    "poca"
    ]
   },
   "ir": {
@@ -9675,6 +10033,26 @@
     ],
     [
      "past participle of afligir"
+    ]
+   ],
+   "opts": [
+    "afligida",
+    "afligidos",
+    "afligidas"
+   ]
+  },
+  "afligir": {
+   "word": "afligir",
+   "shortDef": "to afflict, distress",
+   "g": 26,
+   "causes": [
+    "afligida"
+   ],
+   "longDef": [
+    [
+     "(Verb) to afflict",
+     "¿Qué te aflije, pues, Señor?.... diviértete, alegra, y disipa tus males.... ― What afflicts you then, sir? Be happy, and dispel your ills.\n1875, Wilkie Collins, translated by Cristina Graell, 1997, La ley y la dama‎[2]:",
+     "¡Maldita sea, coja el bastón! No le aflija. Azóteme en la espalda. ¡Golpéeme! ― Damn it, take the stick! Don't let it afflict you. Whip me in the back. Hit me!"
     ]
    ]
   },
@@ -9814,6 +10192,9 @@
      "Synonym: bastante",
      "Antonym: insuficiente"
     ]
+   ],
+   "opts": [
+    "suficientes"
    ]
   },
   "rayo": {
@@ -9926,6 +10307,11 @@
     [
      "past participle of encender"
     ]
+   ],
+   "opts": [
+    "encendida",
+    "encendidas",
+    "encendidos"
    ]
   },
   "libertad": {
@@ -9980,7 +10366,7 @@
   },
   "aquel": {
    "word": "aquel",
-   "shortDef": "(demonstrative) that (over there; implying some distance)",
+   "shortDef": "that (over there; implying some distance)",
    "g": 28,
    "causes": [
     "aquel"
@@ -9992,6 +10378,11 @@
     [
      "(demonstrative) Alternative spelling of aquél"
     ]
+   ],
+   "opts": [
+    "aquella",
+    "aquellos",
+    "aquellas"
    ]
   },
   "sitio": {
@@ -10060,6 +10451,9 @@
      "(Adjective) next",
      "Lo siguiente que puedo recordar es que salí corriendo. ― The next thing I can remember was running out."
     ]
+   ],
+   "opts": [
+    "siguientes"
    ]
   },
   "bajado": {
@@ -10069,11 +10463,16 @@
    "causes": [
     "bajado"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "bajada",
+    "bajados",
+    "bajadas"
+   ]
   },
   "donde": {
    "word": "donde",
-   "shortDef": "(relative) where, in what place",
+   "shortDef": "where, in what place",
    "g": 29,
    "causes": [
     "donde"
@@ -10123,7 +10522,7 @@
   },
   "brazo": {
    "word": "brazo",
-   "shortDef": "(anatomy) arm",
+   "shortDef": "arm",
    "g": 29,
    "causes": [
     "brazos"
@@ -10201,6 +10600,11 @@
     [
      "past participle of pasar"
     ]
+   ],
+   "opts": [
+    "pasada",
+    "pasados",
+    "pasadas"
    ]
   },
   "horrendo": {
@@ -10215,6 +10619,11 @@
      "(Adjective) horrendous, horrific, dreadful, awful",
      "Synonym: horrible"
     ]
+   ],
+   "opts": [
+    "horrenda",
+    "horrendos",
+    "horrendas"
    ]
   }
  },

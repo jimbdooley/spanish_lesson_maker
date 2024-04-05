@@ -1,9 +1,9 @@
 {
+ "lenTotal": 1033,
+ "lenAveSent": 114.77777777777777,
  "sentenceInfoList": [
   {
-   "sentence": "ERA el rey de Toledo el moro Almen\u00f3n, con quien el rey de Castilla don Fernando el Grande manten\u00eda cordial amistad.",
-   "translation": "IT WAS the king of Toledo, the Moor Almen\u00f3n, with whom the king of Castile, Don Fernando the Great, maintained a cordial friendship.",
-   "pGroup": 0,
+   "sentence": "ERA el rey de Toledo el moro Almenón, con quien el rey de Castilla don Fernando el Grande mantenía cordial amistad.",
    "wordInfoList": [
     {
      "word": "era",
@@ -55,7 +55,7 @@
      ]
     },
     {
-     "word": "almen\u00f3n",
+     "word": "almenón",
      "loc": [
       29,
       36
@@ -132,7 +132,7 @@
      ]
     },
     {
-     "word": "manten\u00eda",
+     "word": "mantenía",
      "loc": [
       90,
       98
@@ -152,12 +152,11 @@
       114
      ]
     }
-   ]
+   ],
+   "pGroup": 0
   },
   {
-   "sentence": "Este rey moro ten\u00eda una hija muy hermosa y compasiva, llamada Casilda.",
-   "translation": "This Moorish king had a very beautiful and compassionate daughter, named Casilda.",
-   "pGroup": 1,
+   "sentence": "Este rey moro tenía una hija muy hermosa y compasiva, llamada Casilda.",
    "wordInfoList": [
     {
      "word": "este",
@@ -181,7 +180,7 @@
      ]
     },
     {
-     "word": "ten\u00eda",
+     "word": "tenía",
      "loc": [
       14,
       19
@@ -243,12 +242,11 @@
       69
      ]
     }
-   ]
+   ],
+   "pGroup": 1
   },
   {
-   "sentence": "Una esclava castellana cont\u00f3 \u00e1 la hija del rey moro que los nazarenos amaban \u00e1 su Dios, y \u00e1 su rey, y \u00e1 sus padres, y \u00e1 sus hermanos, y \u00e1 sus esposas.",
-   "translation": "A Castilian slave told the daughter of the Moorish king that the Nazarenes loved their God, and their king, and their parents, and their brothers, and their wives.",
-   "pGroup": 2,
+   "sentence": "Una esclava castellana contó á la hija del rey moro que los nazarenos amaban á su Dios, y á su rey, y á sus padres, y á sus hermanos, y á sus esposas.",
    "wordInfoList": [
     {
      "word": "una",
@@ -272,14 +270,14 @@
      ]
     },
     {
-     "word": "cont\u00f3",
+     "word": "contó",
      "loc": [
       23,
       28
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       29,
       30
@@ -349,7 +347,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       77,
       78
@@ -377,7 +375,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       90,
       91
@@ -405,7 +403,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       102,
       103
@@ -433,7 +431,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       118,
       119
@@ -461,7 +459,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       136,
       137
@@ -481,22 +479,21 @@
       149
      ]
     }
-   ]
+   ],
+   "pGroup": 2
   },
   {
-   "sentence": "Tambi\u00e9n cont\u00f3 la esclava \u00e1 la hija del rey moro, que los nazarenos nunca quedan hu\u00e9rfanos de madre, porque cuando pierden \u00e1 la que los concibi\u00f3, les queda otra, llamada Mar\u00eda, que es una madre inmortal.",
-   "translation": "The slave also told the daughter of the Moorish king that the Nazarenes are never motherless, because when they lose the one who conceived them, they are left with another, called Mary, who is an immortal mother.",
-   "pGroup": 3,
+   "sentence": "También contó la esclava á la hija del rey moro, que los nazarenos nunca quedan huérfanos de madre, porque cuando pierden á la que los concibió, les queda otra, llamada María, que es una madre inmortal.",
    "wordInfoList": [
     {
-     "word": "tambi\u00e9n",
+     "word": "también",
      "loc": [
       0,
       7
      ]
     },
     {
-     "word": "cont\u00f3",
+     "word": "contó",
      "loc": [
       8,
       13
@@ -517,7 +514,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       25,
       26
@@ -594,7 +591,7 @@
      ]
     },
     {
-     "word": "hu\u00e9rfanos",
+     "word": "huérfanos",
      "loc": [
       80,
       89
@@ -636,7 +633,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       122,
       123
@@ -664,7 +661,7 @@
      ]
     },
     {
-     "word": "concibi\u00f3",
+     "word": "concibió",
      "loc": [
       135,
       143
@@ -699,7 +696,7 @@
      ]
     },
     {
-     "word": "mar\u00eda",
+     "word": "maría",
      "loc": [
       169,
       174
@@ -740,12 +737,11 @@
       201
      ]
     }
-   ]
+   ],
+   "pGroup": 3
   },
   {
-   "sentence": "Pasaron a\u00f1os, pasaron a\u00f1os, y Casilda fu\u00e9 creciendo en cuerpo y en hermosura y en virtud.",
-   "translation": "Years passed, years passed, and Casilda grew in body and in beauty and in virtue.",
-   "pGroup": 4,
+   "sentence": "Pasaron años, pasaron años, y Casilda fué creciendo en cuerpo y en hermosura y en virtud.",
    "wordInfoList": [
     {
      "word": "pasaron",
@@ -755,7 +751,7 @@
      ]
     },
     {
-     "word": "a\u00f1os",
+     "word": "años",
      "loc": [
       8,
       12
@@ -769,7 +765,7 @@
      ]
     },
     {
-     "word": "a\u00f1os",
+     "word": "años",
      "loc": [
       22,
       26
@@ -790,7 +786,7 @@
      ]
     },
     {
-     "word": "fu\u00e9",
+     "word": "fué",
      "loc": [
       38,
       41
@@ -859,12 +855,11 @@
       88
      ]
     }
-   ]
+   ],
+   "pGroup": 4
   },
   {
-   "sentence": "Se le muri\u00f3 su madre, y envidi\u00f3 la dicha de los hu\u00e9rfanos nazarenos.",
-   "translation": "His mother died, and he envied the happiness of the Nazarene orphans.",
-   "pGroup": 4,
+   "sentence": "Se le murió su madre, y envidió la dicha de los huérfanos nazarenos.",
    "wordInfoList": [
     {
      "word": "se",
@@ -881,7 +876,7 @@
      ]
     },
     {
-     "word": "muri\u00f3",
+     "word": "murió",
      "loc": [
       6,
       11
@@ -909,7 +904,7 @@
      ]
     },
     {
-     "word": "envidi\u00f3",
+     "word": "envidió",
      "loc": [
       24,
       31
@@ -944,7 +939,7 @@
      ]
     },
     {
-     "word": "hu\u00e9rfanos",
+     "word": "huérfanos",
      "loc": [
       48,
       57
@@ -957,12 +952,11 @@
       67
      ]
     }
-   ]
+   ],
+   "pGroup": 4
   },
   {
-   "sentence": "En los confines del jard\u00edn que rodeaba el palacio del rey moro, hab\u00eda unas l\u00f3bregas mazmorras, donde gem\u00edan, hambrientos y cargados de cadenas, muchos cautivos cristianos.",
-   "translation": "In the confines of the garden that surrounded the palace of the Moorish king, there were some gloomy dungeons, where many Christian captives groaned, hungry and burdened with chains.",
-   "pGroup": 5,
+   "sentence": "En los confines del jardín que rodeaba el palacio del rey moro, había unas lóbregas mazmorras, donde gemían, hambrientos y cargados de cadenas, muchos cautivos cristianos.",
    "wordInfoList": [
     {
      "word": "en",
@@ -993,7 +987,7 @@
      ]
     },
     {
-     "word": "jard\u00edn",
+     "word": "jardín",
      "loc": [
       20,
       26
@@ -1049,7 +1043,7 @@
      ]
     },
     {
-     "word": "hab\u00eda",
+     "word": "había",
      "loc": [
       64,
       69
@@ -1063,7 +1057,7 @@
      ]
     },
     {
-     "word": "l\u00f3bregas",
+     "word": "lóbregas",
      "loc": [
       75,
       83
@@ -1084,7 +1078,7 @@
      ]
     },
     {
-     "word": "gem\u00edan",
+     "word": "gemían",
      "loc": [
       101,
       107
@@ -1146,15 +1140,14 @@
       170
      ]
     }
-   ]
+   ],
+   "pGroup": 5
   },
   {
-   "sentence": "Sucedi\u00f3 que un d\u00eda fu\u00e9 Casilda \u00e1 pasear por los jardines de su padre, y oy\u00f3 gemir \u00e1 los pobres cautivos.",
-   "translation": "It happened that one day Casilda went for a walk through her father's gardens, and heard the poor captives moaning.",
-   "pGroup": 6,
+   "sentence": "Sucedió que un día fué Casilda á pasear por los jardines de su padre, y oyó gemir á los pobres cautivos.",
    "wordInfoList": [
     {
-     "word": "sucedi\u00f3",
+     "word": "sucedió",
      "loc": [
       0,
       7
@@ -1175,14 +1168,14 @@
      ]
     },
     {
-     "word": "d\u00eda",
+     "word": "día",
      "loc": [
       15,
       18
      ]
     },
     {
-     "word": "fu\u00e9",
+     "word": "fué",
      "loc": [
       19,
       22
@@ -1196,7 +1189,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       31,
       32
@@ -1259,7 +1252,7 @@
      ]
     },
     {
-     "word": "oy\u00f3",
+     "word": "oyó",
      "loc": [
       72,
       75
@@ -1273,7 +1266,7 @@
      ]
     },
     {
-     "word": "\u00e1",
+     "word": "á",
      "loc": [
       82,
       83
@@ -1300,12 +1293,11 @@
       103
      ]
     }
-   ]
+   ],
+   "pGroup": 6
   },
   {
-   "sentence": "La princesa mora torn\u00f3 al palacio, lleno su coraz\u00f3n de tristeza.",
-   "translation": "The Moorish princess returned to the palace, her heart filled with sadness.",
-   "pGroup": 6,
+   "sentence": "La princesa mora tornó al palacio, lleno su corazón de tristeza.",
    "wordInfoList": [
     {
      "word": "la",
@@ -1329,7 +1321,7 @@
      ]
     },
     {
-     "word": "torn\u00f3",
+     "word": "tornó",
      "loc": [
       17,
       22
@@ -1364,7 +1356,7 @@
      ]
     },
     {
-     "word": "coraz\u00f3n",
+     "word": "corazón",
      "loc": [
       44,
       51
@@ -1384,7 +1376,2304 @@
       63
      ]
     }
+   ],
+   "pGroup": 6
+  }
+ ],
+ "defInfo": {
+  "era": {
+   "word": "era",
+   "shortDef": "era",
+   "g": 0,
+   "causes": [
+    "era"
+   ],
+   "longDef": [
+    [
+     "era",
+     "{f}"
+    ],
+    [
+     "threshing floor",
+     "{f}"
+    ],
+    [
+     "tipple",
+     "{f}"
+    ]
+   ]
+  },
+  "ser": {
+   "word": "ser",
+   "shortDef": "to be (essential/permanent quality)",
+   "g": 0,
+   "causes": [
+    "era",
+    "es"
+   ],
+   "longDef": [
+    [
+     "(Verb) to be (essentially or identified as)",
+     "Yo soy de los Estados Unidos. ― I am from the United States.",
+     "Errar es humano. ― To err is human.\n2007, El Sueño de Morfeo, Nada es Suficiente:",
+     "¿Qué voy a ser si te he dado lo que soy? ― What am I going to be if I've given you what I am?\n2007, El Sueño de Morfeo, Para Toda la Vida:",
+     "Si fueras una gota de agua, nadie volvería a tener sed ― If you were a drop of water, no one would thirst again"
+    ],
+    [
+     "(Verb) to be (in the passive voice sense)",
+     "La guitarra fue tocada. ― The guitar was played."
+    ],
+    [
+     "a being, organism"
+    ],
+    [
+     "nature, essence"
+    ]
+   ]
+  },
+  "el": {
+   "word": "el",
+   "shortDef": "the (masculine)",
+   "g": 0,
+   "causes": [
+    "el"
+   ],
+   "longDef": [
+    [
+     "(Article) masculine singular definite article; the"
+    ],
+    [
+     "(Article) feminine singular definite article used before nouns which start with a stressed /a/:",
+     "el alma, las almas ― the soul, the souls",
+     "el hacha, las hachas ― the axe, the axes"
+    ]
+   ]
+  },
+  "rey": {
+   "word": "rey",
+   "shortDef": "king",
+   "g": 0,
+   "causes": [
+    "rey"
+   ],
+   "longDef": [
+    [
+     "(Noun) king"
+    ],
+    [
+     "(Noun) (chess) king"
+    ]
+   ]
+  },
+  "de": {
+   "word": "de",
+   "shortDef": "of, from",
+   "g": 0,
+   "causes": [
+    "de"
+   ],
+   "longDef": [
+    [
+     "(Preposition) of; 's; used after the thing owned and before the owner",
+     "Constitución española de 1812 ― Spanish constitution of 1812",
+     "la cola del perro ― the dog’s tail"
+    ],
+    [
+     "(Preposition) from (with the source or provenance of or at)",
+     "Soy de España. ― I’m from Spain.",
+     "agua de manantial ― springwater"
+    ],
+    [
+     "The name of the Latin-script letter D."
+    ]
+   ]
+  },
+  "toledo": {
+   "word": "toledo",
+   "shortDef": "toilet",
+   "g": 0,
+   "causes": [
+    "toledo"
+   ],
+   "longDef": [
+    [
+     "toilet",
+     "{m} [slang]"
+    ]
+   ]
+  },
+  "moro": {
+   "word": "moro",
+   "shortDef": "a Moor (North African Muslim)",
+   "g": 0,
+   "causes": [
+    "moro"
+   ],
+   "longDef": [
+    [
+     "(Noun) a Moor (North African Muslim)"
+    ],
+    [
+     "(Noun) (colloquial) a Muslim or Arab, particularly Muslims in the southern Philippines"
+    ],
+    [
+     "first-person singular present indicative of morar"
+    ]
+   ]
+  },
+  "morar": {
+   "word": "morar",
+   "shortDef": "to reside, dwell",
+   "g": 0,
+   "causes": [
+    "moro",
+    "mora"
+   ],
+   "longDef": [
+    [
+     "(Verb) to reside, to dwell, to abide",
+     "Synonyms: vivir, habitar, residir"
+    ],
+    [
+     "(Verb) to sojourn"
+    ]
+   ]
+  },
+  "con": {
+   "word": "con",
+   "shortDef": "with",
+   "g": 0,
+   "causes": [
+    "con"
+   ],
+   "longDef": [
+    [
+     "(Preposition) with",
+     "Antonym: sin"
+    ],
+    [
+     "(Preposition) on",
+     "Yo cuento con ustedes. ― I count on you."
+    ]
+   ]
+  },
+  "quien": {
+   "word": "quien",
+   "shortDef": "who",
+   "g": 0,
+   "causes": [
+    "quien"
+   ],
+   "longDef": [
+    [
+     "(Pronoun) who",
+     "La mujer con quien se casó ― The woman whom he married"
+    ],
+    [
+     "(Pronoun) (construed with a) whom",
+     "La persona a quien yo amo ― The person whom I love"
+    ]
+   ]
+  },
+  "castillo": {
+   "word": "castillo",
+   "shortDef": "a habitational surname",
+   "g": 0,
+   "causes": [
+    "castilla"
+   ],
+   "longDef": null
+  },
+  "don": {
+   "word": "don",
+   "shortDef": "sir, master, lord",
+   "g": 0,
+   "causes": [
+    "don"
+   ],
+   "longDef": [
+    [
+     "(Noun) (obsolete) sir, master, lord"
+    ],
+    [
+     "(Noun) a title of respect to a man, prefixed to first names",
+     "[Y] dime: don Luis Mejías ¿ha venido hoy? ― [A]nd tell me: mister Luis Mejía, did he come today?"
+    ]
+   ]
+  },
+  "grande": {
+   "word": "grande",
+   "shortDef": "big, large",
+   "g": 0,
+   "causes": [
+    "grande"
+   ],
+   "longDef": [
+    [
+     "(Adjective) (after the noun or predicatively) big, large",
+     "Synonyms: (for cloth, shoe, place) amplio, voluminoso",
+     "Antonyms: chico, pequeño"
+    ],
+    [
+     "(Adjective) (before a plural noun) great",
+     "Synonym: grandioso",
+     "Antonym: irrelevante"
+    ],
+    [
+     "grandee"
+    ]
+   ],
+   "opts": [
+    "gran",
+    "grandes"
+   ]
+  },
+  "mantener": {
+   "word": "mantener",
+   "shortDef": "to maintain, get",
+   "g": 0,
+   "causes": [
+    "mantenía"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to keep",
+     "Mantenga la tapa cerrada, por favor. ― Keep the lid closed, please."
+    ],
+    [
+     "(Verb) (transitive) to maintain, to support",
+     "Yo mantengo a mis hijos. ― I support my children."
+    ]
+   ]
+  },
+  "cordial": {
+   "word": "cordial",
+   "shortDef": "cordial",
+   "g": 0,
+   "causes": [
+    "cordial"
+   ],
+   "longDef": null,
+   "opts": [
+    "cordiales"
+   ]
+  },
+  "amistad": {
+   "word": "amistad",
+   "shortDef": "friendship",
+   "g": 0,
+   "causes": [
+    "amistad"
+   ],
+   "longDef": [
+    [
+     "(Noun) friendship",
+     "Antonyms: desamistad, enemistad"
+    ],
+    [
+     "second-person plural imperative of amistar"
+    ]
+   ]
+  },
+  "este": {
+   "word": "este",
+   "shortDef": "this",
+   "g": 1,
+   "causes": [
+    "este"
+   ],
+   "longDef": [
+    [
+     "(Determiner) this"
+    ],
+    [
+     "Alternative spelling of éste"
+    ],
+    [
+     "uh, well (space filler in a conversation)"
+    ],
+    [
+     "east",
+     "Synonym: oriente",
+     "Antonyms: oeste, occidente"
+    ]
+   ],
+   "opts": [
+    "esta",
+    "estas",
+    "estos"
+   ]
+  },
+  "tener": {
+   "word": "tener",
+   "shortDef": "to have",
+   "g": 1,
+   "causes": [
+    "tenía"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive, literally) to have, possess",
+     "Synonym: poseer",
+     "Ella tiene seis hermanos. ― She has six brothers.",
+     "Tengo una pluma. ― I have a pen."
+    ],
+    [
+     "(Verb) (transitive) to have, possess, to be (a condition or quality)",
+     "Usted tiene suerte. ― You are lucky. (literally, \"You have luck.\")",
+     "¡Ten cuidado! ― Be careful! (literally, \"Have care!\")",
+     "¿Quién tiene razón? ― Who is right? (literally, \"Who has reason?\")"
+    ]
+   ]
+  },
+  "una": {
+   "word": "una",
+   "shortDef": "a, an, one",
+   "g": 1,
+   "causes": [
+    "una"
+   ],
+   "longDef": [
+    [
+     "a, an",
+     "Una manzana al día mantiene al médico en lejanía. - An apple a day keeps the doctor away."
+    ],
+    [
+     "one",
+     "Sólo hay una ruta - There is only one route."
+    ]
+   ],
+   "opts": [
+    "uno",
+    "unos",
+    "unas"
+   ]
+  },
+  "hija": {
+   "word": "hija",
+   "shortDef": "daughter; feminine form of hijo",
+   "g": 1,
+   "causes": [
+    "hija"
+   ],
+   "longDef": [
+    [
+     "daughter; feminine form of hijo",
+     "{f}"
+    ]
+   ]
+  },
+  "muy": {
+   "word": "muy",
+   "shortDef": "very",
+   "g": 1,
+   "causes": [
+    "muy"
+   ],
+   "longDef": [
+    [
+     "(Adverb) very",
+     "Synonyms: re-, -ísimo",
+     "Tengo un coche muy caro. ― I have a very expensive car."
+    ]
+   ]
+  },
+  "hermoso": {
+   "word": "hermoso",
+   "shortDef": "gorgeous, beautiful, handsome, lovely",
+   "g": 1,
+   "causes": [
+    "hermosa"
+   ],
+   "longDef": [
+    [
+     "(Adjective) gorgeous, beautiful, handsome, lovely",
+     "Synonyms: apuesto, (more common) guapo"
+    ]
+   ],
+   "opts": [
+    "hermosa",
+    "hermosas",
+    "hermosos",
+    "fermoso",
+    "fermosa"
+   ]
+  },
+  "y": {
+   "word": "y",
+   "shortDef": "and",
+   "g": 1,
+   "causes": [
+    "y"
+   ],
+   "longDef": [
+    [
+     "(Conjunction) and",
+     "Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso —que eran los más del año—, se daba a leer libros de caballerías, con tanta afición y gusto, que olvidó casi de todo punto el ejercicio de la caza y aun la administración de su hacienda; y llegó a tanto su curiosidad y desatino en esto, que vendió muchas hanegas de tierra de sembradura para comprar libros de caballerías en que leer, y, así, llevó a su casa todos cuantos pudo haber dellos. ― You must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
+    ],
+    [
+     "(Conjunction) (in names of number) and",
+     "setenta y seis ― seventy-six"
+    ]
+   ]
+  },
+  "compasivo": {
+   "word": "compasivo",
+   "shortDef": "compassionate",
+   "g": 1,
+   "causes": [
+    "compasiva"
+   ],
+   "longDef": null,
+   "opts": [
+    "compasiva",
+    "compasivos",
+    "compasivas"
+   ]
+  },
+  "llamada": {
+   "word": "llamada",
+   "shortDef": "call",
+   "g": 1,
+   "causes": [
+    "llamada"
+   ],
+   "longDef": [
+    [
+     "call",
+     "{f}"
+    ]
+   ],
+   "opts": [
+    "llamado",
+    "llamadas",
+    "llamados"
+   ]
+  },
+  "llamar": {
+   "word": "llamar",
+   "shortDef": "to call, to name",
+   "g": 1,
+   "causes": [
+    "llamada"
+   ],
+   "longDef": [
+    [
+     "(Verb) to summon, to call",
+     "Te estuve llamando a voces. ― I was summoning you by voice.",
+     "Me llamó con la mano para que me acercase. ― [He] summoned me with [his] hand in order to bring me near.\nto call (on the telephone)",
+     "Te llaman desde París. ― They are calling you from Paris.",
+     "Que me llamen a las siete. ― May they call me at seven o'clock.",
+     "Ha llamado a Maribel. ― [He] has called Maribel.\nto knock (on a door)",
+     "Entren sin llamar. ― Enter without knocking.\nto ring (a doorbell)",
+     "¿Quién llama? ― Who is ringing [the doorbell]?"
+    ],
+    [
+     "(Verb) to refer to",
+     "¿Cómo van a llamar al niño? ― How are they going to refer to the child?",
+     "Eso yo lo llamo un auténtico robo. ― I refer to that as an authentic robbery.",
+     "La llamó de todo. ― [He] referred to her about everything."
+    ]
+   ]
+  },
+  "esclava": {
+   "word": "esclava",
+   "shortDef": "bangle",
+   "g": 2,
+   "causes": [
+    "esclava"
+   ],
+   "longDef": [
+    [
+     "bangle",
+     "{f}"
+    ],
+    [
+     "(female) slave",
+     "{f}"
+    ]
+   ]
+  },
+  "castellano": {
+   "word": "castellano",
+   "shortDef": "Castilian (a person from Castile)",
+   "g": 2,
+   "causes": [
+    "castellana"
+   ],
+   "longDef": [
+    [
+     "(Noun) Castilian (a person from Castile)"
+    ],
+    [
+     "(Noun) Castilian Spanish (the dialect of the kingdom or region of Castile)"
+    ],
+    [
+     "Castilian (of or related to the kingdom or region of Castile)"
+    ],
+    [
+     "(inexact, sometimes offensive) Spanish (of or related to Spain, particularly the Castilian or European forms of the Spanish language)",
+     "Synonym: español"
+    ]
+   ],
+   "opts": [
+    "castellana",
+    "castellanas"
+   ]
+  },
+  "contar": {
+   "word": "contar",
+   "shortDef": "to count, relate, tell",
+   "g": 2,
+   "causes": [
+    "contó"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to count; to tally"
+    ],
+    [
+     "(Verb) (transitive) to tell (a story); narrate",
+     "Synonyms: narrar, relatar, platicar"
+    ]
+   ]
+  },
+  "á": {
+   "word": "á",
+   "shortDef": "to, at",
+   "g": 2,
+   "causes": [
+    "á"
+   ],
+   "longDef": [
+    [
+     "obsolete spelling of a",
+     "{prep}"
+    ]
+   ]
+  },
+  "la": {
+   "word": "la",
+   "shortDef": "the (feminine)",
+   "g": 2,
+   "causes": [
+    "la"
+   ],
+   "longDef": [
+    [
+     "the (feminine)"
+    ],
+    [
+     "her, it, you (formal)"
+    ],
+    [
+     "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
+     "La sabe toda.  ― He/she knows everything (it all)",
+     "¡Dónde la viste!  ― Where have you seen this!",
+     "No te la creo.  ― I don't believe you."
+    ]
+   ]
+  },
+  "del": {
+   "word": "del",
+   "shortDef": "of the, from the (contraction: 'de' + 'el')",
+   "g": 2,
+   "causes": [
+    "del"
+   ],
+   "longDef": [
+    [
+     "(Contraction) of the, from the (+ a masculine noun in singular)."
+    ]
+   ]
+  },
+  "que": {
+   "word": "que",
+   "shortDef": "that, than",
+   "g": 2,
+   "causes": [
+    "que"
+   ],
+   "longDef": [
+    [
+     "(Conjunction) that",
+     "Él dice que está triste. ― He says that he is sad."
+    ],
+    [
+     "(Conjunction) than",
+     "Llego más tarde que tú. ― I am arriving later than you."
+    ],
+    [
+     "who; that",
+     "Synonym: (Internet slang, text messaging) q",
+     "la estrella que está en la película ― the star who is in the movie"
+    ],
+    [
+     "that; whom",
+     "la mujer con la que yo hablé ― the woman with whom I spoke"
+    ],
+    [
+     "than"
+    ],
+    [
+     "like, as"
+    ],
+    [
+     "to"
+    ]
+   ]
+  },
+  "los": {
+   "word": "los",
+   "shortDef": "the, them (masculine)",
+   "g": 2,
+   "causes": [
+    "los"
+   ],
+   "longDef": [
+    [
+     "the",
+     "{art}"
+    ],
+    [
+     "Accusative form of ellos or ustedes",
+     "{pron}"
+    ],
+    [
+     "Plural masculine or neuter pronoun, e.g. los que no hablan, \"those who do not speak\"",
+     "{pron}"
+    ]
+   ]
+  },
+  "nazareno": {
+   "word": "nazareno",
+   "shortDef": "Nazarene",
+   "g": 2,
+   "causes": [
+    "nazarenos"
+   ],
+   "longDef": [
+    [
+     "(Noun) Nazarene"
+    ],
+    [
+     "(Noun) someone from Dos Hermanas, a city in Seville"
+    ],
+    [
+     "Nazarene"
+    ],
+    [
+     "from Dos Hermanas, a city in Seville"
+    ]
+   ]
+  },
+  "amar": {
+   "word": "amar",
+   "shortDef": "to love",
+   "g": 2,
+   "causes": [
+    "amaban"
+   ],
+   "longDef": [
+    [
+     "(Verb) to love, have great affection for, care about",
+     "Te amo. ― I love you."
+    ]
+   ]
+  },
+  "su": {
+   "word": "su",
+   "shortDef": "his, her, its, one's, their",
+   "g": 2,
+   "causes": [
+    "su"
+   ],
+   "longDef": [
+    [
+     "his, her, its, one's, their",
+     "Su casa es grande. - His house is big.",
+     "Su madre es muy simpática. - Her mother is very nice."
+    ],
+    [
+     "your (formal)",
+     "¿Cómo está su familia? - How is your family?",
+     "¿Dónde está su coche? - Where is your car?"
+    ]
+   ],
+   "opts": [
+    "suyo",
+    "sus"
+   ]
+  },
+  "dios": {
+   "word": "dios",
+   "shortDef": "God",
+   "g": 2,
+   "causes": [
+    "dios"
+   ],
+   "longDef": null
+  },
+  "sus": {
+   "word": "sus",
+   "shortDef": "Your",
+   "g": 2,
+   "causes": [
+    "sus"
+   ],
+   "longDef": [
+    [
+     "Your",
+     "{adj} [formal]"
+    ]
+   ],
+   "opts": [
+    "suyo",
+    "su"
+   ]
+  },
+  "padre": {
+   "word": "padre",
+   "shortDef": "father",
+   "g": 2,
+   "causes": [
+    "padres",
+    "padre"
+   ],
+   "longDef": [
+    [
+     "(Noun) (family) father",
+     "Synonyms: papá, progenitor"
+    ],
+    [
+     "(Noun) (Christianity) father",
+     "Synonyms: cura, párroco, sacerdote"
+    ],
+    [
+     "(Mexico, slang) cool, acceptable, easy",
+     "Synonyms: see Thesaurus:guay"
+    ]
+   ]
+  },
+  "hermano": {
+   "word": "hermano",
+   "shortDef": "brother",
+   "g": 2,
+   "causes": [
+    "hermanos"
+   ],
+   "longDef": [
+    [
+     "(Noun) brother",
+     "Yo tengo tantos hermanos / Que no los puedo contar / Y una novia muy hermosa / Que se llama Libertad ― (please add an English translation of this quotation)"
+    ],
+    [
+     "(Noun) sibling"
+    ],
+    [
+     "first-person singular present indicative of hermanar"
+    ]
+   ]
+  },
+  "esposas": {
+   "word": "esposas",
+   "shortDef": "feminine plural of esposo",
+   "g": 2,
+   "causes": [
+    "esposas"
+   ],
+   "longDef": [
+    [
+     "feminine plural of esposo",
+     "{fp}"
+    ],
+    [
+     "handcuffs",
+     "{fp} [plurale tantum]"
+    ]
+   ]
+  },
+  "esposar": {
+   "word": "esposar",
+   "shortDef": "to handcuff",
+   "g": 2,
+   "causes": [
+    "esposas"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to handcuff, manacle"
+    ]
+   ]
+  },
+  "también": {
+   "word": "también",
+   "shortDef": "also, too, as well",
+   "g": 3,
+   "causes": [
+    "también"
+   ],
+   "longDef": [
+    [
+     "(Adverb) also, too, as well",
+     "Antonym: tampoco",
+     "Y tu mamá también ― And your mother, as well."
+    ],
+    [
+     "(Adverb) so",
+     "también lo hace el / la… ― so does the…"
+    ]
+   ]
+  },
+  "nunca": {
+   "word": "nunca",
+   "shortDef": "never",
+   "g": 3,
+   "causes": [
+    "nunca"
+   ],
+   "longDef": [
+    [
+     "(Adverb) never",
+     "Synonyms: jamás, en su vida",
+     "Nunca he probado la langosta. ― I've never tasted lobster.\n2008, Fausto Ponce, Fuera de lugar, Lulu.com, page 7:",
+     "Nunca te va a hacer una chingadera. ― He will never screw you over."
+    ],
+    [
+     "(Adverb) ever",
+     "Estamos mejor que nunca. ― We're better than ever."
+    ]
+   ]
+  },
+  "quedar": {
+   "word": "quedar",
+   "shortDef": "to stay, remain",
+   "g": 3,
+   "causes": [
+    "quedan",
+    "queda"
+   ],
+   "longDef": [
+    [
+     "(Verb) (intransitive) to be (as a result of something)",
+     "quedar de acuerdo ― to be in agreement (as a result of a discussion)",
+     "quedar embarazada ― get pregnant",
+     "Quedo contento con el coche. ― I am pleased with the car (after buying it).",
+     "Las ciudades quedaron destruidas por la guerra. ― The cities were destroyed as a result of the war."
+    ],
+    [
+     "(Verb) (intransitive) to be situated; to be located (used with only static objects, such as buildings)",
+     "Synonyms: encontrarse en, estar ubicado en",
+     "Queda muy lejos. ― It is too far.",
+     "Queda por allí. ― It's over there.",
+     "Nuestra tienda queda en la Alameda Central. ― Our store is located on Central Boulevard."
+    ]
+   ]
+  },
+  "huérfano": {
+   "word": "huérfano",
+   "shortDef": "orphan",
+   "g": 3,
+   "causes": [
+    "huérfanos"
+   ],
+   "longDef": [
+    [
+     "(Noun) orphan"
+    ],
+    [
+     "orphan"
+    ]
+   ]
+  },
+  "madre": {
+   "word": "madre",
+   "shortDef": "mother",
+   "g": 3,
+   "causes": [
+    "madre"
+   ],
+   "longDef": [
+    [
+     "(Noun) mother",
+     "Synonym: mamá"
+    ],
+    [
+     "(Noun) (figuratively) mother (source or origin)",
+     "Synonyms: causa, raíz, origen"
+    ]
+   ]
+  },
+  "porque": {
+   "word": "porque",
+   "shortDef": "because",
+   "g": 3,
+   "causes": [
+    "porque"
+   ],
+   "longDef": null
+  },
+  "cuando": {
+   "word": "cuando",
+   "shortDef": "when",
+   "g": 3,
+   "causes": [
+    "cuando"
+   ],
+   "longDef": [
+    [
+     "(Conjunction) when",
+     "Ven cuando estés listo. ― Come when you're ready."
+    ],
+    [
+     "when"
+    ]
+   ]
+  },
+  "perder": {
+   "word": "perder",
+   "shortDef": "to lose",
+   "g": 3,
+   "causes": [
+    "pierden"
+   ],
+   "longDef": [
+    [
+     "(Verb) to lose"
+    ],
+    [
+     "(Verb) to miss, to miss out",
+     "No quiero perderme nada. ― I don't want to miss anything."
+    ]
+   ]
+  },
+  "concebir": {
+   "word": "concebir",
+   "shortDef": "to conceive, imagine",
+   "g": 3,
+   "causes": [
+    "concibió"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to conceive, imagine"
+    ],
+    [
+     "(Verb) (transitive) to understand",
+     "Synonyms: comprender, entender"
+    ]
+   ]
+  },
+  "le": {
+   "word": "le",
+   "shortDef": "to him, to her, to you",
+   "g": 3,
+   "causes": [
+    "les",
+    "le"
+   ],
+   "longDef": [
+    [
+     "To her, for her (dative form of ella)",
+     "{pron}"
+    ],
+    [
+     "To him, for him (dative form of él)",
+     "{pron}"
+    ],
+    [
+     "To you, for you (dative form of usted, ello, lo)",
+     "{pron}"
+    ]
+   ]
+  },
+  "queda": {
+   "word": "queda",
+   "shortDef": "curfew",
+   "g": 3,
+   "causes": [
+    "queda"
+   ],
+   "longDef": [
+    [
+     "curfew",
+     "{f}"
+    ]
+   ]
+  },
+  "otra": {
+   "word": "otra",
+   "shortDef": "feminine of otro; another, another one",
+   "g": 3,
+   "causes": [
+    "otra"
+   ],
+   "longDef": [
+    [
+     "feminine of otro; another, another one",
+     "{pron}"
+    ]
+   ],
+   "opts": [
+    "otro",
+    "otros",
+    "otras"
+   ]
+  },
+  "maría": {
+   "word": "maría",
+   "shortDef": "magpie (bird)",
+   "g": 3,
+   "causes": [
+    "maría"
+   ],
+   "longDef": [
+    [
+     "(Noun) magpie (bird)",
+     "Synonyms: urraca, marica"
+    ],
+    [
+     "(Noun) (historical) Former coin of Spain in the 17th century, equivalent to 12 reales de vellón"
+    ]
+   ]
+  },
+  "inmortal": {
+   "word": "inmortal",
+   "shortDef": "immortal (not susceptible to death)",
+   "g": 3,
+   "causes": [
+    "inmortal"
+   ],
+   "longDef": [
+    [
+     "(Adjective) immortal (not susceptible to death)",
+     "Antonym: mortal"
+    ],
+    [
+     "(Adjective) immortal (never to be forgotten)"
+    ],
+    [
+     "immortal",
+     "Antonym: mortal"
+    ],
+    [
+     "everlasting"
+    ]
+   ],
+   "opts": [
+    "inmortales"
+   ]
+  },
+  "pasar": {
+   "word": "pasar",
+   "shortDef": "to pass, to spend (time), to happen",
+   "g": 4,
+   "causes": [
+    "pasaron"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to pass, to hand, to slip"
+    ],
+    [
+     "(Verb) (intransitive) to happen",
+     "Synonyms: ocurrir, suceder",
+     "¿qué pasa? ― what's up?",
+     "estas cosas pasan ― these things happen",
+     "Ya me ha pasado. ― It has already happened to me."
+    ]
+   ]
+  },
+  "año": {
+   "word": "año",
+   "shortDef": "year",
+   "g": 4,
+   "causes": [
+    "años"
+   ],
+   "longDef": [
+    [
+     "(Noun) year",
+     "Hypernyms: lustro, década, siglo, milenio",
+     "Hyponyms: día, semana, mes",
+     "el año pasado ― last year",
+     "el año que viene ― next year",
+     "el año vigente ― the current year",
+     "va para un año que no te veo ― it's been a year since I saw you",
+     "con los años me cuesta cada vez más estar feliz ― over the years I find it harder and harder to be happy",
+     "dentro de un par de años ― in a couple of years' time",
+     "el mejor año de mi vida ― the best year of my life",
+     "todos los años es igual ― it's the same thing year on year",
+     "en sus años mozo ― in her childhood years"
+    ],
+    [
+     "(Noun) (a certain) age",
+     "Tengo veinte años. ― I'm twenty [years old].",
+     "Depende de los años que tenga. ― It depends how old it is."
+    ]
+   ]
+  },
+  "fu": {
+   "word": "fu",
+   "shortDef": "An indication of disgust",
+   "g": 4,
+   "causes": [
+    "fué"
+   ],
+   "longDef": [
+    [
+     "(Interjection) An indication of disgust"
+    ],
+    [
+     "(Interjection) the hissing of a cat"
+    ]
+   ]
+  },
+  "creciendo": {
+   "word": "creciendo",
+   "shortDef": "growing",
+   "g": 4,
+   "causes": [
+    "creciendo"
+   ],
+   "longDef": null
+  },
+  "crecer": {
+   "word": "crecer",
+   "shortDef": "to grow (up)",
+   "g": 4,
+   "causes": [
+    "creciendo"
+   ],
+   "longDef": [
+    [
+     "(Verb) to grow",
+     "Antonym: decrecer"
+    ]
+   ]
+  },
+  "en": {
+   "word": "en",
+   "shortDef": "in, at, on",
+   "g": 4,
+   "causes": [
+    "en"
+   ],
+   "longDef": [
+    [
+     "(Preposition) in, at, on",
+     "Estoy en casa. ― I'm at home.",
+     "Estoy sentado en la computadora. ― I'm sitting at the computer.",
+     "en esta página ― on this page",
+     "en la caja en la mesa ― in the box on the table"
+    ],
+    [
+     "(Preposition) in (a time)",
+     "en la antigüedad ― in antiquity",
+     "en 1999 ― in 1999"
+    ]
+   ]
+  },
+  "cuerpo": {
+   "word": "cuerpo",
+   "shortDef": "body (the physical structure of a human or animal)",
+   "g": 4,
+   "causes": [
+    "cuerpo"
+   ],
+   "longDef": [
+    [
+     "(Noun) body (the physical structure of a human or animal)"
+    ],
+    [
+     "(Noun) body, torso",
+     "Synonyms: tronco, torso"
+    ]
+   ]
+  },
+  "hermosura": {
+   "word": "hermosura",
+   "shortDef": "beauty (someone who is beautiful)",
+   "g": 4,
+   "causes": [
+    "hermosura"
+   ],
+   "longDef": [
+    [
+     "(Noun) beauty (someone who is beautiful)",
+     "Synonym: belleza"
+    ],
+    [
+     "(Noun) beauty (the quality of being attractive or pleasing)",
+     "Synonym: belleza"
+    ]
+   ]
+  },
+  "virtud": {
+   "word": "virtud",
+   "shortDef": "virtue",
+   "g": 4,
+   "causes": [
+    "virtud"
+   ],
+   "longDef": [
+    [
+     "(Noun) virtue",
+     "Antonym: vicio"
+    ]
+   ]
+  },
+  "se": {
+   "word": "se",
+   "shortDef": "oneself, himself, herself, itself, yourself; each other; one another",
+   "g": 5,
+   "causes": [
+    "se"
+   ],
+   "longDef": [
+    [
+     "(Pronoun) third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
+     "Juan se lava. ― Juan washes himself.",
+     "Juan se lava la cara. ― Juan washes his own face. (literally, \"Juan to himself washes the face.\")",
+     "Juan y María se aman. ― Juan and María love each other."
+    ],
+    [
+     "(Pronoun) used to convey the meaning of the English passive voice in the third person and with usted and ustedes",
+     "¿Cómo se llama? ― What is your name? (literally, \"How do you call yourself?\")",
+     "Se dice que... ― It is said that... (literally, \"It says itself that...\")",
+     "Aquí se habla español ― Spanish is spoken here / They speak Spanish here. (literally, \"One speaks Spanish here, Spanish speaks itself here.\")"
+    ],
+    [
+     "Misspelling of sé."
+    ]
+   ]
+  },
+  "morir": {
+   "word": "morir",
+   "shortDef": "to die",
+   "g": 5,
+   "causes": [
+    "murió"
+   ],
+   "longDef": [
+    [
+     "(Verb) to die",
+     "Synonyms: estirar la pata, fallecer, morirse, palmar, petatearse",
+     "La caballerosidad no ha muerto. ― Chivalry is not dead."
+    ],
+    [
+     "(Verb) (reflexive) to die",
+     "Antonym: vivir"
+    ]
+   ]
+  },
+  "envidiar": {
+   "word": "envidiar",
+   "shortDef": "to envy",
+   "g": 5,
+   "causes": [
+    "envidió"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to envy"
+    ]
+   ]
+  },
+  "dicha": {
+   "word": "dicha",
+   "shortDef": "bliss",
+   "g": 5,
+   "causes": [
+    "dicha"
+   ],
+   "longDef": [
+    [
+     "bliss",
+     "{f}"
+    ],
+    [
+     "luck",
+     "{f}"
+    ]
+   ],
+   "opts": [
+    "dicho",
+    "dichas"
+   ]
+  },
+  "decir": {
+   "word": "decir",
+   "shortDef": "to say, tell",
+   "g": 5,
+   "causes": [
+    "dicha"
+   ],
+   "longDef": [
+    [
+     "(Verb) to say, to tell",
+     "Es un mentiroso. Nunca dice la verdad. ― He's a liar. He never tells the truth.",
+     "¿Qué te dijeron? ― What did they tell you?\n1615, Miguel de Cervantes, \"Capítulo XXXII\", in El ingenioso hidalgo Don Quijote de la Mancha, Segunda parte:",
+     "Digo, señor don Quijote -dijo la duquesa-, que en todo cuanto vuestra merced dice va con pie de plomo, y, como suele decirse, con la sonda en la mano; y que yo desde aquí adelante creeré  […]  que hay Dulcinea en el Toboso,  […]  merecedora que un tal caballero como es el señor don Quijote la sirva; que es lo más que puedo ni sé encarecer. ― \"I say, Sir Don Quixote,\" said the duchess, \"that in all your mercy says, he goes with leaden feet, and as the saying goes, with sounding plummet in hand; and that I henceforth will believe,  […]  that there is a Dulcinea in El Toboso,  […]  deserving of such a knight as Sir Don Quixote in her service, which is the highest praise that I can give her.\""
+    ],
+    [
+     "(Verb) to suggest"
+    ],
+    [
+     "saying"
+    ],
+    [
+     "idle talk"
+    ]
+   ]
+  },
+  "confinar": {
+   "word": "confinar",
+   "shortDef": "to confine, border",
+   "g": 6,
+   "causes": [
+    "confines"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to confine, to limit, to restrict, to keep within bounds"
+    ],
+    [
+     "(Verb) (transitive) to lock down, to secure (make people stay locked indoors for their safety)"
+    ]
+   ]
+  },
+  "jardín": {
+   "word": "jardín",
+   "shortDef": "garden",
+   "g": 6,
+   "causes": [
+    "jardín"
+   ],
+   "longDef": [
+    [
+     "(Noun) garden"
+    ],
+    [
+     "(Noun) front yard (Ellipsis of jardín delantero.)"
+    ]
+   ]
+  },
+  "rodear": {
+   "word": "rodear",
+   "shortDef": "to surround",
+   "g": 6,
+   "causes": [
+    "rodeaba"
+   ],
+   "longDef": [
+    [
+     "(Verb) to round up"
+    ],
+    [
+     "(Verb) to surround"
+    ]
+   ]
+  },
+  "palacio": {
+   "word": "palacio",
+   "shortDef": "palace",
+   "g": 6,
+   "causes": [
+    "palacio"
+   ],
+   "longDef": [
+    [
+     "(Noun) palace"
+    ],
+    [
+     "(Noun) mansion",
+     "Synonyms: mansión, casoplón"
+    ]
+   ]
+  },
+  "había": {
+   "word": "había",
+   "shortDef": "There was X",
+   "g": 6,
+   "causes": [
+    "había"
+   ],
+   "longDef": [
+    [
+     "There was X",
+     "{phrase}"
+    ],
+    [
+     "There were X",
+     "{phrase}"
+    ]
+   ]
+  },
+  "haber": {
+   "word": "haber",
+   "shortDef": "to have (to do something, auxiliary verb)",
+   "g": 6,
+   "causes": [
+    "había"
+   ],
+   "longDef": [
+    [
+     "(Verb) (auxiliary verb taking past participle to build various perfect tenses) to have",
+     "He trabajado muy duro durante este mes. ― I have worked very hard during this month.",
+     "Mi hermanito me pidió más chocolate, pero ya le había dado demasiado. ― My little brother asked me for more chocolate, but I had already given him too much."
+    ],
+    [
+     "(Verb) (obsolete) to hold, to possess"
+    ],
+    [
+     "asset"
+    ],
+    [
+     "history"
+    ]
+   ]
+  },
+  "unas": {
+   "word": "unas",
+   "shortDef": "some, a few",
+   "g": 6,
+   "causes": [
+    "unas"
+   ],
+   "longDef": null,
+   "opts": [
+    "uno",
+    "una",
+    "unos"
+   ]
+  },
+  "unir": {
+   "word": "unir",
+   "shortDef": "to connect, to unite, to join, to bind, to attach",
+   "g": 6,
+   "causes": [
+    "unas"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive or reflexive) to unite, join",
+     "¡Únete al sindicato! ― Join up with the union!"
+    ],
+    [
+     "(Verb) (transitive) to merge, conflate"
+    ]
+   ]
+  },
+  "lóbrego": {
+   "word": "lóbrego",
+   "shortDef": "dark",
+   "g": 6,
+   "causes": [
+    "lóbregas"
+   ],
+   "longDef": [
+    [
+     "dark",
+     "{adj}"
+    ],
+    [
+     "gloomy",
+     "{adj}"
+    ],
+    [
+     "sad",
+     "{adj}"
+    ]
+   ]
+  },
+  "mazmorra": {
+   "word": "mazmorra",
+   "shortDef": "dungeon",
+   "g": 6,
+   "causes": [
+    "mazmorras"
+   ],
+   "longDef": [
+    [
+     "(Noun) dungeon",
+     "Synonym: calabozo\n2023 February 10, Iker Seisdedos, \"Relatos de la peor mazmorra de Nicaragua: \"Nos engrillaban para dormir o cuando nos llevaban al ‘túnel’. Allí te esperaban los golpes\"\", in El País‎[1]:",
+     "El Infiernillo carga la fama de ser la peor mazmorra de Managua. Allí, en esa cárcel de máxima seguridad, Solís, estudiante de Derecho, pasó tres años en régimen de aislamiento, en un \"camarote sin luz solar, con la puerta siempre sellada\". ― (please add an English translation of this quotation)"
+    ]
+   ]
+  },
+  "donde": {
+   "word": "donde",
+   "shortDef": "where, in what place",
+   "g": 6,
+   "causes": [
+    "donde"
+   ],
+   "longDef": [
+    [
+     "(Pronoun) (relative) where, in what place",
+     "El lugar donde estamos es secreto. ― The place where we are is secret."
+    ],
+    [
+     "(in indirect questions) where, in what place",
+     "Deja los libros donde quieras. ― Leave the books where you want."
+    ],
+    [
+     "(Chile, colloquial) because"
+    ],
+    [
+     "(Latin America, colloquial) if"
+    ],
+    [
+     "by, near to",
+     "Estamos donde la plaza mayor. ― We're around by the main square."
+    ],
+    [
+     "round (at the house of)",
+     "Cenamos donde Daniel. ― We're having dinner (round) at Daniel's place."
+    ]
+   ]
+  },
+  "gemir": {
+   "word": "gemir",
+   "shortDef": "to grieve, to groan, tomoan",
+   "g": 6,
+   "causes": [
+    "gemían",
+    "gemir"
+   ],
+   "longDef": [
+    [
+     "(Verb) to wail"
+    ],
+    [
+     "(Verb) to moan, to groan"
+    ]
+   ]
+  },
+  "hambriento": {
+   "word": "hambriento",
+   "shortDef": "very hungry, famished",
+   "g": 6,
+   "causes": [
+    "hambrientos"
+   ],
+   "longDef": [
+    [
+     "(Adjective) very hungry, famished"
+    ],
+    [
+     "(Adjective) hungry",
+     "Yo no tengo pan y estoy hambriento. ― I do not have bread and I'm hungry."
+    ],
+    [
+     "hungry\n1657, Baltasar Gracián, \"En el invierno de la vejez\", in El Criticón, tercera parte:",
+     "No gusta de los manjares sino el hambriento, y el sediento de la bebida. ― Nobody enjoys tasteful morsels but who is hungry, and beverages who is thirsty."
+    ]
+   ],
+   "opts": [
+    "hambrientos",
+    "hambrienta",
+    "hambrientas"
+   ]
+  },
+  "cargado": {
+   "word": "cargado",
+   "shortDef": "loaded",
+   "g": 6,
+   "causes": [
+    "cargados"
+   ],
+   "longDef": [
+    [
+     "(Adjective) loaded"
+    ],
+    [
+     "(Adjective) charged"
+    ],
+    [
+     "past participle of cargar"
+    ]
+   ],
+   "opts": [
+    "cargada",
+    "cargados",
+    "cargadas"
+   ]
+  },
+  "cargar": {
+   "word": "cargar",
+   "shortDef": "to load, to burden",
+   "g": 6,
+   "causes": [
+    "cargados"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to load (to put a load on or in (a means of conveyance or a place of storage))",
+     "Los estibadores se negaron a cargar el barco. ― The dock workers refused to load the ship."
+    ],
+    [
+     "(Verb) (transitive) to load (to fill (a firearm or artillery) with munition)",
+     "Apreté el gatillo, pero no pasó nada. Me había olvidado de cargar el arma. ― I pulled the trigger, but nothing happened. I had forgotten to load the gun."
+    ]
+   ]
+  },
+  "cadena": {
+   "word": "cadena",
+   "shortDef": "chain (series of interconnected rings or links usually made of metal)",
+   "g": 6,
+   "causes": [
+    "cadenas"
+   ],
+   "longDef": [
+    [
+     "(Noun) chain (series of interconnected rings or links usually made of metal)"
+    ],
+    [
+     "(Noun) necklace (article of jewelry that is worn around the neck)"
+    ]
+   ]
+  },
+  "muchos": {
+   "word": "muchos",
+   "shortDef": "much; many (of something) (masculine plural of mucho, much)",
+   "g": 6,
+   "causes": [
+    "muchos"
+   ],
+   "longDef": [
+    [
+     "much; many (of something) (masculine plural of mucho, much)",
+     "{adj}"
+    ]
+   ],
+   "opts": [
+    "mucho",
+    "muchas",
+    "mucha"
+   ]
+  },
+  "cautivo": {
+   "word": "cautivo",
+   "shortDef": "captive",
+   "g": 6,
+   "causes": [
+    "cautivos"
+   ],
+   "longDef": [
+    [
+     "(Adjective) captive"
+    ],
+    [
+     "captive"
+    ],
+    [
+     "first-person singular present indicative of cautivar"
+    ]
+   ],
+   "opts": [
+    "cautivos"
+   ]
+  },
+  "cristiano": {
+   "word": "cristiano",
+   "shortDef": "Christian (of the Christian religion)",
+   "g": 6,
+   "causes": [
+    "cristianos"
+   ],
+   "longDef": [
+    [
+     "(Adjective) Christian (of the Christian religion)"
+    ],
+    [
+     "Christian (member of the Christian religion)"
+    ],
+    [
+     "(colloquial) guy (person)",
+     "Synonyms: tipo, (pejorative) fulano, (Chile) gallo"
+    ],
+    [
+     "first-person singular present indicative of cristianar"
+    ]
+   ],
+   "opts": [
+    "cristianos",
+    "cristiana",
+    "cristianas",
+    "christiana",
+    "christianos"
+   ]
+  },
+  "suceder": {
+   "word": "suceder",
+   "shortDef": "to happen",
+   "g": 7,
+   "causes": [
+    "sucedió"
+   ],
+   "longDef": [
+    [
+     "(Verb) to happen, to befall, to occur",
+     "Synonyms: ocurrir, pasar",
+     "¿Qué sucede? ― What’s the matter?",
+     "Suceda lo que suceda ― Come what may."
+    ],
+    [
+     "(Verb) to succeed to, to follow"
+    ]
+   ]
+  },
+  "un": {
+   "word": "un",
+   "shortDef": "a, an",
+   "g": 7,
+   "causes": [
+    "un"
+   ],
+   "longDef": [
+    [
+     "a, an",
+     "¡Mira al cielo, hay un águila! - Look at the sky, there's an eagle!",
+     "¡Manos arriba, tengo un arma! - Hands up, I have a gun!"
+    ]
+   ]
+  },
+  "día": {
+   "word": "día",
+   "shortDef": "day (any period of 24 hours)",
+   "g": 7,
+   "causes": [
+    "día"
+   ],
+   "longDef": [
+    [
+     "(Noun) day (any period of 24 hours)"
+    ],
+    [
+     "(Noun) day (a period from midnight to the following midnight)",
+     "El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino. ― The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun."
+    ]
+   ]
+  },
+  "pasear": {
+   "word": "pasear",
+   "shortDef": "to stroll, to saunter, to promenade",
+   "g": 7,
+   "causes": [
+    "pasear"
+   ],
+   "longDef": [
+    [
+     "(Verb) (intransitive) to stroll, to saunter, to promenade"
+    ],
+    [
+     "(Verb) (intransitive) to walk, to take a walk"
+    ]
+   ]
+  },
+  "por": {
+   "word": "por",
+   "shortDef": "for, by, through",
+   "g": 7,
+   "causes": [
+    "por"
+   ],
+   "longDef": [
+    [
+     "for",
+     "Lo hice por ti. - I did it for you."
+    ],
+    [
+     "by",
+     "Escrito por Juan. - Written by Juan."
+    ],
+    [
+     "through",
+     "Entra por la puerta principal. - Enter through the main door."
+    ]
+   ]
+  },
+  "oír": {
+   "word": "oír",
+   "shortDef": "to hear",
+   "g": 7,
+   "causes": [
+    "oyó"
+   ],
+   "longDef": [
+    [
+     "(Verb) (intransitive) to hear",
+     "¡Oiga, por favor! ― Excuse me!",
+     "(literally, \"Hear, please!\")"
+    ],
+    [
+     "(Verb) (transitive) to hear (passively perceive a sound)",
+     "Oí ruidos extraños viniendo desde detrás de la puerta y tuve miedo. ― I heard strange noises coming from behind the door and got scared."
+    ]
+   ]
+  },
+  "pobre": {
+   "word": "pobre",
+   "shortDef": "poor (pitiable, pitiful)",
+   "g": 7,
+   "causes": [
+    "pobres"
+   ],
+   "longDef": [
+    [
+     "(Adjective) (before the noun) poor (pitiable, pitiful)",
+     "Mi pobre vecino siempre está llorando. ― My poor neighbor is always crying.\n2013, El sueño el Morfeo, Vuelve (a donde has venido):",
+     "El pasado ya es pasado, no tienes que pedir perdón. Solo déjanos tranquilos a mí y a mi pobre corazón. ― The past is the past, you don't have to ask forgiveness. Just leave us alone, me and my poor heart."
+    ],
+    [
+     "(Adjective) (after the noun) poor (lacking money, resources, etc.)",
+     "Se relajan las familias ricas en casas lujosas y las familias pobres tiran en chozas desmoronadas. ― The rich families relax in luxurious houses and the poor families get by in dilapidated huts."
+    ]
+   ],
+   "opts": [
+    "pobres",
+    "probe",
+    "probes"
+   ]
+  },
+  "princesa": {
+   "word": "princesa",
+   "shortDef": "princess",
+   "g": 8,
+   "causes": [
+    "princesa"
+   ],
+   "longDef": [
+    [
+     "(Noun) princess",
+     "Synonym: infanta"
+    ]
+   ]
+  },
+  "mora": {
+   "word": "mora",
+   "shortDef": "A mulberry, a mulberry fruit",
+   "g": 8,
+   "causes": [
+    "mora"
+   ],
+   "longDef": [
+    [
+     "A mulberry, a mulberry fruit",
+     "{f}"
+    ],
+    [
+     "default (failure to meet an obligation on time)",
+     "{f}"
+    ],
+    [
+     "mora (unit of syllable weight)",
+     "{f} [phonology]"
+    ]
+   ]
+  },
+  "tornar": {
+   "word": "tornar",
+   "shortDef": "to turn",
+   "g": 8,
+   "causes": [
+    "tornó"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to return",
+     "Synonym: devolver"
+    ],
+    [
+     "(Verb) (intransitive) to come back; to go back",
+     "Synonyms: regresar, retornar, volver\n1877, Benito Pérez Galdós, Gloria:",
+     "Como además vieron al doctor Sedeño abstraído en la lectura de los periódicos políticos, tornaron al jardín. ― (please add an English translation of this quotation)"
+    ]
+   ]
+  },
+  "al": {
+   "word": "al",
+   "shortDef": "to the, at the (contraction: 'a' + 'el')",
+   "g": 8,
+   "causes": [
+    "al"
+   ],
+   "longDef": [
+    [
+     "(Contraction) Contraction of a el (\"at the, to the\")."
+    ]
+   ]
+  },
+  "lleno": {
+   "word": "lleno",
+   "shortDef": "full",
+   "g": 8,
+   "causes": [
+    "lleno"
+   ],
+   "longDef": [
+    [
+     "(Adjective) full"
+    ],
+    [
+     "first-person singular present indicative of llenar"
+    ]
+   ],
+   "opts": [
+    "llena",
+    "llenos",
+    "llenas"
+   ]
+  },
+  "llenar": {
+   "word": "llenar",
+   "shortDef": "to fill",
+   "g": 8,
+   "causes": [
+    "lleno"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to fill something up",
+     "Synonyms: colmar, rellenar"
+    ],
+    [
+     "(Verb) (transitive) to fill out or complete a form",
+     "Synonym: rellenar",
+     "Por favor llene este formulario. ― Please fill out this form."
+    ]
+   ]
+  },
+  "corazón": {
+   "word": "corazón",
+   "shortDef": "heart (organ of the body)",
+   "g": 8,
+   "causes": [
+    "corazón"
+   ],
+   "longDef": [
+    [
+     "(Noun) (anatomy) heart (organ of the body)"
+    ],
+    [
+     "(Noun) emotions, kindness, spirit",
+     "Synonyms: alma, pecho"
+    ]
+   ]
+  },
+  "tristeza": {
+   "word": "tristeza",
+   "shortDef": "sadness, gloom, sorrow, gloominess, unhappiness, misery",
+   "g": 8,
+   "causes": [
+    "tristeza"
+   ],
+   "longDef": [
+    [
+     "(Noun) sadness, gloom, sorrow, gloominess, unhappiness, misery"
+    ],
+    [
+     "(Noun) tristeza (plant disease)"
+    ]
    ]
   }
- ]
+ },
+ "title": "ERA el rey de Toledo el moro Almenón, con quien el rey de Castilla don Fernando el Grande mantenía cordial amistad.",
+ "genders": {
+  "ser": {
+   "q": "me",
+   "g": 0
+  },
+  "rey": {
+   "q": "me",
+   "g": 0
+  },
+  "moro": {
+   "q": "me",
+   "g": 0
+  },
+  "castillo": {
+   "q": "me",
+   "g": 0
+  },
+  "don": {
+   "q": "me",
+   "g": 0
+  },
+  "amistad": {
+   "q": "fl",
+   "g": 0
+  },
+  "castellano": {
+   "q": "me",
+   "g": 2
+  },
+  "nazareno": {
+   "q": "me",
+   "g": 2
+  },
+  "dios": {
+   "q": "me",
+   "g": 2
+  },
+  "padre": {
+   "q": "me",
+   "g": 2
+  },
+  "hermano": {
+   "q": "me",
+   "g": 2
+  },
+  "huérfano": {
+   "q": "me",
+   "g": 3
+  },
+  "madre": {
+   "q": "fl",
+   "g": 3
+  },
+  "año": {
+   "q": "me",
+   "g": 4
+  },
+  "cuerpo": {
+   "q": "me",
+   "g": 4
+  },
+  "hermosura": {
+   "q": "fl",
+   "g": 4
+  },
+  "virtud": {
+   "q": "fl",
+   "g": 4
+  },
+  "jardín": {
+   "q": "me",
+   "g": 6
+  },
+  "palacio": {
+   "q": "me",
+   "g": 6
+  },
+  "mazmorra": {
+   "q": "fl",
+   "g": 6
+  },
+  "cadena": {
+   "q": "fl",
+   "g": 6
+  },
+  "día": {
+   "q": "me",
+   "g": 7
+  },
+  "princesa": {
+   "q": "fl",
+   "g": 8
+  },
+  "corazón": {
+   "q": "me",
+   "g": 8
+  },
+  "tristeza": {
+   "q": "fl",
+   "g": 8
+  }
+ },
+ "conjs": {
+  "era": {
+   "g": 0,
+   "c": [
+    "020",
+    "ser",
+    "022",
+    "ser"
+   ]
+  },
+  "moro": {
+   "g": 0,
+   "c": [
+    "000",
+    "morar"
+   ]
+  },
+  "mantenía": {
+   "g": 0,
+   "c": [
+    "020",
+    "mantener",
+    "022",
+    "mantener"
+   ]
+  },
+  "tenía": {
+   "g": 1,
+   "c": [
+    "020",
+    "tener",
+    "022",
+    "tener"
+   ]
+  },
+  "contó": {
+   "g": 2,
+   "c": [
+    "012",
+    "contar"
+   ]
+  },
+  "amaban": {
+   "g": 2,
+   "c": [
+    "025",
+    "amar"
+   ]
+  },
+  "esposas": {
+   "g": 2,
+   "c": [
+    "001",
+    "esposar"
+   ]
+  },
+  "quedan": {
+   "g": 3,
+   "c": [
+    "005",
+    "quedar"
+   ]
+  },
+  "pierden": {
+   "g": 3,
+   "c": [
+    "005",
+    "perder"
+   ]
+  },
+  "concibió": {
+   "g": 3,
+   "c": [
+    "012",
+    "concebir"
+   ]
+  },
+  "queda": {
+   "g": 3,
+   "c": [
+    "002",
+    "quedar",
+    "201",
+    "quedar"
+   ]
+  },
+  "es": {
+   "g": 3,
+   "c": [
+    "002",
+    "ser"
+   ]
+  },
+  "pasaron": {
+   "g": 4,
+   "c": [
+    "015",
+    "pasar"
+   ]
+  },
+  "creciendo": {
+   "g": 4,
+   "c": [
+    "6",
+    "crecer"
+   ]
+  },
+  "murió": {
+   "g": 5,
+   "c": [
+    "012",
+    "morir"
+   ]
+  },
+  "envidió": {
+   "g": 5,
+   "c": [
+    "012",
+    "envidiar"
+   ]
+  },
+  "rodeaba": {
+   "g": 6,
+   "c": [
+    "020",
+    "rodear",
+    "022",
+    "rodear"
+   ]
+  },
+  "había": {
+   "g": 6,
+   "c": [
+    "020",
+    "haber",
+    "022",
+    "haber"
+   ]
+  },
+  "unas": {
+   "g": 6,
+   "c": [
+    "101",
+    "unir",
+    "211",
+    "unir"
+   ]
+  },
+  "gemían": {
+   "g": 6,
+   "c": [
+    "025",
+    "gemir"
+   ]
+  },
+  "sucedió": {
+   "g": 7,
+   "c": [
+    "012",
+    "suceder"
+   ]
+  },
+  "oyó": {
+   "g": 7,
+   "c": [
+    "012",
+    "oír"
+   ]
+  },
+  "mora": {
+   "g": 8,
+   "c": [
+    "002",
+    "morar",
+    "201",
+    "morar"
+   ]
+  },
+  "tornó": {
+   "g": 8,
+   "c": [
+    "012",
+    "tornar"
+   ]
+  },
+  "lleno": {
+   "g": 8,
+   "c": [
+    "000",
+    "llenar"
+   ]
+  }
+ }
 }

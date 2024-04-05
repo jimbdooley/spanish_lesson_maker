@@ -2089,26 +2089,23 @@
   },
   "la": {
    "word": "la",
-   "shortDef": "the",
+   "shortDef": "the (feminine)",
    "g": 0,
    "causes": [
     "la"
    ],
    "longDef": [
     [
-     "the"
+     "the (feminine)"
     ],
     [
-     "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
+     "her, it, you (formal)"
     ],
     [
      "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
      "La sabe toda.  ― He/she knows everything (it all)",
      "¡Dónde la viste!  ― Where have you seen this!",
      "No te la creo.  ― I don't believe you."
-    ],
-    [
-     "(music) la (sixth note of the scale)"
     ]
    ]
   },
@@ -2195,11 +2192,15 @@
      "¿Cómo está su familia? - How is your family?",
      "¿Dónde está su coche? - Where is your car?"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "sus"
    ]
   },
   "padre": {
    "word": "padre",
-   "shortDef": "(family) father",
+   "shortDef": "father",
    "g": 0,
    "causes": [
     "padre",
@@ -2222,7 +2223,7 @@
   },
   "y": {
    "word": "y",
-   "shortDef": "and\n1605, Miguel de Cervantes Saavedra, Don Quijote de la Mancha1, Chapter I:",
+   "shortDef": "and",
    "g": 0,
    "causes": [
     "y"
@@ -2240,7 +2241,7 @@
   },
   "arrodillar": {
    "word": "arrodillar",
-   "shortDef": "(transitive) to make someone kneel",
+   "shortDef": "to make someone kneel",
    "g": 0,
    "causes": [
     "arrodillándose"
@@ -2257,10 +2258,11 @@
   },
   "se": {
    "word": "se",
-   "shortDef": "third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
+   "shortDef": "oneself, himself, herself, itself, yourself; each other; one another",
    "g": 0,
    "causes": [
-    "arrodillándose"
+    "arrodillándose",
+    "se"
    ],
    "longDef": [
     [
@@ -2292,6 +2294,10 @@
      "Your",
      "{adj} [formal]"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "su"
    ]
   },
   "pie": {
@@ -2325,7 +2331,7 @@
   },
   "le": {
    "word": "le",
-   "shortDef": "To her, for her (dative form of ella)",
+   "shortDef": "to him, to her, to you",
    "g": 0,
    "causes": [
     "le",
@@ -2422,7 +2428,7 @@
   },
   "las": {
    "word": "las",
-   "shortDef": "the",
+   "shortDef": "the, them (feminine)",
    "g": 3,
    "causes": [
     "las"
@@ -2532,6 +2538,9 @@
     [
      "first-person singular present indicative of cautivar"
     ]
+   ],
+   "opts": [
+    "cautivos"
    ]
   },
   "quitar": {
@@ -2623,10 +2632,11 @@
   },
   "los": {
    "word": "los",
-   "shortDef": "the, them",
+   "shortDef": "the, them (masculine)",
    "g": 4,
    "causes": [
     "déjalos",
+    "los",
     "compadecerlos"
    ],
    "longDef": [
@@ -2665,7 +2675,7 @@
   },
   "tierra": {
    "word": "tierra",
-   "shortDef": "(geography) land, ground (the part of Earth which is not covered by oceans or other bodies of water)",
+   "shortDef": "land, ground (the part of Earth which is not covered by oceans or other bodies of water)",
    "g": 4,
    "causes": [
     "tierra"
@@ -2708,7 +2718,7 @@
   },
   "donde": {
    "word": "donde",
-   "shortDef": "(relative) where, in what place",
+   "shortDef": "where, in what place",
    "g": 4,
    "causes": [
     "donde"
@@ -2795,7 +2805,7 @@
   },
   "hermano": {
    "word": "hermano",
-   "shortDef": "brother\n1970, \"Los Hermanos\", Atahualpa Yupanqui (lyrics), performed by Atahualpa Yupanqui:",
+   "shortDef": "brother",
    "g": 4,
    "causes": [
     "hermanos"
@@ -2859,11 +2869,31 @@
     [
      "past participle of amar"
     ]
+   ],
+   "opts": [
+    "amada",
+    "amados",
+    "amadas"
+   ]
+  },
+  "amar": {
+   "word": "amar",
+   "shortDef": "to love",
+   "g": 4,
+   "causes": [
+    "amadas",
+    "amaba"
+   ],
+   "longDef": [
+    [
+     "(Verb) to love, have great affection for, care about",
+     "Te amo. ― I love you."
+    ]
    ]
   },
   "el": {
    "word": "el",
-   "shortDef": "the",
+   "shortDef": "the (masculine)",
    "g": 5,
    "causes": [
     "el"
@@ -2962,7 +2992,7 @@
   },
   "corazón": {
    "word": "corazón",
-   "shortDef": "(anatomy) heart (organ of the body)",
+   "shortDef": "heart (organ of the body)",
    "g": 5,
    "causes": [
     "corazón"
@@ -3062,20 +3092,15 @@
      "(used at the start of a phrase) well; a short pause in a sentence",
      "Bueno, pues, mira. ― Well, then, look."
     ]
-   ]
-  },
-  "amar": {
-   "word": "amar",
-   "shortDef": "to love",
-   "g": 5,
-   "causes": [
-    "amaba"
    ],
-   "longDef": [
-    [
-     "(Verb) to love, have great affection for, care about",
-     "Te amo. ― I love you."
-    ]
+   "opts": [
+    "buena",
+    "buen",
+    "buenas",
+    "buenos",
+    "bona",
+    "wena",
+    "weno"
    ]
   },
   "como": {
@@ -3119,7 +3144,7 @@
   },
   "niña": {
    "word": "niña",
-   "shortDef": "feminine form of niño, girl",
+   "shortDef": "girl",
    "g": 5,
    "causes": [
     "niña"
@@ -3153,7 +3178,7 @@
   },
   "pobre": {
    "word": "pobre",
-   "shortDef": "(before the noun) poor (pitiable, pitiful)",
+   "shortDef": "poor (pitiable, pitiful)",
    "g": 6,
    "causes": [
     "pobre"
@@ -3168,6 +3193,11 @@
      "(Adjective) (after the noun) poor (lacking money, resources, etc.)",
      "Se relajan las familias ricas en casas lujosas y las familias pobres tiran en chozas desmoronadas. ― The rich families relax in luxurious houses and the poor families get by in dilapidated huts."
     ]
+   ],
+   "opts": [
+    "pobres",
+    "probe",
+    "probes"
    ]
   },
   "no": {
@@ -3335,6 +3365,11 @@
     [
      "first-person singular present indicative of vivar"
     ]
+   ],
+   "opts": [
+    "viva",
+    "vivos",
+    "vivas"
    ]
   },
   "vivir": {
@@ -3418,6 +3453,11 @@
      "feminine form of cuyo, \"whose\"",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "cuyo",
+    "cuyos",
+    "cuyas"
    ]
   },
   "pérdida": {
@@ -3576,6 +3616,10 @@
     [
      "Muslim"
     ]
+   ],
+   "opts": [
+    "musulmana",
+    "musulmanas"
    ]
   },
   "rey": {
@@ -3629,6 +3673,11 @@
     [
      "past participle of obligar"
     ]
+   ],
+   "opts": [
+    "obligados",
+    "obligada",
+    "obligadas"
    ]
   },
   "obligar": {
@@ -3683,7 +3732,7 @@
   },
   "compadecer": {
    "word": "compadecer",
-   "shortDef": "(transitive, reflexive) to feel sorry (for); to pity",
+   "shortDef": "to feel sorry (for); to pity",
    "g": 9,
    "causes": [
     "compadecer",
@@ -3721,6 +3770,13 @@
     [
      "first-person singular present indicative of cristianar"
     ]
+   ],
+   "opts": [
+    "cristianos",
+    "cristiana",
+    "cristianas",
+    "christiana",
+    "christianos"
    ]
   },
   "pedir": {
@@ -3930,6 +3986,11 @@
     [
      "past participle of airar"
     ]
+   ],
+   "opts": [
+    "airada",
+    "airadas",
+    "airados"
    ]
   },
   "semblante": {
@@ -3948,7 +4009,7 @@
   },
   "voz": {
    "word": "voz",
-   "shortDef": "voice\n1935/1936, Federico García Lorca, El poeta habla por teléfono con el amor",
+   "shortDef": "voice",
    "g": 10,
    "causes": [
     "voz"
@@ -4000,6 +4061,11 @@
     [
      "first-person singular present indicative of falsar"
     ]
+   ],
+   "opts": [
+    "falsa",
+    "falsas",
+    "falsos"
    ]
   },
   "creyente": {
@@ -4016,6 +4082,9 @@
     [
      "(Adjective) religious, pious, devout"
     ]
+   ],
+   "opts": [
+    "creyentes"
    ]
   },
   "tu": {
@@ -4030,6 +4099,10 @@
      "apocopic form of tuyo Your",
      "{adj} [before the noun]"
     ]
+   ],
+   "opts": [
+    "tuyo",
+    "tus"
    ]
   },
   "lengua": {
@@ -4070,6 +4143,28 @@
     [
      "past participle of cortar"
     ]
+   ],
+   "opts": [
+    "cortada",
+    "cortadas",
+    "cortados"
+   ]
+  },
+  "cortar": {
+   "word": "cortar",
+   "shortDef": "to cut",
+   "g": 12,
+   "causes": [
+    "cortada"
+   ],
+   "longDef": [
+    [
+     "(Verb) to cut",
+     "Synonym: tajar"
+    ],
+    [
+     "(Verb) to cut off, cut out, cut through, cut down, cut up, to nip"
+    ]
    ]
   },
   "cuerpo": {
@@ -4106,6 +4201,11 @@
     [
      "past participle of arrojar"
     ]
+   ],
+   "opts": [
+    "arrojada",
+    "arrojadas",
+    "arrojados"
    ]
   },
   "arrojar": {
@@ -4149,7 +4249,8 @@
    "shortDef": "to call, to name",
    "g": 12,
    "causes": [
-    "llamas"
+    "llamas",
+    "llamar"
    ],
    "longDef": [
     [
@@ -4182,6 +4283,10 @@
      "(Adjective) such",
      "No hay tal cosa como los monstruos. ― There's no such thing as monsters."
     ]
+   ],
+   "opts": [
+    "tales",
+    "atal"
    ]
   },
   "pena": {
@@ -4368,6 +4473,12 @@
     [
      "(Adjective) brand new, all-new"
     ]
+   ],
+   "opts": [
+    "nueva",
+    "nuevos",
+    "nuevas",
+    "nueba"
    ]
   },
   "demandar": {
@@ -4479,7 +4590,12 @@
    "causes": [
     "arrasados"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "arrasada",
+    "arrasados",
+    "arrasadas"
+   ]
   },
   "arrasar": {
    "word": "arrasar",
@@ -4614,7 +4730,7 @@
   },
   "mía": {
    "word": "mía",
-   "shortDef": "(Morocco, military, historical) a regiment of 100 soldiers in the Spanish protectorate of Morocco",
+   "shortDef": "a regiment of 100 soldiers in the Spanish protectorate of Morocco",
    "g": 16,
    "causes": [
     "mía"
@@ -4643,6 +4759,11 @@
      "feminine of otro; another, another one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "otro",
+    "otros",
+    "otras"
    ]
   },
   "vez": {
@@ -4797,6 +4918,11 @@
     [
      "past participle of escribir"
     ]
+   ],
+   "opts": [
+    "escrita",
+    "escritas",
+    "escritos"
    ]
   },
   "escribir": {
@@ -4822,13 +4948,17 @@
   },
   "exterminar": {
    "word": "exterminar",
-   "shortDef": "(transitive) to exterminate",
+   "shortDef": "to exterminate",
    "g": 16,
    "causes": [
     "exterminado",
     "extermine"
    ],
-   "longDef": null
+   "longDef": [
+    [
+     "(Verb) (transitive) to exterminate"
+    ]
+   ]
   },
   "infiel": {
    "word": "infiel",
@@ -4844,6 +4974,9 @@
     [
      "infidel (non-believer)"
     ]
+   ],
+   "opts": [
+    "infieles"
    ]
   }
  },

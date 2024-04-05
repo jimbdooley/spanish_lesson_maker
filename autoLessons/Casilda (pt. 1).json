@@ -1433,7 +1433,7 @@
   },
   "el": {
    "word": "el",
-   "shortDef": "the",
+   "shortDef": "the (masculine)",
    "g": 0,
    "causes": [
     "el"
@@ -1586,7 +1586,7 @@
   },
   "don": {
    "word": "don",
-   "shortDef": "(obsolete) sir, master, lord",
+   "shortDef": "sir, master, lord",
    "g": 0,
    "causes": [
     "don"
@@ -1603,7 +1603,7 @@
   },
   "grande": {
    "word": "grande",
-   "shortDef": "(after the noun or predicatively) big, large",
+   "shortDef": "big, large",
    "g": 0,
    "causes": [
     "grande"
@@ -1622,6 +1622,10 @@
     [
      "grandee"
     ]
+   ],
+   "opts": [
+    "gran",
+    "grandes"
    ]
   },
   "mantener": {
@@ -1649,7 +1653,10 @@
    "causes": [
     "cordial"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "cordiales"
+   ]
   },
   "amistad": {
    "word": "amistad",
@@ -1690,6 +1697,11 @@
      "Synonym: oriente",
      "Antonyms: oeste, occidente"
     ]
+   ],
+   "opts": [
+    "esta",
+    "estas",
+    "estos"
    ]
   },
   "tener": {
@@ -1730,6 +1742,11 @@
      "one",
      "Sólo hay una ruta - There is only one route."
     ]
+   ],
+   "opts": [
+    "uno",
+    "unos",
+    "unas"
    ]
   },
   "hija": {
@@ -1773,11 +1790,18 @@
      "(Adjective) gorgeous, beautiful, handsome, lovely",
      "Synonyms: apuesto, (more common) guapo"
     ]
+   ],
+   "opts": [
+    "hermosa",
+    "hermosas",
+    "hermosos",
+    "fermoso",
+    "fermosa"
    ]
   },
   "y": {
    "word": "y",
-   "shortDef": "and\n1605, Miguel de Cervantes Saavedra, Don Quijote de la Mancha1, Chapter I:",
+   "shortDef": "and",
    "g": 1,
    "causes": [
     "y"
@@ -1800,7 +1824,12 @@
    "causes": [
     "compasiva"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "compasiva",
+    "compasivos",
+    "compasivas"
+   ]
   },
   "llamada": {
    "word": "llamada",
@@ -1813,6 +1842,37 @@
     [
      "call",
      "{f}"
+    ]
+   ],
+   "opts": [
+    "llamado",
+    "llamadas",
+    "llamados"
+   ]
+  },
+  "llamar": {
+   "word": "llamar",
+   "shortDef": "to call, to name",
+   "g": 1,
+   "causes": [
+    "llamada"
+   ],
+   "longDef": [
+    [
+     "(Verb) to summon, to call",
+     "Te estuve llamando a voces. ― I was summoning you by voice.",
+     "Me llamó con la mano para que me acercase. ― [He] summoned me with [his] hand in order to bring me near.\nto call (on the telephone)",
+     "Te llaman desde París. ― They are calling you from Paris.",
+     "Que me llamen a las siete. ― May they call me at seven o'clock.",
+     "Ha llamado a Maribel. ― [He] has called Maribel.\nto knock (on a door)",
+     "Entren sin llamar. ― Enter without knocking.\nto ring (a doorbell)",
+     "¿Quién llama? ― Who is ringing [the doorbell]?"
+    ],
+    [
+     "(Verb) to refer to",
+     "¿Cómo van a llamar al niño? ― How are they going to refer to the child?",
+     "Eso yo lo llamo un auténtico robo. ― I refer to that as an authentic robbery.",
+     "La llamó de todo. ― [He] referred to her about everything."
     ]
    ]
   },
@@ -1855,6 +1915,10 @@
      "(inexact, sometimes offensive) Spanish (of or related to Spain, particularly the Castilian or European forms of the Spanish language)",
      "Synonym: español"
     ]
+   ],
+   "opts": [
+    "castellana",
+    "castellanas"
    ]
   },
   "contar": {
@@ -1890,26 +1954,23 @@
   },
   "la": {
    "word": "la",
-   "shortDef": "the",
+   "shortDef": "the (feminine)",
    "g": 2,
    "causes": [
     "la"
    ],
    "longDef": [
     [
-     "the"
+     "the (feminine)"
     ],
     [
-     "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
+     "her, it, you (formal)"
     ],
     [
      "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
      "La sabe toda.  ― He/she knows everything (it all)",
      "¡Dónde la viste!  ― Where have you seen this!",
      "No te la creo.  ― I don't believe you."
-    ],
-    [
-     "(music) la (sixth note of the scale)"
     ]
    ]
   },
@@ -1964,7 +2025,7 @@
   },
   "los": {
    "word": "los",
-   "shortDef": "the, them",
+   "shortDef": "the, them (masculine)",
    "g": 2,
    "causes": [
     "los"
@@ -2038,6 +2099,10 @@
      "¿Cómo está su familia? - How is your family?",
      "¿Dónde está su coche? - Where is your car?"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "sus"
    ]
   },
   "dios": {
@@ -2061,14 +2126,19 @@
      "Your",
      "{adj} [formal]"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "su"
    ]
   },
   "padre": {
    "word": "padre",
-   "shortDef": "(family) father",
+   "shortDef": "father",
    "g": 2,
    "causes": [
-    "padres"
+    "padres",
+    "padre"
    ],
    "longDef": [
     [
@@ -2087,7 +2157,7 @@
   },
   "hermano": {
    "word": "hermano",
-   "shortDef": "brother\n1970, \"Los Hermanos\", Atahualpa Yupanqui (lyrics), performed by Atahualpa Yupanqui:",
+   "shortDef": "brother",
    "g": 2,
    "causes": [
     "hermanos"
@@ -2296,10 +2366,11 @@
   },
   "le": {
    "word": "le",
-   "shortDef": "To her, for her (dative form of ella)",
+   "shortDef": "to him, to her, to you",
    "g": 3,
    "causes": [
-    "les"
+    "les",
+    "le"
    ],
    "longDef": [
     [
@@ -2313,20 +2384,6 @@
     [
      "To you, for you (dative form of usted, ello, lo)",
      "{pron}"
-    ]
-   ]
-  },
-  "l": {
-   "word": "l",
-   "shortDef": "The 12th letter of the Spanish alphabet",
-   "g": 3,
-   "causes": [
-    "les"
-   ],
-   "longDef": [
-    [
-     "The 12th letter of the Spanish alphabet",
-     "{letter}"
     ]
    ]
   },
@@ -2356,6 +2413,11 @@
      "feminine of otro; another, another one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "otro",
+    "otros",
+    "otras"
    ]
   },
   "maría": {
@@ -2397,6 +2459,9 @@
     [
      "everlasting"
     ]
+   ],
+   "opts": [
+    "inmortales"
    ]
   },
   "pasar": {
@@ -2560,7 +2625,7 @@
   },
   "se": {
    "word": "se",
-   "shortDef": "third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
+   "shortDef": "oneself, himself, herself, itself, yourself; each other; one another",
    "g": 5,
    "causes": [
     "se"
@@ -2630,6 +2695,35 @@
     [
      "luck",
      "{f}"
+    ]
+   ],
+   "opts": [
+    "dicho",
+    "dichas"
+   ]
+  },
+  "decir": {
+   "word": "decir",
+   "shortDef": "to say, tell",
+   "g": 5,
+   "causes": [
+    "dicha"
+   ],
+   "longDef": [
+    [
+     "(Verb) to say, to tell",
+     "Es un mentiroso. Nunca dice la verdad. ― He's a liar. He never tells the truth.",
+     "¿Qué te dijeron? ― What did they tell you?\n1615, Miguel de Cervantes, \"Capítulo XXXII\", in El ingenioso hidalgo Don Quijote de la Mancha, Segunda parte:",
+     "Digo, señor don Quijote -dijo la duquesa-, que en todo cuanto vuestra merced dice va con pie de plomo, y, como suele decirse, con la sonda en la mano; y que yo desde aquí adelante creeré  […]  que hay Dulcinea en el Toboso,  […]  merecedora que un tal caballero como es el señor don Quijote la sirva; que es lo más que puedo ni sé encarecer. ― \"I say, Sir Don Quixote,\" said the duchess, \"that in all your mercy says, he goes with leaden feet, and as the saying goes, with sounding plummet in hand; and that I henceforth will believe,  […]  that there is a Dulcinea in El Toboso,  […]  deserving of such a knight as Sir Don Quixote in her service, which is the highest praise that I can give her.\""
+    ],
+    [
+     "(Verb) to suggest"
+    ],
+    [
+     "saying"
+    ],
+    [
+     "idle talk"
     ]
    ]
   },
@@ -2747,7 +2841,12 @@
    "causes": [
     "unas"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "uno",
+    "una",
+    "unos"
+   ]
   },
   "unir": {
    "word": "unir",
@@ -2805,7 +2904,7 @@
   },
   "donde": {
    "word": "donde",
-   "shortDef": "(relative) where, in what place",
+   "shortDef": "where, in what place",
    "g": 6,
    "causes": [
     "donde"
@@ -2840,7 +2939,8 @@
    "shortDef": "to grieve, to groan, tomoan",
    "g": 6,
    "causes": [
-    "gemían"
+    "gemían",
+    "gemir"
    ],
    "longDef": [
     [
@@ -2870,6 +2970,11 @@
      "hungry\n1657, Baltasar Gracián, \"En el invierno de la vejez\", in El Criticón, tercera parte:",
      "No gusta de los manjares sino el hambriento, y el sediento de la bebida. ― Nobody enjoys tasteful morsels but who is hungry, and beverages who is thirsty."
     ]
+   ],
+   "opts": [
+    "hambrientos",
+    "hambrienta",
+    "hambrientas"
    ]
   },
   "cargado": {
@@ -2888,6 +2993,29 @@
     ],
     [
      "past participle of cargar"
+    ]
+   ],
+   "opts": [
+    "cargada",
+    "cargados",
+    "cargadas"
+   ]
+  },
+  "cargar": {
+   "word": "cargar",
+   "shortDef": "to load, to burden",
+   "g": 6,
+   "causes": [
+    "cargados"
+   ],
+   "longDef": [
+    [
+     "(Verb) (transitive) to load (to put a load on or in (a means of conveyance or a place of storage))",
+     "Los estibadores se negaron a cargar el barco. ― The dock workers refused to load the ship."
+    ],
+    [
+     "(Verb) (transitive) to load (to fill (a firearm or artillery) with munition)",
+     "Apreté el gatillo, pero no pasó nada. Me había olvidado de cargar el arma. ― I pulled the trigger, but nothing happened. I had forgotten to load the gun."
     ]
    ]
   },
@@ -2919,6 +3047,11 @@
      "much; many (of something) (masculine plural of mucho, much)",
      "{adj}"
     ]
+   ],
+   "opts": [
+    "mucho",
+    "muchas",
+    "mucha"
    ]
   },
   "cautivo": {
@@ -2938,6 +3071,9 @@
     [
      "first-person singular present indicative of cautivar"
     ]
+   ],
+   "opts": [
+    "cautivos"
    ]
   },
   "cristiano": {
@@ -2961,6 +3097,13 @@
     [
      "first-person singular present indicative of cristianar"
     ]
+   ],
+   "opts": [
+    "cristianos",
+    "cristiana",
+    "cristianas",
+    "christiana",
+    "christianos"
    ]
   },
   "suceder": {
@@ -3016,7 +3159,7 @@
   },
   "pasear": {
    "word": "pasear",
-   "shortDef": "(intransitive) to stroll, to saunter, to promenade",
+   "shortDef": "to stroll, to saunter, to promenade",
    "g": 7,
    "causes": [
     "pasear"
@@ -3073,7 +3216,7 @@
   },
   "pobre": {
    "word": "pobre",
-   "shortDef": "(before the noun) poor (pitiable, pitiful)",
+   "shortDef": "poor (pitiable, pitiful)",
    "g": 7,
    "causes": [
     "pobres"
@@ -3088,6 +3231,11 @@
      "(Adjective) (after the noun) poor (lacking money, resources, etc.)",
      "Se relajan las familias ricas en casas lujosas y las familias pobres tiran en chozas desmoronadas. ― The rich families relax in luxurious houses and the poor families get by in dilapidated huts."
     ]
+   ],
+   "opts": [
+    "pobres",
+    "probe",
+    "probes"
    ]
   },
   "princesa": {
@@ -3172,6 +3320,11 @@
     [
      "first-person singular present indicative of llenar"
     ]
+   ],
+   "opts": [
+    "llena",
+    "llenos",
+    "llenas"
    ]
   },
   "llenar": {
@@ -3195,7 +3348,7 @@
   },
   "corazón": {
    "word": "corazón",
-   "shortDef": "(anatomy) heart (organ of the body)",
+   "shortDef": "heart (organ of the body)",
    "g": 8,
    "causes": [
     "corazón"

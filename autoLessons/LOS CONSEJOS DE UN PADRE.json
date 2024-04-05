@@ -11707,7 +11707,7 @@
  "defInfo": {
   "los": {
    "word": "los",
-   "shortDef": "the, them",
+   "shortDef": "the, them (masculine)",
    "g": 0,
    "causes": [
     "los",
@@ -11735,7 +11735,8 @@
    "shortDef": "advice, counsel, piece of advice",
    "g": 0,
    "causes": [
-    "consejos"
+    "consejos",
+    "consejo"
    ],
    "longDef": [
     [
@@ -11789,7 +11790,7 @@
   },
   "padre": {
    "word": "padre",
-   "shortDef": "(family) father",
+   "shortDef": "father",
    "g": 0,
    "causes": [
     "padre"
@@ -11811,7 +11812,7 @@
   },
   "el": {
    "word": "el",
-   "shortDef": "the",
+   "shortDef": "the (masculine)",
    "g": 1,
    "causes": [
     "el"
@@ -11861,7 +11862,7 @@
   },
   "las": {
    "word": "las",
-   "shortDef": "the",
+   "shortDef": "the, them (feminine)",
    "g": 1,
    "causes": [
     "las"
@@ -11883,16 +11884,20 @@
   },
   "selva": {
    "word": "selva",
-   "shortDef": "(forestry) forest or jungle, wood, chiefly a rainforest",
+   "shortDef": "forest or jungle, wood, chiefly a rainforest",
    "g": 1,
    "causes": [
     "selvas"
    ],
-   "longDef": null
+   "longDef": [
+    [
+     "(Noun) (forestry) forest or jungle, wood, chiefly a rainforest"
+    ]
+   ]
   },
   "agonizar": {
    "word": "agonizar",
-   "shortDef": "(intransitive) to die an agonizing death",
+   "shortDef": "to die an agonizing death",
    "g": 1,
    "causes": [
     "agonizaba"
@@ -11949,6 +11954,10 @@
     [
      "(Chile, colloquial) gay"
     ]
+   ],
+   "opts": [
+    "hueca",
+    "huecas"
    ]
   },
   "su": {
@@ -11969,6 +11978,10 @@
      "¿Cómo está su familia? - How is your family?",
      "¿Dónde está su coche? - Where is your car?"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "sus"
    ]
   },
   "caverna": {
@@ -12064,6 +12077,12 @@
     [
      "(Adjective) brand new, all-new"
     ]
+   ],
+   "opts": [
+    "nueva",
+    "nuevos",
+    "nuevas",
+    "nueba"
    ]
   },
   "futuro": {
@@ -12087,6 +12106,10 @@
     [
      "future (occurring in the future)"
     ]
+   ],
+   "opts": [
+    "futura",
+    "futuras"
    ]
   },
   "todos": {
@@ -12101,6 +12124,11 @@
      "plural of todo; all, all of",
      "{adj}"
     ]
+   ],
+   "opts": [
+    "todo",
+    "todas",
+    "toda"
    ]
   },
   "animal": {
@@ -12108,7 +12136,8 @@
    "shortDef": "animal",
    "g": 2,
    "causes": [
-    "animales"
+    "animales",
+    "animal"
    ],
    "longDef": [
     [
@@ -12135,11 +12164,16 @@
    "causes": [
     "moribundo"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "moribunda",
+    "moribundos",
+    "moribundas"
+   ]
   },
   "le": {
    "word": "le",
-   "shortDef": "To her, for her (dative form of ella)",
+   "shortDef": "to him, to her, to you",
    "g": 3,
    "causes": [
     "le",
@@ -12167,7 +12201,8 @@
    "g": 3,
    "causes": [
     "daba",
-    "daría"
+    "daría",
+    "dar"
    ],
    "longDef": [
     [
@@ -12196,6 +12231,11 @@
      "(Adjective) latest; most recent",
      "las últimas noticias ― the latest news"
     ]
+   ],
+   "opts": [
+    "última",
+    "últimos",
+    "últimas"
    ]
   },
   "más": {
@@ -12236,7 +12276,10 @@
    "causes": [
     "importante"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "importantes"
+   ]
   },
   "huir": {
    "word": "huir",
@@ -12244,6 +12287,7 @@
    "g": 4,
    "causes": [
     "huye",
+    "huir",
     "huía"
    ],
    "longDef": [
@@ -12302,6 +12346,7 @@
    "causes": [
     "decía",
     "diciendo",
+    "decir",
     "dice",
     "dijo",
     "digo",
@@ -12454,6 +12499,7 @@
     "es",
     "son",
     "sería",
+    "ser",
     "era",
     "soy",
     "será",
@@ -12517,6 +12563,11 @@
      "(Adjective) absolute",
      "Antonyms: condicional, relativo"
     ]
+   ],
+   "opts": [
+    "absoluta",
+    "absolutos",
+    "absolutas"
    ]
   },
   "demás": {
@@ -12790,7 +12841,7 @@
   },
   "y": {
    "word": "y",
-   "shortDef": "and\n1605, Miguel de Cervantes Saavedra, Don Quijote de la Mancha1, Chapter I:",
+   "shortDef": "and",
    "g": 6,
    "causes": [
     "y"
@@ -12853,7 +12904,10 @@
    "causes": [
     "cruel"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "crueles"
+   ]
   },
   "que": {
    "word": "que",
@@ -12951,6 +13005,9 @@
     [
      "strong point, forte, strength"
     ]
+   ],
+   "opts": [
+    "fuertes"
    ]
   },
   "preguntar": {
@@ -13039,11 +13096,15 @@
      "apocopic form of tuyo Your",
      "{adj} [before the noun]"
     ]
+   ],
+   "opts": [
+    "tuyo",
+    "tus"
    ]
   },
   "cola": {
    "word": "cola",
-   "shortDef": "(anatomy) tail",
+   "shortDef": "tail",
    "g": 9,
    "causes": [
     "cola"
@@ -13183,6 +13244,9 @@
     [
      "(Adjective) poor"
     ]
+   ],
+   "opts": [
+    "miserables"
    ]
   },
   "sus": {
@@ -13197,6 +13261,10 @@
      "Your",
      "{adj} [formal]"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "su"
    ]
   },
   "diente": {
@@ -13229,7 +13297,7 @@
   },
   "colmillo": {
    "word": "colmillo",
-   "shortDef": "(teeth) canine tooth",
+   "shortDef": "canine tooth",
    "g": 10,
    "causes": [
     "colmillos"
@@ -13249,13 +13317,19 @@
    "g": 10,
    "causes": [
     "poderosos",
-    "poderosas"
+    "poderosas",
+    "poderoso"
    ],
    "longDef": [
     [
      "(Adjective) powerful",
      "Synonym: potente"
     ]
+   ],
+   "opts": [
+    "poderosa",
+    "poderosos",
+    "poderosas"
    ]
   },
   "despreciable": {
@@ -13274,6 +13348,9 @@
      "(Adjective) negligible",
      "Synonym: insignificante"
     ]
+   ],
+   "opts": [
+    "despreciables"
    ]
   },
   "ridículo": {
@@ -13291,6 +13368,11 @@
     [
      "ridicule, ridiculousness, laughableness (ridiculous situation)"
     ]
+   ],
+   "opts": [
+    "ridícula",
+    "ridículos",
+    "ridículas"
    ]
   },
   "valer": {
@@ -13370,7 +13452,8 @@
    "shortDef": "potent",
    "g": 12,
    "causes": [
-    "potentes"
+    "potentes",
+    "potente"
    ],
    "longDef": [
     [
@@ -13382,6 +13465,9 @@
      "Synonym: poderoso\n2019 April 17, Pablo Juárez Andrino, \"PS5: Sony revela los detalles de su próxima consola de videojuegos\", in Prensa Libre‎[1]:",
      "En la actualidad jugar a 8K es una misión casi imposible incluso con las computadoras más potentes del mundo, por lo que es muy optimista pensar que la próxima generación de consolas podría ofrecer una experiencia de juego satisfactoria a esta resolución. ― Currently, playing in 8K is an almost impossible mission even with the most powerful computers in the world, so it is very optimistic to think that the next generations of consoles could offer a satisfying game experience at this resolution."
     ]
+   ],
+   "opts": [
+    "potentes"
    ]
   },
   "mi": {
@@ -13389,7 +13475,8 @@
    "shortDef": "mu; the Greek letter Μ, μ",
    "g": 12,
    "causes": [
-    "mis"
+    "mis",
+    "mi"
    ],
    "longDef": [
     [
@@ -13399,6 +13486,11 @@
     [
      "(before the noun) Apocopic form of mío, my"
     ]
+   ],
+   "opts": [
+    "mío",
+    "mis",
+    "míos"
    ]
   },
   "zarpa": {
@@ -13457,6 +13549,11 @@
     [
      "first-person singular present indicative of mezquinar"
     ]
+   ],
+   "opts": [
+    "mezquina",
+    "mezquinos",
+    "mezquinas"
    ]
   },
   "vez": {
@@ -13521,6 +13618,11 @@
      "dirty (in a dirty manner)",
      "Háblame sucio, papazote. ― Talk dirty to me, daddy."
     ]
+   ],
+   "opts": [
+    "sucia",
+    "sucios",
+    "sucias"
    ]
   },
   "conseguir": {
@@ -13576,7 +13678,8 @@
    "g": 14,
    "causes": [
     "sacudimos",
-    "sacudió"
+    "sacudió",
+    "sacudida"
    ],
    "longDef": [
     [
@@ -13599,6 +13702,11 @@
      "(Adjective) proud",
      "Synonym: ancho"
     ]
+   ],
+   "opts": [
+    "orgullosa",
+    "orgullosos",
+    "orgullosas"
    ]
   },
   "alguno": {
@@ -13606,7 +13714,8 @@
    "shortDef": "some, any",
    "g": 15,
    "causes": [
-    "algunos"
+    "algunos",
+    "alguno"
    ],
    "longDef": [
     [
@@ -13626,6 +13735,12 @@
     [
      "some, some people"
     ]
+   ],
+   "opts": [
+    "alguna",
+    "algún",
+    "algunos",
+    "algunas"
    ]
   },
   "calvo": {
@@ -13685,26 +13800,23 @@
   },
   "la": {
    "word": "la",
-   "shortDef": "the",
+   "shortDef": "the (feminine)",
    "g": 16,
    "causes": [
     "la"
    ],
    "longDef": [
     [
-     "the"
+     "the (feminine)"
     ],
     [
-     "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
+     "her, it, you (formal)"
     ],
     [
      "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
      "La sabe toda.  ― He/she knows everything (it all)",
      "¡Dónde la viste!  ― Where have you seen this!",
      "No te la creo.  ― I don't believe you."
-    ],
-    [
-     "(music) la (sixth note of the scale)"
     ]
    ]
   },
@@ -13724,11 +13836,16 @@
      "(Adjective) frightful, frightening, scary, fearful, terrifying, shocking",
      "Synonyms: aterrador, terrorífico"
     ]
+   ],
+   "opts": [
+    "espantosa",
+    "espantosas",
+    "espantosos"
    ]
   },
   "boca": {
    "word": "boca",
-   "shortDef": "(anatomy) mouth, oral cavity",
+   "shortDef": "mouth, oral cavity",
    "g": 16,
    "causes": [
     "boca"
@@ -13760,6 +13877,11 @@
     [
      "past participle of rugir"
     ]
+   ],
+   "opts": [
+    "rugida",
+    "rugidos",
+    "rugidas"
    ]
   },
   "rugir": {
@@ -13769,6 +13891,7 @@
    "causes": [
     "rugido",
     "rugió",
+    "rugidos",
     "rugía"
    ],
    "longDef": [
@@ -13842,6 +13965,11 @@
      "alternative spelling of éstas Those ones",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "este",
+    "esta",
+    "estos"
    ]
   },
   "palabra": {
@@ -13863,7 +13991,7 @@
   },
   "se": {
    "word": "se",
-   "shortDef": "third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
+   "shortDef": "oneself, himself, herself, itself, yourself; each other; one another",
    "g": 21,
    "causes": [
     "se",
@@ -13889,7 +14017,7 @@
   },
   "estremecer": {
    "word": "estremecer",
-   "shortDef": "(transitive) to shake, make tremble, make shudder",
+   "shortDef": "to shake, make tremble, make shudder",
    "g": 21,
    "causes": [
     "estremeció"
@@ -13953,7 +14081,7 @@
   },
   "cabeza": {
    "word": "cabeza",
-   "shortDef": "(anatomy) head",
+   "shortDef": "head",
    "g": 21,
    "causes": [
     "cabeza"
@@ -13975,7 +14103,8 @@
    "g": 21,
    "causes": [
     "murió",
-    "muerto"
+    "muerto",
+    "morir"
    ],
    "longDef": [
     [
@@ -14021,6 +14150,11 @@
     [
      "past participle of reinar"
     ]
+   ],
+   "opts": [
+    "reinada",
+    "reinados",
+    "reinadas"
    ]
   },
   "reinar": {
@@ -14154,6 +14288,11 @@
     [
      "past participle of morir"
     ]
+   ],
+   "opts": [
+    "muertos",
+    "muerta",
+    "muertas"
    ]
   },
   "llorar": {
@@ -14223,6 +14362,9 @@
     [
      "first-person singular present indicative of juntar"
     ]
+   ],
+   "opts": [
+    "juntos"
    ]
   },
   "juntar": {
@@ -14272,6 +14414,9 @@
      "Synonyms: gigante, gigantesco, inmenso",
      "Antonyms: exiguo, mínimo, pequeño"
     ]
+   ],
+   "opts": [
+    "enormes"
    ]
   },
   "difunto": {
@@ -14286,6 +14431,11 @@
      "(Adjective) deceased",
      "Synonyms: fallecido, muerto"
     ]
+   ],
+   "opts": [
+    "difunta",
+    "difuntos",
+    "difuntas"
    ]
   },
   "así": {
@@ -14339,7 +14489,7 @@
   },
   "rato": {
    "word": "rato",
-   "shortDef": "a while, bit (a short period of time)\n1997, Roberto Bolaño, \"Henri Simon Leprince\", in Llamadas telefónicas [Last Evenings on Earth]:",
+   "shortDef": "a while, bit (a short period of time)",
    "g": 23,
    "causes": [
     "rato"
@@ -14426,6 +14576,9 @@
      "(Adjective) burning",
      "Synonym: abrasador"
     ]
+   ],
+   "opts": [
+    "ardientes"
    ]
   },
   "helado": {
@@ -14454,6 +14607,11 @@
     [
      "past participle of helar"
     ]
+   ],
+   "opts": [
+    "helados",
+    "helada",
+    "heladas"
    ]
   },
   "helar": {
@@ -14490,7 +14648,7 @@
   },
   "fin": {
    "word": "fin",
-   "shortDef": "(sometimes feminine) end",
+   "shortDef": "end",
    "g": 26,
    "causes": [
     "fin"
@@ -14532,6 +14690,7 @@
    "g": 27,
    "causes": [
     "salió",
+    "salir",
     "salieron"
    ],
    "longDef": [
@@ -14571,7 +14730,8 @@
    "shortDef": "to do, make",
    "g": 27,
    "causes": [
-    "hizo"
+    "hizo",
+    "hacer"
    ],
    "longDef": [
     [
@@ -14616,14 +14776,20 @@
    "causes": [
     "unos"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "uno",
+    "una",
+    "unas"
+   ]
   },
   "cuanto": {
    "word": "cuanto",
    "shortDef": "as much; however much; in whatever quantity",
    "g": 27,
    "causes": [
-    "cuantos"
+    "cuantos",
+    "cuanto"
    ],
    "longDef": [
     [
@@ -14645,6 +14811,11 @@
     [
      "(physics) quantum"
     ]
+   ],
+   "opts": [
+    "cuantos",
+    "cuantas",
+    "cuanta"
    ]
   },
   "hasta": {
@@ -14716,6 +14887,23 @@
     ],
     [
      "feminine singular of entrado"
+    ]
+   ]
+  },
+  "entrar": {
+   "word": "entrar",
+   "shortDef": "to enter, go in, come in",
+   "g": 27,
+   "causes": [
+    "entrada",
+    "entro"
+   ],
+   "longDef": [
+    [
+     "(Verb) to enter"
+    ],
+    [
+     "(Verb) to come in, to get in, to go in, to get inside, to come on in"
     ]
    ]
   },
@@ -14793,7 +14981,7 @@
   },
   "ni": {
    "word": "ni",
-   "shortDef": "(coordinating) neither... nor",
+   "shortDef": "neither... nor",
    "g": 28,
    "causes": [
     "ni"
@@ -14850,6 +15038,11 @@
     [
      "first-person singular present indicative of vivar"
     ]
+   ],
+   "opts": [
+    "viva",
+    "vivos",
+    "vivas"
    ]
   },
   "vivir": {
@@ -14874,7 +15067,7 @@
   },
   "alejar": {
    "word": "alejar",
-   "shortDef": "(transitive) to remove to a distance, put farther away, to lead away, to draw away",
+   "shortDef": "to remove to a distance, put farther away, to lead away, to draw away",
    "g": 29,
    "causes": [
     "alejó"
@@ -14946,6 +15139,11 @@
      "alternative spelling of aquélla That one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "aquel",
+    "aquellos",
+    "aquellas"
    ]
   },
   "noche": {
@@ -14976,7 +15174,12 @@
    "causes": [
     "ningún"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "ninguno",
+    "ninguna",
+    "ningunas"
+   ]
   },
   "dormir": {
    "word": "dormir",
@@ -15028,6 +15231,11 @@
      "hace poco ― a little while ago",
      "dentro de poco ― in a little bit"
     ]
+   ],
+   "opts": [
+    "pocos",
+    "pocas",
+    "poca"
    ]
   },
   "lo": {
@@ -15148,6 +15356,9 @@
     [
      "(Adjective) redoubtable"
     ]
+   ],
+   "opts": [
+    "temibles"
    ]
   },
   "mañana": {
@@ -15195,6 +15406,9 @@
      "(Adjective) next",
      "Lo siguiente que puedo recordar es que salí corriendo. ― The next thing I can remember was running out."
     ]
+   ],
+   "opts": [
+    "siguientes"
    ]
   },
   "despertar": {
@@ -15274,6 +15488,11 @@
     [
      "ready"
     ]
+   ],
+   "opts": [
+    "pronta",
+    "prontos",
+    "prontas"
    ]
   },
   "sonar": {
@@ -15336,6 +15555,11 @@
      "(Adjective) enormous, spectacular, epic",
      "un fracaso estrepitoso ― an epic fail"
     ]
+   ],
+   "opts": [
+    "estrepitosa",
+    "estrepitosos",
+    "estrepitosas"
    ]
   },
   "terrible": {
@@ -15352,6 +15576,9 @@
     [
      "(Adjective) appalling (shocking, causing consternation)"
     ]
+   ],
+   "opts": [
+    "terribles"
    ]
   },
   "modo": {
@@ -15486,6 +15713,9 @@
      "(Adjective) great, fantastic",
      "Synonyms: genial, fantástico"
     ]
+   ],
+   "opts": [
+    "formidables"
    ]
   },
   "impulso": {
@@ -15546,7 +15776,8 @@
    "shortDef": "to attack, undertake, overcome",
    "g": 39,
    "causes": [
-    "acometió"
+    "acometió",
+    "acometidas"
    ],
    "longDef": [
     [
@@ -15632,7 +15863,7 @@
   },
   "pobre": {
    "word": "pobre",
-   "shortDef": "(before the noun) poor (pitiable, pitiful)",
+   "shortDef": "poor (pitiable, pitiful)",
    "g": 42,
    "causes": [
     "pobre"
@@ -15647,6 +15878,11 @@
      "(Adjective) (after the noun) poor (lacking money, resources, etc.)",
      "Se relajan las familias ricas en casas lujosas y las familias pobres tiran en chozas desmoronadas. ― The rich families relax in luxurious houses and the poor families get by in dilapidated huts."
     ]
+   ],
+   "opts": [
+    "pobres",
+    "probe",
+    "probes"
    ]
   },
   "aunque": {
@@ -15705,6 +15941,11 @@
      "hearing",
      "{m}"
     ]
+   ],
+   "opts": [
+    "oída",
+    "oídos",
+    "oídas"
    ]
   },
   "oír": {
@@ -15713,6 +15954,7 @@
    "g": 42,
    "causes": [
     "oído",
+    "oídos",
     "oyeron"
    ],
    "longDef": [
@@ -15800,11 +16042,16 @@
      "much; many (of something) (masculine plural of mucho, much)",
      "{adj}"
     ]
+   ],
+   "opts": [
+    "mucho",
+    "muchas",
+    "mucha"
    ]
   },
   "dónde": {
    "word": "dónde",
-   "shortDef": "(interrogative) where?; in what place?",
+   "shortDef": "where?; in what place?",
    "g": 44,
    "causes": [
     "dónde"
@@ -15882,6 +16129,11 @@
      "Synonym: oriente",
      "Antonyms: oeste, occidente"
     ]
+   ],
+   "opts": [
+    "esta",
+    "estas",
+    "estos"
    ]
   },
   "valle": {
@@ -15931,6 +16183,11 @@
     [
      "first-person singular present indicative of salvar"
     ]
+   ],
+   "opts": [
+    "salvos",
+    "salva",
+    "salvas"
    ]
   },
   "salvar": {
@@ -15965,6 +16222,11 @@
      "alternative spelling of ésa That one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "ese",
+    "esos",
+    "esas"
    ]
   },
   "montaña": {
@@ -16016,6 +16278,11 @@
     [
      "something else; another one"
     ]
+   ],
+   "opts": [
+    "otra",
+    "otros",
+    "otras"
    ]
   },
   "soltar": {
@@ -16087,6 +16354,11 @@
      "one",
      "Sólo hay una ruta - There is only one route."
     ]
+   ],
+   "opts": [
+    "uno",
+    "unos",
+    "unas"
    ]
   },
   "pierna": {
@@ -16135,6 +16407,11 @@
     [
      "first-person singular present indicative of violentar"
     ]
+   ],
+   "opts": [
+    "violenta",
+    "violentos",
+    "violentas"
    ]
   },
   "sacudida": {
@@ -16302,13 +16579,19 @@
    "shortDef": "venomous, poisonous, toxic",
    "g": 53,
    "causes": [
-    "venenosos"
+    "venenosos",
+    "venenoso"
    ],
    "longDef": [
     [
      "(Adjective) venomous, poisonous, toxic",
      "Synonym: tóxico"
     ]
+   ],
+   "opts": [
+    "venenosa",
+    "venenosas",
+    "venenosos"
    ]
   },
   "dejar": {
@@ -16337,6 +16620,7 @@
    "g": 56,
    "causes": [
     "déjame",
+    "me",
     "come",
     "hiéreme",
     "comerme"
@@ -16422,16 +16706,25 @@
     [
      "a lot, many"
     ]
+   ],
+   "opts": [
+    "muchas",
+    "muchos",
+    "mucha"
    ]
   },
   "forcejear": {
    "word": "forcejear",
-   "shortDef": "(intransitive) to struggle, grapple, wrestle",
+   "shortDef": "to struggle, grapple, wrestle",
    "g": 57,
    "causes": [
     "forcejeó"
    ],
-   "longDef": null
+   "longDef": [
+    [
+     "(Verb) (intransitive) to struggle, grapple, wrestle"
+    ]
+   ]
   },
   "querer": {
    "word": "querer",
@@ -16503,6 +16796,11 @@
     [
      "(Adjective) (Mexico) bad, gross, mean, nasty"
     ]
+   ],
+   "opts": [
+    "fea",
+    "feas",
+    "feos"
    ]
   },
   "aplastar": {
@@ -16524,7 +16822,7 @@
   },
   "desgarrar": {
    "word": "desgarrar",
-   "shortDef": "(transitive or reflexive) to tear, to rip, to rend (to hold or restrain in two places while pulling apart)",
+   "shortDef": "to tear, to rip, to rend (to hold or restrain in two places while pulling apart)",
    "g": 59,
    "causes": [
     "desgarró"
@@ -16631,7 +16929,8 @@
    "g": 61,
    "causes": [
     "vió",
-    "ven"
+    "ven",
+    "ver"
    ],
    "longDef": [
     [
@@ -16750,6 +17049,11 @@
      "Synonym: chico",
      "Tengo un gatito pequeñito. ― I have a small kitten."
     ]
+   ],
+   "opts": [
+    "pequeña",
+    "pequeños",
+    "pequeñas"
    ]
   },
   "robusto": {
@@ -16766,6 +17070,11 @@
     [
      "(Adjective) stout, stocky, hardy"
     ]
+   ],
+   "opts": [
+    "robusta",
+    "robustos",
+    "robustas"
    ]
   },
   "quién": {
@@ -16862,6 +17171,11 @@
     [
      "so much, so many"
     ]
+   ],
+   "opts": [
+    "tanta",
+    "tantos",
+    "tantas"
    ]
   },
   "travesura": {
@@ -16880,25 +17194,9 @@
     ]
    ]
   },
-  "entrar": {
-   "word": "entrar",
-   "shortDef": "to enter, go in, come in",
-   "g": 64,
-   "causes": [
-    "entro"
-   ],
-   "longDef": [
-    [
-     "(Verb) to enter"
-    ],
-    [
-     "(Verb) to come in, to get in, to go in, to get inside, to come on in"
-    ]
-   ]
-  },
   "corral": {
    "word": "corral",
-   "shortDef": "(cattle) corral, enclosure",
+   "shortDef": "corral, enclosure",
    "g": 64,
    "causes": [
     "corrales"
@@ -17077,7 +17375,8 @@
    "g": 69,
    "causes": [
     "subió",
-    "sube"
+    "sube",
+    "subir"
    ],
    "longDef": [
     [
@@ -17242,7 +17541,7 @@
   },
   "hermano": {
    "word": "hermano",
-   "shortDef": "brother\n1970, \"Los Hermanos\", Atahualpa Yupanqui (lyrics), performed by Atahualpa Yupanqui:",
+   "shortDef": "brother",
    "g": 73,
    "causes": [
     "hermanos"
@@ -17303,6 +17602,10 @@
     [
      "first-person singular present indicative of primar"
     ]
+   ],
+   "opts": [
+    "prima",
+    "primas"
    ]
   },
   "adelante": {
@@ -17373,6 +17676,11 @@
      "(Adjective) despicable",
      "Synonym: despreciable"
     ]
+   ],
+   "opts": [
+    "rastrera",
+    "rastreros",
+    "rastreras"
    ]
   },
   "figura": {
@@ -17454,7 +17762,7 @@
   },
   "car": {
    "word": "car",
-   "shortDef": "(archaic) because",
+   "shortDef": "because",
    "g": 77,
    "causes": [
     "come"
@@ -17521,6 +17829,9 @@
     [
      "(Adjective) valiant, gallant, doughty"
     ]
+   ],
+   "opts": [
+    "valientes"
    ]
   },
   "ladrar": {
@@ -17543,7 +17854,12 @@
    "causes": [
     "furioso"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "furiosa",
+    "furiosos",
+    "furiosas"
+   ]
   },
   "hablar": {
    "word": "hablar",
@@ -17551,7 +17867,8 @@
    "g": 82,
    "causes": [
     "hables",
-    "hablaban"
+    "hablaban",
+    "hablar"
    ],
    "longDef": [
     [
@@ -17620,11 +17937,15 @@
     [
      "barbarian"
     ]
+   ],
+   "opts": [
+    "bárbaros",
+    "bárbaras"
    ]
   },
   "salvaje": {
    "word": "salvaje",
-   "shortDef": "(especially of animals) wild, savage (untamed, not domesticated)",
+   "shortDef": "wild, savage (untamed, not domesticated)",
    "g": 82,
    "causes": [
     "salvaje"
@@ -17642,6 +17963,9 @@
     [
      "savage"
     ]
+   ],
+   "opts": [
+    "salvajes"
    ]
   },
   "bueno": {
@@ -17670,6 +17994,15 @@
      "(used at the start of a phrase) well; a short pause in a sentence",
      "Bueno, pues, mira. ― Well, then, look."
     ]
+   ],
+   "opts": [
+    "buena",
+    "buen",
+    "buenas",
+    "buenos",
+    "bona",
+    "wena",
+    "weno"
    ]
   },
   "noble": {
@@ -17679,7 +18012,10 @@
    "causes": [
     "noble"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "nobles"
+   ]
   },
   "compañero": {
    "word": "compañero",
@@ -17823,7 +18159,8 @@
    "shortDef": "fight, fighting, fray",
    "g": 84,
    "causes": [
-    "luchas"
+    "luchas",
+    "lucha"
    ],
    "longDef": [
     [
@@ -17940,6 +18277,15 @@
      "Buen día. - Good day.",
      "Buen trabajo. - Good job."
     ]
+   ],
+   "opts": [
+    "bueno",
+    "buena",
+    "buenas",
+    "buenos",
+    "bona",
+    "wena",
+    "weno"
    ]
   },
   "amigo": {
@@ -18068,6 +18414,9 @@
     [
      "(Spain, historical, colloquial) a quarter of a peseta"
     ]
+   ],
+   "opts": [
+    "reales"
    ]
   },
   "llegar": {
@@ -18202,6 +18551,9 @@
      "(Adjective) mean, stingy",
      "Synonyms: avaro, mezquino, tacaño, usurero, agarrado, cicatero"
     ]
+   ],
+   "opts": [
+    "ruines"
    ]
   },
   "miro": {
@@ -18339,6 +18691,11 @@
     [
      "(Adjective) mystery (e.g. mystery lover [in an affair], mystery man or woman [in a case or investigation])"
     ]
+   ],
+   "opts": [
+    "misteriosa",
+    "misteriosas",
+    "misteriosos"
    ]
   },
   "ave": {
@@ -18395,11 +18752,16 @@
     [
      "halt!; stop!"
     ]
+   ],
+   "opts": [
+    "alta",
+    "altos",
+    "altas"
    ]
   },
   "cómo": {
    "word": "cómo",
-   "shortDef": "(interrogative) how?",
+   "shortDef": "how?",
    "g": 92,
    "causes": [
     "cómo"
@@ -18499,7 +18861,12 @@
    "causes": [
     "pensativo"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "pensativa",
+    "pensativos",
+    "pensativas"
+   ]
   },
   "desprecio": {
    "word": "desprecio",
@@ -18642,6 +19009,7 @@
    "g": 98,
    "causes": [
     "respetaba",
+    "respetar",
     "respeto",
     "respetó"
    ],
@@ -18717,6 +19085,11 @@
     [
      "past participle of resolver"
     ]
+   ],
+   "opts": [
+    "resuelta",
+    "resueltas",
+    "resueltos"
    ]
   },
   "resolver": {
@@ -18757,6 +19130,11 @@
      "(Adjective) brave",
      "Synonym: valiente"
     ]
+   ],
+   "opts": [
+    "valerosos",
+    "valerosa",
+    "valerosas"
    ]
   },
   "creación": {
@@ -18819,6 +19197,11 @@
     [
      "ours"
     ]
+   ],
+   "opts": [
+    "nuestra",
+    "nuestros",
+    "nuestras"
    ]
   },
   "soberano": {
@@ -18836,6 +19219,10 @@
     [
      "sovereign"
     ]
+   ],
+   "opts": [
+    "soberana",
+    "soberanas"
    ]
   },
   "ir": {
@@ -18887,7 +19274,7 @@
   },
   "burlar": {
    "word": "burlar",
-   "shortDef": "(transitive) to outwit, to outsmart, to circumvent, to trick, to deceive\n1998, \"Clandestino\", in Clandestino, performed by Manu Chao:",
+   "shortDef": "to outwit, to outsmart, to circumvent, to trick, to deceive",
    "g": 102,
    "causes": [
     "burlo"
@@ -18908,7 +19295,8 @@
    "shortDef": "day (any period of 24 hours)",
    "g": 102,
    "causes": [
-    "días"
+    "días",
+    "día"
    ],
    "longDef": [
     [
@@ -18932,6 +19320,11 @@
      "plural of toda; all, all of",
      "{adj}"
     ]
+   ],
+   "opts": [
+    "todo",
+    "todos",
+    "toda"
    ]
   },
   "memoria": {
@@ -19215,7 +19608,7 @@
   },
   "aquel": {
    "word": "aquel",
-   "shortDef": "(demonstrative) that (over there; implying some distance)",
+   "shortDef": "that (over there; implying some distance)",
    "g": 111,
    "causes": [
     "aquel"
@@ -19227,6 +19620,11 @@
     [
      "(demonstrative) Alternative spelling of aquél"
     ]
+   ],
+   "opts": [
+    "aquella",
+    "aquellos",
+    "aquellas"
    ]
   },
   "caballo": {
@@ -19267,7 +19665,8 @@
    "shortDef": "arrow (projectile)",
    "g": 111,
    "causes": [
-    "flechas"
+    "flechas",
+    "flecha"
    ],
    "longDef": [
     [
@@ -19284,7 +19683,7 @@
   },
   "aquél": {
    "word": "aquél",
-   "shortDef": "(demonstrative) that one (far from speaker and listener)",
+   "shortDef": "that one (far from speaker and listener)",
    "g": 111,
    "causes": [
     "aquél"
@@ -19331,7 +19730,7 @@
   },
   "grande": {
    "word": "grande",
-   "shortDef": "(after the noun or predicatively) big, large",
+   "shortDef": "big, large",
    "g": 112,
    "causes": [
     "grande"
@@ -19350,6 +19749,10 @@
     [
      "grandee"
     ]
+   ],
+   "opts": [
+    "gran",
+    "grandes"
    ]
   },
   "cuatro": {
@@ -19499,6 +19902,22 @@
     ]
    ]
   },
+  "retirar": {
+   "word": "retirar",
+   "shortDef": "to retire, to withdraw",
+   "g": 117,
+   "causes": [
+    "retiradas"
+   ],
+   "longDef": [
+    [
+     "(Verb) to remove"
+    ],
+    [
+     "(Verb) to withdraw"
+    ]
+   ]
+  },
   "acometida": {
    "word": "acometida",
    "shortDef": "rush (sudden forward motion)",
@@ -19597,7 +20016,7 @@
   },
   "tierra": {
    "word": "tierra",
-   "shortDef": "(geography) land, ground (the part of Earth which is not covered by oceans or other bodies of water)",
+   "shortDef": "land, ground (the part of Earth which is not covered by oceans or other bodies of water)",
    "g": 118,
    "causes": [
     "tierra"
@@ -19671,6 +20090,11 @@
     [
      "first-person singular present indicative of profundar"
     ]
+   ],
+   "opts": [
+    "profunda",
+    "profundas",
+    "profundos"
    ]
   },
   "sentir": {
@@ -19708,7 +20132,12 @@
    "causes": [
     "unas"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "uno",
+    "una",
+    "unos"
+   ]
   },
   "ligadura": {
    "word": "ligadura",
@@ -19728,7 +20157,7 @@
   },
   "mano": {
    "word": "mano",
-   "shortDef": "(anatomy, of a person) hand",
+   "shortDef": "hand",
    "g": 119,
    "causes": [
     "manos"
@@ -19770,6 +20199,11 @@
      "Antonym: nada",
      "todo lo que dijiste ― everything that you said"
     ]
+   ],
+   "opts": [
+    "todos",
+    "todas",
+    "toda"
    ]
   },
   "caído": {
@@ -19784,6 +20218,11 @@
      "fallen",
      "{adj}"
     ]
+   ],
+   "opts": [
+    "caída",
+    "caídos",
+    "caídas"
    ]
   },
   "trampa": {
@@ -19820,6 +20259,11 @@
     [
      "past participle of perder"
     ]
+   ],
+   "opts": [
+    "perdida",
+    "perdidas",
+    "perdidos"
    ]
   },
   "perder": {
@@ -19887,6 +20331,10 @@
     [
      "first-person singular present indicative of roncar"
     ]
+   ],
+   "opts": [
+    "ronca",
+    "roncas"
    ]
   },
   "roncar": {
@@ -19900,7 +20348,7 @@
   },
   "voz": {
    "word": "voz",
-   "shortDef": "voice\n1935/1936, Federico García Lorca, El poeta habla por teléfono con el amor",
+   "shortDef": "voice",
    "g": 121,
    "causes": [
     "voces"
@@ -20022,6 +20470,9 @@
     [
      "(Adjective) frozen (in reference to a person or creature)"
     ]
+   ],
+   "opts": [
+    "inmóviles"
    ]
   },
   "majestuoso": {
@@ -20038,6 +20489,11 @@
     [
      "(Adjective) stately, pompous"
     ]
+   ],
+   "opts": [
+    "majestuosa",
+    "majestuosos",
+    "majestuosas"
    ]
   },
   "borde": {
@@ -20181,6 +20637,9 @@
     [
      "culpable person"
     ]
+   ],
+   "opts": [
+    "culpables"
    ]
   },
   "ellos": {
@@ -20199,7 +20658,7 @@
   },
   "corazón": {
    "word": "corazón",
-   "shortDef": "(anatomy) heart (organ of the body)",
+   "shortDef": "heart (organ of the body)",
    "g": 127,
    "causes": [
     "corazón"
@@ -20276,7 +20735,12 @@
    "causes": [
     "compasivo"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "compasiva",
+    "compasivos",
+    "compasivas"
+   ]
   },
   "atender": {
    "word": "atender",
@@ -20398,6 +20862,11 @@
     [
      "(Adjective) pleased, joyous (happy)"
     ]
+   ],
+   "opts": [
+    "gozosa",
+    "gozosos",
+    "gozosas"
    ]
   },
   "pensando": {
@@ -20442,6 +20911,13 @@
      "(Adjective) gorgeous, beautiful, handsome, lovely",
      "Synonyms: apuesto, (more common) guapo"
     ]
+   ],
+   "opts": [
+    "hermosa",
+    "hermosas",
+    "hermosos",
+    "fermoso",
+    "fermosa"
    ]
   },
   "piel": {
@@ -20627,6 +21103,11 @@
     [
      "past participle of entretener"
     ]
+   ],
+   "opts": [
+    "entretenida",
+    "entretenidos",
+    "entretenidas"
    ]
   },
   "entretener": {

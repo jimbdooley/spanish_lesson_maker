@@ -32,7 +32,7 @@ function optionalForms(lesson) {
             ]
             for (const optToTry of optsToTry) {
                 if (-1 != lesson.defInfo[word].opts.indexOf(optToTry)) continue
-                lesson.defInfo[word].opts.push(opt)
+                lesson.defInfo[word].opts.push(optToTry)
             }
         }
     }

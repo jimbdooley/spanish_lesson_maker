@@ -3010,7 +3010,7 @@
  "defInfo": {
   "el": {
    "word": "el",
-   "shortDef": "the",
+   "shortDef": "the (masculine)",
    "g": 0,
    "causes": [
     "el"
@@ -3055,11 +3055,15 @@
      "Mi abuelo es viejo. ― My grandfather is old.\n2014, Victor Muñoz, La noche del 9 de febrero, Punto de Lectura, →ISBN:",
      "También hay un profesor viejo que se ha vuelto sabio a raíz de vivir mucho tiempo y de escuchar y contar historias. ― There's also an old professor who has grown wise as a result of living a long time and listening to and telling stories."
     ]
+   ],
+   "opts": [
+    "vieja",
+    "viejas"
    ]
   },
   "y": {
    "word": "y",
-   "shortDef": "and\n1605, Miguel de Cervantes Saavedra, Don Quijote de la Mancha1, Chapter I:",
+   "shortDef": "and",
    "g": 0,
    "causes": [
     "y"
@@ -3120,6 +3124,11 @@
     [
      "a lot, many"
     ]
+   ],
+   "opts": [
+    "muchas",
+    "muchos",
+    "mucha"
    ]
   },
   "tener": {
@@ -3232,6 +3241,7 @@
    "g": 1,
    "causes": [
     "ha",
+    "haber",
     "había"
    ],
    "longDef": [
@@ -3360,6 +3370,11 @@
      "plural of todo; all, all of",
      "{adj}"
     ]
+   ],
+   "opts": [
+    "todo",
+    "todas",
+    "toda"
    ]
   },
   "un": {
@@ -3397,6 +3412,11 @@
     [
      ""
     ]
+   ],
+   "opts": [
+    "española",
+    "españoles",
+    "españolas"
    ]
   },
   "su": {
@@ -3417,6 +3437,10 @@
      "¿Cómo está su familia? - How is your family?",
      "¿Dónde está su coche? - Where is your car?"
     ]
+   ],
+   "opts": [
+    "suyo",
+    "sus"
    ]
   },
   "hijo": {
@@ -3536,7 +3560,8 @@
    "shortDef": "it, that",
    "g": 2,
    "causes": [
-    "venderlo"
+    "venderlo",
+    "lo"
    ],
    "longDef": [
     [
@@ -3557,6 +3582,7 @@
     "iban",
     "iba",
     "va",
+    "ir",
     "fueron"
    ],
    "longDef": [
@@ -3573,7 +3599,7 @@
   },
   "padre": {
    "word": "padre",
-   "shortDef": "(family) father",
+   "shortDef": "father",
    "g": 3,
    "causes": [
     "padre"
@@ -3708,7 +3734,12 @@
    "causes": [
     "fatigado"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "fatigada",
+    "fatigados",
+    "fatigadas"
+   ]
   },
   "fatigar": {
    "word": "fatigar",
@@ -3725,26 +3756,23 @@
   },
   "la": {
    "word": "la",
-   "shortDef": "the",
+   "shortDef": "the (feminine)",
    "g": 3,
    "causes": [
     "la"
    ],
    "longDef": [
     [
-     "the"
+     "the (feminine)"
     ],
     [
-     "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
+     "her, it, you (formal)"
     ],
     [
      "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
      "La sabe toda.  ― He/she knows everything (it all)",
      "¡Dónde la viste!  ― Where have you seen this!",
      "No te la creo.  ― I don't believe you."
-    ],
-    [
-     "(music) la (sixth note of the scale)"
     ]
    ]
   },
@@ -3798,11 +3826,16 @@
      "hace poco ― a little while ago",
      "dentro de poco ― in a little bit"
     ]
+   ],
+   "opts": [
+    "pocos",
+    "pocas",
+    "poca"
    ]
   },
   "rato": {
    "word": "rato",
-   "shortDef": "a while, bit (a short period of time)\n1997, Roberto Bolaño, \"Henri Simon Leprince\", in Llamadas telefónicas [Last Evenings on Earth]:",
+   "shortDef": "a while, bit (a short period of time)",
    "g": 4,
    "causes": [
     "rato"
@@ -3845,7 +3878,12 @@
    "causes": [
     "unas"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "uno",
+    "una",
+    "unos"
+   ]
   },
   "unir": {
    "word": "unir",
@@ -3898,6 +3936,11 @@
      "one",
      "Sólo hay una ruta - There is only one route."
     ]
+   ],
+   "opts": [
+    "uno",
+    "unos",
+    "unas"
    ]
   },
   "ellas": {
@@ -4009,7 +4052,8 @@
    "shortDef": "man, (adult male human)",
    "g": 5,
    "causes": [
-    "hombres"
+    "hombres",
+    "hombre"
    ],
    "longDef": [
     [
@@ -4080,6 +4124,11 @@
     [
      "a fool, a stupid person"
     ]
+   ],
+   "opts": [
+    "tonta",
+    "tontos",
+    "tontas"
    ]
   },
   "andar": {
@@ -4145,6 +4194,13 @@
      "(Adjective) gorgeous, beautiful, handsome, lovely",
      "Synonyms: apuesto, (more common) guapo"
     ]
+   ],
+   "opts": [
+    "hermosa",
+    "hermosas",
+    "hermosos",
+    "fermoso",
+    "fermosa"
    ]
   },
   "burro": {
@@ -4175,7 +4231,8 @@
    "shortDef": "to hear",
    "g": 7,
    "causes": [
-    "oyó"
+    "oyó",
+    "oír"
    ],
    "longDef": [
     [
@@ -4205,6 +4262,11 @@
      "alternative spelling of éstas Those ones",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "este",
+    "esta",
+    "estos"
    ]
   },
   "palabra": {
@@ -4250,7 +4312,8 @@
    "causes": [
     "montara",
     "montado",
-    "montase"
+    "montase",
+    "montados"
    ],
    "longDef": [
     [
@@ -4306,11 +4369,16 @@
    "causes": [
     "andado"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "andada",
+    "andados",
+    "andadas"
+   ]
   },
   "tiempo": {
    "word": "tiempo",
-   "shortDef": "(also physics) time",
+   "shortDef": "time",
    "g": 8,
    "causes": [
     "tiempo"
@@ -4336,6 +4404,7 @@
    "g": 8,
    "causes": [
     "pasaron",
+    "pasar",
     "pasaba"
    ],
    "longDef": [
@@ -4420,7 +4489,7 @@
   },
   "se": {
    "word": "se",
-   "shortDef": "third person (also used for usted and ustedes) reflexive direct or indirect object oneself, himself, herself, itself, yourself; each other; one another",
+   "shortDef": "oneself, himself, herself, itself, yourself; each other; one another",
    "g": 9,
    "causes": [
     "se",
@@ -4448,7 +4517,7 @@
   },
   "mofar": {
    "word": "mofar",
-   "shortDef": "(intransitive or transitive or reflexive) taunt (to make fun of someone)",
+   "shortDef": "taunt (to make fun of someone)",
    "g": 9,
    "causes": [
     "mofaron"
@@ -4533,11 +4602,16 @@
     [
      "past participle of montar"
     ]
+   ],
+   "opts": [
+    "montada",
+    "montados",
+    "montadas"
    ]
   },
   "mientras": {
    "word": "mientras",
-   "shortDef": "(with the indicative) while, whilst, as (at the same time as)",
+   "shortDef": "while, whilst, as (at the same time as)",
    "g": 9,
    "causes": [
     "mientras"
@@ -4708,7 +4782,8 @@
    "shortDef": "boy, servant",
    "g": 11,
    "causes": [
-    "muchachos"
+    "muchachos",
+    "muchacho"
    ],
    "longDef": [
     [
@@ -4722,7 +4797,8 @@
    "shortDef": "to see",
    "g": 11,
    "causes": [
-    "verlos"
+    "verlos",
+    "ver"
    ],
    "longDef": [
     [
@@ -4739,10 +4815,11 @@
   },
   "los": {
    "word": "los",
-   "shortDef": "the, them",
+   "shortDef": "the, them (masculine)",
    "g": 11,
    "causes": [
-    "verlos"
+    "verlos",
+    "los"
    ],
    "longDef": [
     [
@@ -4808,6 +4885,11 @@
      "(Adjective) convenient",
      "Synonym: conveniente"
     ]
+   ],
+   "opts": [
+    "cómoda",
+    "cómodos",
+    "cómodas"
    ]
   },
   "jadeante": {
@@ -4817,7 +4899,10 @@
    "causes": [
     "jadeante"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "jadeantes"
+   ]
   },
   "cansado": {
    "word": "cansado",
@@ -4836,6 +4921,11 @@
     [
      "past participle of cansar"
     ]
+   ],
+   "opts": [
+    "cansada",
+    "cansados",
+    "cansadas"
    ]
   },
   "esto": {
@@ -4964,11 +5054,20 @@
      "Buen día. - Good day.",
      "Buen trabajo. - Good job."
     ]
+   ],
+   "opts": [
+    "bueno",
+    "buena",
+    "buenas",
+    "buenos",
+    "bona",
+    "wena",
+    "weno"
    ]
   },
   "le": {
    "word": "le",
-   "shortDef": "To her, for her (dative form of ella)",
+   "shortDef": "to him, to her, to you",
    "g": 15,
    "causes": [
     "le",
@@ -5051,6 +5150,11 @@
     [
      "past participle of encontrar"
     ]
+   ],
+   "opts": [
+    "encontrada",
+    "encontradas",
+    "encontrados"
    ]
   },
   "manera": {
@@ -5092,6 +5196,11 @@
      "Antonym: nada",
      "todo lo que dijiste ― everything that you said"
     ]
+   ],
+   "opts": [
+    "todos",
+    "todas",
+    "toda"
    ]
   },
   "mundo": {
@@ -5165,7 +5274,7 @@
   },
   "cuál": {
    "word": "cuál",
-   "shortDef": "(interrogative pronoun, as part of a question) what (in terms of a very specific item); which, which one",
+   "shortDef": "what (in terms of a very specific item); which, which one",
    "g": 16,
    "causes": [
     "cuál"
@@ -5205,7 +5314,8 @@
     "es",
     "era",
     "sería",
-    "fueron"
+    "fueron",
+    "ser"
    ],
    "longDef": [
     [
@@ -5263,7 +5373,12 @@
    "causes": [
     "mortificado"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "mortificada",
+    "mortificados",
+    "mortificadas"
+   ]
   },
   "mortificar": {
    "word": "mortificar",
@@ -5311,6 +5426,11 @@
      "alternative spelling of ésta This one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "este",
+    "estas",
+    "estos"
    ]
   },
   "pregunta": {
@@ -5373,6 +5493,11 @@
     [
      "something else; another one"
     ]
+   ],
+   "opts": [
+    "otra",
+    "otros",
+    "otras"
    ]
   },
   "explicar": {
@@ -5447,7 +5572,8 @@
    "g": 17,
    "causes": [
     "cargar",
-    "cargado"
+    "cargado",
+    "cargados"
    ],
    "longDef": [
     [
@@ -5472,6 +5598,11 @@
      "alternative spelling of aquélla That one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "aquel",
+    "aquellos",
+    "aquellas"
    ]
   },
   "pequeño": {
@@ -5487,6 +5618,11 @@
      "Synonym: chico",
      "Tengo un gatito pequeñito. ― I have a small kitten."
     ]
+   ],
+   "opts": [
+    "pequeña",
+    "pequeños",
+    "pequeñas"
    ]
   },
   "débil": {
@@ -5502,20 +5638,9 @@
      "Synonyms: endeble, escuálido, flojo, frágil, lánguido, tenue",
      "Antonym: fuerte"
     ]
-   ]
-  },
-  "l": {
-   "word": "l",
-   "shortDef": "The 12th letter of the Spanish alphabet",
-   "g": 17,
-   "causes": [
-    "les"
    ],
-   "longDef": [
-    [
-     "The 12th letter of the Spanish alphabet",
-     "{letter}"
-    ]
+   "opts": [
+    "débiles"
    ]
   },
   "estar": {
@@ -5565,6 +5690,9 @@
      "better",
      "Antonym: peor"
     ]
+   ],
+   "opts": [
+    "mejores"
    ]
   },
   "cargado": {
@@ -5585,6 +5713,11 @@
     [
      "past participle of cargar"
     ]
+   ],
+   "opts": [
+    "cargada",
+    "cargados",
+    "cargadas"
    ]
   },
   "hasta": {
@@ -5659,6 +5792,11 @@
      "(Adjective) next",
      "la próxima vez que usted venga ― the next time you come"
     ]
+   ],
+   "opts": [
+    "próxima",
+    "próximos",
+    "próximas"
    ]
   },
   "evitar": {
@@ -5723,7 +5861,10 @@
    "causes": [
     "razonable"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "razonables"
+   ]
   },
   "observación": {
    "word": "observación",
@@ -5796,6 +5937,9 @@
     [
      "strong point, forte, strength"
     ]
+   ],
+   "opts": [
+    "fuertes"
    ]
   },
   "palo": {
@@ -5868,12 +6012,16 @@
   },
   "hombro": {
    "word": "hombro",
-   "shortDef": "(anatomy) shoulder",
+   "shortDef": "shoulder",
    "g": 20,
    "causes": [
     "hombros"
    ],
-   "longDef": null
+   "longDef": [
+    [
+     "(Noun) (anatomy) shoulder"
+    ]
+   ]
   },
   "extremidad": {
    "word": "extremidad",
@@ -5903,6 +6051,11 @@
      "feminine of otro; another, another one",
      "{pron}"
     ]
+   ],
+   "opts": [
+    "otro",
+    "otros",
+    "otras"
    ]
   },
   "trabajosamente": {
@@ -6114,7 +6267,7 @@
   },
   "burlar": {
    "word": "burlar",
-   "shortDef": "(transitive) to outwit, to outsmart, to circumvent, to trick, to deceive\n1998, \"Clandestino\", in Clandestino, performed by Manu Chao:",
+   "shortDef": "to outwit, to outsmart, to circumvent, to trick, to deceive",
    "g": 21,
    "causes": [
     "burlaban"
@@ -6132,7 +6285,7 @@
   },
   "las": {
    "word": "las",
-   "shortDef": "the",
+   "shortDef": "the, them (feminine)",
    "g": 21,
    "causes": [
     "las"
@@ -6280,7 +6433,7 @@
   },
   "fin": {
    "word": "fin",
-   "shortDef": "(sometimes feminine) end",
+   "shortDef": "end",
    "g": 24,
    "causes": [
     "fin"
@@ -6412,6 +6565,11 @@
     [
      "past participle of asustar"
     ]
+   ],
+   "opts": [
+    "asustada",
+    "asustados",
+    "asustadas"
    ]
   },
   "asustar": {
@@ -6465,11 +6623,16 @@
     [
      "so much, so many"
     ]
+   ],
+   "opts": [
+    "tanta",
+    "tantos",
+    "tantas"
    ]
   },
   "alboroto": {
    "word": "alboroto",
-   "shortDef": "fuss, commotion, ruckus, hubbub, brouhaha, ado, uproar, tumult, riot, bustle, din, rumpus, fracas, rowdiness\n1870, Vicente Fidel López, La novia del hereje o la Inquisición de Lima:",
+   "shortDef": "fuss, commotion, ruckus, hubbub, brouhaha, ado, uproar, tumult, riot, bustle, din, rumpus, fracas, rowdiness",
    "g": 24,
    "causes": [
     "alboroto"
@@ -6623,7 +6786,7 @@
   },
   "pobre": {
    "word": "pobre",
-   "shortDef": "(before the noun) poor (pitiable, pitiful)",
+   "shortDef": "poor (pitiable, pitiful)",
    "g": 25,
    "causes": [
     "pobre"
@@ -6638,6 +6801,11 @@
      "(Adjective) (after the noun) poor (lacking money, resources, etc.)",
      "Se relajan las familias ricas en casas lujosas y las familias pobres tiran en chozas desmoronadas. ― The rich families relax in luxurious houses and the poor families get by in dilapidated huts."
     ]
+   ],
+   "opts": [
+    "pobres",
+    "probe",
+    "probes"
    ]
   },
   "bueno": {
@@ -6666,6 +6834,15 @@
      "(used at the start of a phrase) well; a short pause in a sentence",
      "Bueno, pues, mira. ― Well, then, look."
     ]
+   ],
+   "opts": [
+    "buena",
+    "buen",
+    "buenas",
+    "buenos",
+    "bona",
+    "wena",
+    "weno"
    ]
   },
   "complaciente": {
@@ -6675,7 +6852,10 @@
    "causes": [
     "complaciente"
    ],
-   "longDef": null
+   "longDef": null,
+   "opts": [
+    "complacientes"
+   ]
   },
   "sin": {
    "word": "sin",
@@ -6733,6 +6913,11 @@
     [
      "past participle of sentir"
     ]
+   ],
+   "opts": [
+    "sentida",
+    "sentidas",
+    "sentidos"
    ]
   },
   "común": {
@@ -6758,6 +6943,10 @@
      "community",
      "Synonym: comunidad"
     ]
+   ],
+   "opts": [
+    "comunes",
+    "comun"
    ]
   }
  },
@@ -7154,6 +7343,15 @@
     "ir"
    ]
   },
+  "montase": {
+   "g": 14,
+   "c": [
+    "120",
+    "montar",
+    "122",
+    "montar"
+   ]
+  },
   "siguieron": {
    "g": 14,
    "c": [
@@ -7264,6 +7462,13 @@
     "ser",
     "042",
     "ser"
+   ]
+  },
+  "llevaseis": {
+   "g": 19,
+   "c": [
+    "124",
+    "llevar"
    ]
   },
   "cargado": {
