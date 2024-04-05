@@ -13,6 +13,7 @@ document.getElementById("swapButton").addEventListener("click", function() {
 
 const HS = {
     lesson: null,
+    withOpts: null,
 }
 
 function downloadJSON(filename) {
@@ -33,6 +34,12 @@ function downloadJSON(filename) {
 document.getElementById("submitButton").addEventListener("click", function() {
     const ta = document.getElementById("inputText");
     HS.lesson = API_makeLesson(ta.value);
+
+    HS.withOpts = {}
+    for (const key in HS.lesson.defInfo) {
+        if (!HS.lesson.defInfo[key].hasOwnProperty("opts")) continue
+        HS.withOpts[key] = HS.lesson.defInfo[key]
+    }
 })
 
 document.getElementById("showLessonButton").addEventListener("click", function() {
@@ -58,7 +65,6 @@ document.getElementById("showLessonButton").addEventListener("click", function()
     while (lessonDiv.firstChild) {
         lessonDiv.removeChild(lessonDiv.firstChild);
     }
-    const shown = {}
     for (const sentInfo of HS.lesson.sentenceInfoList) {
         for (const wordInfo of sentInfo.wordInfoList) {
             const startStop = wordInfo.loc

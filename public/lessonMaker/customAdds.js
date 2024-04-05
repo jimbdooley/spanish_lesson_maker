@@ -40,6 +40,8 @@ function customAdd(lesson, word, group) {
         return _customAddWords(lesson, word, group, ["ser"])
     if (word == "lista" || word == "listas")
         return _customAddWords(lesson, word, group, ["lista", "listo"])
+    if (word == "les") 
+        return _customAddWords(lesson, word, group, ["le"])
 
     return false
 }
