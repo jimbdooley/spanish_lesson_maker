@@ -100,7 +100,7 @@ function prepareConjugations(_fileStr) {
         const inf = lines[i + 1]
         A.conjugations[inf] = [
             [[], [], [], [], []],
-            [[], []],
+            [[], [], [], []],
             [[], []], 
             lines[i+2], 
             lines[i+3]
@@ -112,15 +112,15 @@ function prepareConjugations(_fileStr) {
                 A.reverseConjugations[part].push((j + 6) + "", inf)
             }
         }
-        for (let j = 0; j < 9; j++) {
+        for (let j = 0; j < 11; j++) {
             let moodI = 0
             let tenseI = j
-            if (5 <= j && j < 7) {
+            if (5 <= j && j < 9) {
                 moodI = 1
                 tenseI = j - 5
-            } else if (7 <= j) {
+            } else if (9 <= j) {
                 moodI = 2
-                tenseI = j - 7
+                tenseI = j - 9
             }
             for (let pnI = 0; pnI < 6; pnI++) {
                 const verbs = lines[i + 4 + j * 6 + pnI]
