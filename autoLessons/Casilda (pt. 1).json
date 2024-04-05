@@ -1383,24 +1383,24 @@
  "defInfo": {
   "era": {
    "word": "era",
-   "shortDef": "era",
+   "shortDef": "era, age, past tense of ser",
    "g": 0,
    "causes": [
     "era"
    ],
    "longDef": [
     [
-     "era",
-     "{f}"
+     "era, age"
     ],
     [
-     "threshing floor",
-     "{f}"
+     "was, were (imperfect of ser)"
     ],
     [
-     "tipple",
-     "{f}"
+     "threshing floor (agriculture)"
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "ser": {
@@ -1429,6 +1429,10 @@
     [
      "nature, essence"
     ]
+   ],
+   "cf": [
+    "era",
+    "se"
    ]
   },
   "el": {
@@ -1519,6 +1523,10 @@
     [
      "first-person singular present indicative of morar"
     ]
+   ],
+   "cf": [
+    "morar",
+    "morir"
    ]
   },
   "morar": {
@@ -1537,6 +1545,10 @@
     [
      "(Verb) to sojourn"
     ]
+   ],
+   "cf": [
+    "moro",
+    "mora"
    ]
   },
   "con": {
@@ -1747,6 +1759,10 @@
     "uno",
     "unos",
     "unas"
+   ],
+   "cf": [
+    "unas",
+    "unir"
    ]
   },
   "hija": {
@@ -1848,6 +1864,9 @@
     "llamado",
     "llamadas",
     "llamados"
+   ],
+   "cf": [
+    "llamar"
    ]
   },
   "llamar": {
@@ -1874,6 +1893,9 @@
      "Eso yo lo llamo un auténtico robo. ― I refer to that as an authentic robbery.",
      "La llamó de todo. ― [He] referred to her about everything."
     ]
+   ],
+   "cf": [
+    "llamada"
    ]
   },
   "esclava": {
@@ -2103,6 +2125,9 @@
    "opts": [
     "suyo",
     "sus"
+   ],
+   "cf": [
+    "sus"
    ]
   },
   "dios": {
@@ -2129,6 +2154,9 @@
    ],
    "opts": [
     "suyo",
+    "su"
+   ],
+   "cf": [
     "su"
    ]
   },
@@ -2191,6 +2219,9 @@
      "handcuffs",
      "{fp} [plurale tantum]"
     ]
+   ],
+   "cf": [
+    "esposar"
    ]
   },
   "esposar": {
@@ -2204,6 +2235,9 @@
     [
      "(Verb) (transitive) to handcuff, manacle"
     ]
+   ],
+   "cf": [
+    "esposas"
    ]
   },
   "también": {
@@ -2268,6 +2302,9 @@
      "Queda por allí. ― It's over there.",
      "Nuestra tienda queda en la Alameda Central. ― Our store is located on Central Boulevard."
     ]
+   ],
+   "cf": [
+    "queda"
    ]
   },
   "huérfano": {
@@ -2399,6 +2436,9 @@
      "curfew",
      "{f}"
     ]
+   ],
+   "cf": [
+    "quedar"
    ]
   },
   "otra": {
@@ -2536,7 +2576,10 @@
    "causes": [
     "creciendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "crecer"
+   ]
   },
   "crecer": {
    "word": "crecer",
@@ -2550,6 +2593,9 @@
      "(Verb) to grow",
      "Antonym: decrecer"
     ]
+   ],
+   "cf": [
+    "creciendo"
    ]
   },
   "en": {
@@ -2646,6 +2692,9 @@
     [
      "Misspelling of sé."
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "morir": {
@@ -2665,6 +2714,10 @@
      "(Verb) (reflexive) to die",
      "Antonym: vivir"
     ]
+   ],
+   "cf": [
+    "moro",
+    "mora"
    ]
   },
   "envidiar": {
@@ -2808,6 +2861,9 @@
      "There were X",
      "{phrase}"
     ]
+   ],
+   "cf": [
+    "haber"
    ]
   },
   "haber": {
@@ -2832,6 +2888,9 @@
     [
      "history"
     ]
+   ],
+   "cf": [
+    "había"
    ]
   },
   "unas": {
@@ -2846,6 +2905,10 @@
     "uno",
     "una",
     "unos"
+   ],
+   "cf": [
+    "una",
+    "unir"
    ]
   },
   "unir": {
@@ -2863,6 +2926,10 @@
     [
      "(Verb) (transitive) to merge, conflate"
     ]
+   ],
+   "cf": [
+    "una",
+    "unas"
    ]
   },
   "lóbrego": {
@@ -2999,6 +3066,9 @@
     "cargada",
     "cargados",
     "cargadas"
+   ],
+   "cf": [
+    "cargar"
    ]
   },
   "cargar": {
@@ -3017,6 +3087,9 @@
      "(Verb) (transitive) to load (to fill (a firearm or artillery) with munition)",
      "Apreté el gatillo, pero no pasó nada. Me había olvidado de cargar el arma. ― I pulled the trigger, but nothing happened. I had forgotten to load the gun."
     ]
+   ],
+   "cf": [
+    "cargado"
    ]
   },
   "cadena": {
@@ -3272,6 +3345,10 @@
      "mora (unit of syllable weight)",
      "{f} [phonology]"
     ]
+   ],
+   "cf": [
+    "morar",
+    "morir"
    ]
   },
   "tornar": {
@@ -3325,6 +3402,9 @@
     "llena",
     "llenos",
     "llenas"
+   ],
+   "cf": [
+    "llenar"
    ]
   },
   "llenar": {
@@ -3344,6 +3424,9 @@
      "Synonym: rellenar",
      "Por favor llene este formulario. ― Please fill out this form."
     ]
+   ],
+   "cf": [
+    "lleno"
    ]
   },
   "corazón": {
@@ -3675,5 +3758,109 @@
     "llenar"
    ]
   }
- }
+ },
+ "fakeDefs": [
+  [
+   "inteligencia",
+   "intelligence"
+  ],
+  [
+   "astro",
+   "cosmic body, celestial body"
+  ],
+  [
+   "lívido",
+   "livid, ashen, leaden gray"
+  ],
+  [
+   "remachar",
+   "to smash"
+  ],
+  [
+   "gamuza",
+   "chamois (goat-antelope)"
+  ],
+  [
+   "cinta de aislar",
+   "electrical tape"
+  ],
+  [
+   "Uds",
+   "you (formal, plural)"
+  ],
+  [
+   "-sca",
+   "feminine form of -sco"
+  ],
+  [
+   "contrafuerte",
+   "buttress"
+  ],
+  [
+   "necrofilia",
+   "necrophilia"
+  ],
+  [
+   "obstinado",
+   "stubborn"
+  ],
+  [
+   "gramático",
+   "grammatical"
+  ],
+  [
+   "rinoceronte de Java",
+   "Javan rhinoceros"
+  ],
+  [
+   "telepatía",
+   "telepathy"
+  ],
+  [
+   "sensibilizar",
+   "to sensitize"
+  ]
+ ],
+ "fakeInfDefs": [
+  [
+   "captar",
+   "to capture, win trust"
+  ],
+  [
+   "prosperar",
+   "to prosper"
+  ],
+  [
+   "traficar",
+   "to deal, trade, traffic"
+  ],
+  [
+   "rentar",
+   "to yield, produce, rent"
+  ],
+  [
+   "rabiar",
+   "to rage"
+  ],
+  [
+   "navegar",
+   "to navigate, to sail"
+  ],
+  [
+   "mutilar",
+   "to mutilate"
+  ],
+  [
+   "inhalar",
+   "to inhale"
+  ],
+  [
+   "traspasar",
+   "to pierce"
+  ],
+  [
+   "contraponer",
+   "to compare, contrast"
+  ]
+ ]
 }

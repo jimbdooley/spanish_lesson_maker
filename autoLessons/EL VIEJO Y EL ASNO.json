@@ -3152,6 +3152,9 @@
      "¡Ten cuidado! ― Be careful! (literally, \"Have care!\")",
      "¿Quién tiene razón? ― Who is right? (literally, \"Who has reason?\")"
     ]
+   ],
+   "cf": [
+    "teniendo"
    ]
   },
   "que": {
@@ -3259,6 +3262,9 @@
     [
      "history"
     ]
+   ],
+   "cf": [
+    "había"
    ]
   },
   "de": {
@@ -3282,6 +3288,9 @@
     [
      "The name of the Latin-script letter D."
     ]
+   ],
+   "cf": [
+    "dar"
    ]
   },
   "dar": {
@@ -3298,6 +3307,9 @@
     [
      "(Verb) (transitive) to hand over"
     ]
+   ],
+   "cf": [
+    "de"
    ]
   },
   "gusto": {
@@ -3318,6 +3330,9 @@
     [
      "first-person singular present indicative of gustar"
     ]
+   ],
+   "cf": [
+    "gustar"
    ]
   },
   "gustar": {
@@ -3337,6 +3352,9 @@
      "(Verb) (transitive, dated) to taste",
      "Synonyms: probar, catar, degustar, saborear"
     ]
+   ],
+   "cf": [
+    "gusto"
    ]
   },
   "a": {
@@ -3356,6 +3374,9 @@
      "at",
      "Let's go at 8 (o'clock). - Vamos a las 8."
     ]
+   ],
+   "cf": [
+    "ir"
    ]
   },
   "todos": {
@@ -3375,6 +3396,9 @@
     "todo",
     "todas",
     "toda"
+   ],
+   "cf": [
+    "todo"
    ]
   },
   "un": {
@@ -3480,6 +3504,9 @@
      "(Verb) (transitive) to take, to take out (implies moving someone further from the speaker)",
      "Llevamos a las chicas al cine. ― We're taking the girls to the movies."
     ]
+   ],
+   "cf": [
+    "llevando"
    ]
   },
   "al": {
@@ -3595,6 +3622,11 @@
      "Quiero ir contigo. ― I want to come with you.",
      "Iré a tu casa. ― I'll come to your house."
     ]
+   ],
+   "cf": [
+    "a",
+    "e",
+    "en"
    ]
   },
   "padre": {
@@ -3634,6 +3666,9 @@
     [
      "Name of the letter E"
     ]
+   ],
+   "cf": [
+    "ir"
    ]
   },
   "pie": {
@@ -3739,6 +3774,9 @@
     "fatigada",
     "fatigados",
     "fatigadas"
+   ],
+   "cf": [
+    "fatigar"
    ]
   },
   "fatigar": {
@@ -3752,6 +3790,9 @@
     [
      "(Verb) (transitive, reflexive) to fatigue, wear out, tire"
     ]
+   ],
+   "cf": [
+    "fatigado"
    ]
   },
   "la": {
@@ -3869,6 +3910,9 @@
      "Synonyms: hallar, trovar",
      "María y Gertrudis se escondieron cerca de las flores, y los chicos las encontraron a las chicas. ― Mary and Gertrude hid themselves near the flowers, and the boys found the girls."
     ]
+   ],
+   "cf": [
+    "encontrado"
    ]
   },
   "unas": {
@@ -3883,6 +3927,10 @@
     "uno",
     "una",
     "unos"
+   ],
+   "cf": [
+    "unir",
+    "una"
    ]
   },
   "unir": {
@@ -3900,6 +3948,10 @@
     [
      "(Verb) (transitive) to merge, conflate"
     ]
+   ],
+   "cf": [
+    "unas",
+    "una"
    ]
   },
   "mujer": {
@@ -3941,6 +3993,10 @@
     "uno",
     "unos",
     "unas"
+   ],
+   "cf": [
+    "unas",
+    "unir"
    ]
   },
   "ellas": {
@@ -3982,6 +4038,9 @@
     [
      "idle talk"
     ]
+   ],
+   "cf": [
+    "diciendo"
    ]
   },
   "mirar": {
@@ -4153,6 +4212,9 @@
     [
      "behavior, manner"
     ]
+   ],
+   "cf": [
+    "andado"
    ]
   },
   "teniendo": {
@@ -4162,7 +4224,10 @@
    "causes": [
     "teniendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "tener"
+   ]
   },
   "tan": {
    "word": "tan",
@@ -4267,6 +4332,10 @@
     "este",
     "esta",
     "estos"
+   ],
+   "cf": [
+    "esta",
+    "estar"
    ]
   },
   "palabra": {
@@ -4322,6 +4391,9 @@
     [
      "(Verb) to ride"
     ]
+   ],
+   "cf": [
+    "montado"
    ]
   },
   "en": {
@@ -4344,6 +4416,9 @@
      "en la antigüedad ― in antiquity",
      "en 1999 ― in 1999"
     ]
+   ],
+   "cf": [
+    "ir"
    ]
   },
   "después": {
@@ -4374,6 +4449,9 @@
     "andada",
     "andados",
     "andadas"
+   ],
+   "cf": [
+    "andar"
    ]
   },
   "tiempo": {
@@ -4513,6 +4591,9 @@
     [
      "Misspelling of sé."
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "mofar": {
@@ -4527,6 +4608,9 @@
      "(Verb) (intransitive or transitive or reflexive) taunt (to make fun of someone)",
      "Synonym: hacer mofa"
     ]
+   ],
+   "cf": [
+    "mofa"
    ]
   },
   "acción": {
@@ -4607,6 +4691,9 @@
     "montada",
     "montados",
     "montadas"
+   ],
+   "cf": [
+    "montar"
    ]
   },
   "mientras": {
@@ -4940,6 +5027,9 @@
      "neuter form of éste This",
      "{pron}"
     ]
+   ],
+   "cf": [
+    "estar"
    ]
   },
   "anca": {
@@ -5063,6 +5153,9 @@
     "bona",
     "wena",
     "weno"
+   ],
+   "cf": [
+    "bueno"
    ]
   },
   "le": {
@@ -5131,6 +5224,9 @@
      "There were X",
      "{phrase}"
     ]
+   ],
+   "cf": [
+    "haber"
    ]
   },
   "encontrado": {
@@ -5155,6 +5251,9 @@
     "encontrada",
     "encontradas",
     "encontrados"
+   ],
+   "cf": [
+    "encontrar"
    ]
   },
   "manera": {
@@ -5201,6 +5300,9 @@
     "todos",
     "todas",
     "toda"
+   ],
+   "cf": [
+    "todos"
    ]
   },
   "mundo": {
@@ -5335,6 +5437,10 @@
     [
      "nature, essence"
     ]
+   ],
+   "cf": [
+    "se",
+    "era"
    ]
   },
   "sentir": {
@@ -5364,6 +5470,9 @@
      "opinion\n1877, Benito Pérez Galdós, Gloria:",
      "Un día, como Gloria, viéndole sumergido en hondos comentarios sobre la unidad religiosa impuesta a los Estados después de la unidad política, le dijese que en su sentir los reyes de España habían hecho mal en arrojar del país a los judíos y a los moros, Lantigua abrió mucho los ojos, y después de contemplarla en silencio mientras duró el breve paroxismo de su asombro, le dijo:―Eso es saber más de la cuenta. ¿Qué entiendes tú de eso? Vete a tocar el piano. ― (please add an English translation of this quotation)"
     ]
+   ],
+   "cf": [
+    "sentido"
    ]
   },
   "mortificado": {
@@ -5378,6 +5487,9 @@
     "mortificada",
     "mortificados",
     "mortificadas"
+   ],
+   "cf": [
+    "mortificar"
    ]
   },
   "mortificar": {
@@ -5394,6 +5506,9 @@
     [
      "(Verb) (transitive) to torment, to annoy"
     ]
+   ],
+   "cf": [
+    "mortificado"
    ]
   },
   "con": {
@@ -5431,6 +5546,10 @@
     "este",
     "estas",
     "estos"
+   ],
+   "cf": [
+    "estas",
+    "estar"
    ]
   },
   "pregunta": {
@@ -5449,6 +5568,9 @@
     [
      "inflection of preguntar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "preguntar"
    ]
   },
   "preguntar": {
@@ -5470,6 +5592,9 @@
      "Me pregunté si todo había sido un sueño. ― I wondered if everything had been a dream.",
      "Todavía me pregunto cómo pudo pasar eso. ― I still wonder how that could happen."
     ]
+   ],
+   "cf": [
+    "pregunta"
    ]
   },
   "otro": {
@@ -5498,6 +5623,9 @@
     "otra",
     "otros",
     "otras"
+   ],
+   "cf": [
+    "otra"
    ]
   },
   "explicar": {
@@ -5523,28 +5651,31 @@
    "causes": [
     "diciendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "decir"
+   ]
   },
   "era": {
    "word": "era",
-   "shortDef": "era",
+   "shortDef": "era, age, past tense of ser",
    "g": 17,
    "causes": [
     "era"
    ],
    "longDef": [
     [
-     "era",
-     "{f}"
+     "era, age"
     ],
     [
-     "threshing floor",
-     "{f}"
+     "was, were (imperfect of ser)"
     ],
     [
-     "tipple",
-     "{f}"
+     "threshing floor (agriculture)"
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "barbaridad": {
@@ -5584,6 +5715,9 @@
      "(Verb) (transitive) to load (to fill (a firearm or artillery) with munition)",
      "Apreté el gatillo, pero no pasó nada. Me había olvidado de cargar el arma. ― I pulled the trigger, but nothing happened. I had forgotten to load the gun."
     ]
+   ],
+   "cf": [
+    "cargado"
    ]
   },
   "aquella": {
@@ -5661,6 +5795,11 @@
      "El tiempo estaba frío/caliente. ― The weather was cold/hot [back then].",
      "¿Estás feliz? ― Are you happy [right now]?"
     ]
+   ],
+   "cf": [
+    "estas",
+    "esto",
+    "esta"
    ]
   },
   "page": {
@@ -5718,6 +5857,9 @@
     "cargada",
     "cargados",
     "cargadas"
+   ],
+   "cf": [
+    "cargar"
    ]
   },
   "hasta": {
@@ -5761,6 +5903,9 @@
     [
      "first-person singular present indicative of poblar"
     ]
+   ],
+   "cf": [
+    "poblar"
    ]
   },
   "poblar": {
@@ -5774,6 +5919,9 @@
     [
      "(Verb) (transitive, intranstive) to populate"
     ]
+   ],
+   "cf": [
+    "pueblo"
    ]
   },
   "próximo": {
@@ -5985,7 +6133,10 @@
    "causes": [
     "tomando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "tomar"
+   ]
   },
   "tomar": {
    "word": "tomar",
@@ -6008,6 +6159,9 @@
      "Synonym: beber",
      "Tomo una sidra. ― I'll have a cider."
     ]
+   ],
+   "cf": [
+    "tomando"
    ]
   },
   "hombro": {
@@ -6056,6 +6210,9 @@
     "otro",
     "otros",
     "otras"
+   ],
+   "cf": [
+    "otro"
    ]
   },
   "trabajosamente": {
@@ -6152,7 +6309,10 @@
    "causes": [
     "reuniendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "reunir"
+   ]
   },
   "reunir": {
    "word": "reunir",
@@ -6168,6 +6328,9 @@
     [
      "(Verb) to satisfy, to meet, to possess (e.g. conditions, requirements, criteria, qualifications, characteristics)"
     ]
+   ],
+   "cf": [
+    "reuniendo"
    ]
   },
   "alrededor": {
@@ -6332,7 +6495,10 @@
    "causes": [
     "llevando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "llevar"
+   ]
   },
   "cuesta": {
    "word": "cuesta",
@@ -6346,6 +6512,9 @@
      "slope (acclivity or declivity)",
      "{f}"
     ]
+   ],
+   "cf": [
+    "costar"
    ]
   },
   "costar": {
@@ -6364,6 +6533,9 @@
      "Cuando estoy de pie, me cuesta respirar. ― When I'm standing, I find it hard to breathe.",
      "Le cuesta mucho pronunciar esa palabra. ― He has a really hard time pronouncing that word."
     ]
+   ],
+   "cf": [
+    "cuesta"
    ]
   },
   "revés": {
@@ -6407,6 +6579,9 @@
      "taunt, joke",
      "{f}"
     ]
+   ],
+   "cf": [
+    "mofar"
    ]
   },
   "por": {
@@ -6482,6 +6657,9 @@
     [
      "first-person singular present indicative of esforzar"
     ]
+   ],
+   "cf": [
+    "esforzar"
    ]
   },
   "esforzar": {
@@ -6498,6 +6676,9 @@
     [
      "(Verb) (transitive) to strain, struggle"
     ]
+   ],
+   "cf": [
+    "esfuerzo"
    ]
   },
   "recobrar": {
@@ -6535,6 +6716,9 @@
     [
      "second-person plural imperative of libertar"
     ]
+   ],
+   "cf": [
+    "libertar"
    ]
   },
   "libertar": {
@@ -6548,6 +6732,9 @@
     [
      "(Verb) to liberate, set free"
     ]
+   ],
+   "cf": [
+    "libertad"
    ]
   },
   "asustado": {
@@ -6570,6 +6757,9 @@
     "asustada",
     "asustados",
     "asustadas"
+   ],
+   "cf": [
+    "asustar"
    ]
   },
   "asustar": {
@@ -6587,6 +6777,9 @@
     [
      "(Verb) (transitive) to freak out (somebody), to creep out"
     ]
+   ],
+   "cf": [
+    "asustado"
    ]
   },
   "tanto": {
@@ -6649,6 +6842,9 @@
     [
      "first-person singular present indicative of alborotar"
     ]
+   ],
+   "cf": [
+    "alborotar"
    ]
   },
   "alborotar": {
@@ -6669,6 +6865,9 @@
      "Synonym: provocar\n1887, Emilia Pardo Bazán, La madre Naturaleza:",
      "¡Mecachis en los que vienen ahí a alborotar a la gente! ― A pox on those who came here to disturb the people!"
     ]
+   ],
+   "cf": [
+    "alboroto"
    ]
   },
   "caer": {
@@ -6843,6 +7042,9 @@
     "bona",
     "wena",
     "weno"
+   ],
+   "cf": [
+    "buen"
    ]
   },
   "complaciente": {
@@ -6918,6 +7120,9 @@
     "sentida",
     "sentidas",
     "sentidos"
+   ],
+   "cf": [
+    "sentir"
    ]
   },
   "común": {
@@ -7619,5 +7824,109 @@
     "sentir"
    ]
   }
- }
+ },
+ "fakeDefs": [
+  [
+   "avión común",
+   "house martin"
+  ],
+  [
+   "francófono",
+   "Francophone"
+  ],
+  [
+   "roncar",
+   "to snore"
+  ],
+  [
+   "exactamente",
+   "exactly"
+  ],
+  [
+   "compadecer",
+   "to feel sorry, pity"
+  ],
+  [
+   "recogepelotas",
+   "ball boy, ball girl"
+  ],
+  [
+   "esquelético",
+   "skeletal"
+  ],
+  [
+   "especialidad",
+   "speciality"
+  ],
+  [
+   "subtitulado",
+   "subtitled"
+  ],
+  [
+   "atronar",
+   "to deafen; stun"
+  ],
+  [
+   "filacteria",
+   "phylactery"
+  ],
+  [
+   "azafata",
+   "stewardess"
+  ],
+  [
+   "indigencia",
+   "indigence"
+  ],
+  [
+   "pisada",
+   "footstep, footprint"
+  ],
+  [
+   "sujeto",
+   "attached"
+  ]
+ ],
+ "fakeInfDefs": [
+  [
+   "generar",
+   "to generate, produce"
+  ],
+  [
+   "controlar",
+   "to control"
+  ],
+  [
+   "congratular",
+   "to congratulate, rejoice"
+  ],
+  [
+   "arrimarse",
+   "to bring close ormove near"
+  ],
+  [
+   "reciclar",
+   "to recycle"
+  ],
+  [
+   "interconectar",
+   "to interconnect, hook up"
+  ],
+  [
+   "vagabundear",
+   "to roam, idle, loaf"
+  ],
+  [
+   "conseguir",
+   "to get, obtain"
+  ],
+  [
+   "empeorarse",
+   "to worsen, deteriorate"
+  ],
+  [
+   "embalar",
+   "to pack"
+  ]
+ ]
 }

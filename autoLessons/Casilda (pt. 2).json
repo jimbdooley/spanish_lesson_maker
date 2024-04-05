@@ -2196,6 +2196,9 @@
    "opts": [
     "suyo",
     "sus"
+   ],
+   "cf": [
+    "sus"
    ]
   },
   "padre": {
@@ -2280,6 +2283,9 @@
     [
      "Misspelling of sé."
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "sus": {
@@ -2297,6 +2303,9 @@
    ],
    "opts": [
     "suyo",
+    "su"
+   ],
+   "cf": [
     "su"
    ]
   },
@@ -2376,6 +2385,9 @@
     [
      "idle talk"
     ]
+   ],
+   "cf": [
+    "diciendo"
    ]
   },
   "señor": {
@@ -2424,6 +2436,9 @@
      "en la antigüedad ― in antiquity",
      "en 1999 ― in 1999"
     ]
+   ],
+   "cf": [
+    "ir"
    ]
   },
   "las": {
@@ -2839,6 +2854,9 @@
      "handcuffs",
      "{fp} [plurale tantum]"
     ]
+   ],
+   "cf": [
+    "esposar"
    ]
   },
   "esposar": {
@@ -2853,6 +2871,10 @@
     [
      "(Verb) (transitive) to handcuff, manacle"
     ]
+   ],
+   "cf": [
+    "esposas",
+    "esposa"
    ]
   },
   "amado": {
@@ -2874,6 +2896,9 @@
     "amada",
     "amados",
     "amadas"
+   ],
+   "cf": [
+    "amar"
    ]
   },
   "amar": {
@@ -2889,6 +2914,9 @@
      "(Verb) to love, have great affection for, care about",
      "Te amo. ― I love you."
     ]
+   ],
+   "cf": [
+    "amado"
    ]
   },
   "el": {
@@ -2926,6 +2954,9 @@
     [
      "first-person singular present indicative of morar"
     ]
+   ],
+   "cf": [
+    "morar"
    ]
   },
   "morar": {
@@ -2943,6 +2974,9 @@
     [
      "(Verb) to sojourn"
     ]
+   ],
+   "cf": [
+    "moro"
    ]
   },
   "bendecir": {
@@ -3018,24 +3052,24 @@
   },
   "era": {
    "word": "era",
-   "shortDef": "era",
+   "shortDef": "era, age, past tense of ser",
    "g": 5,
    "causes": [
     "era"
    ],
    "longDef": [
     [
-     "era",
-     "{f}"
+     "era, age"
     ],
     [
-     "threshing floor",
-     "{f}"
+     "was, were (imperfect of ser)"
     ],
     [
-     "tipple",
-     "{f}"
+     "threshing floor (agriculture)"
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "ser": {
@@ -3064,6 +3098,10 @@
     [
      "nature, essence"
     ]
+   ],
+   "cf": [
+    "se",
+    "era"
    ]
   },
   "bueno": {
@@ -3370,6 +3408,9 @@
     "viva",
     "vivos",
     "vivas"
+   ],
+   "cf": [
+    "vivir"
    ]
   },
   "vivir": {
@@ -3390,6 +3431,9 @@
     [
      "life; lifestyle"
     ]
+   ],
+   "cf": [
+    "vivo"
    ]
   },
   "imagen": {
@@ -3439,6 +3483,9 @@
      "wife",
      "{f}"
     ]
+   ],
+   "cf": [
+    "esposar"
    ]
   },
   "cuya": {
@@ -3678,6 +3725,9 @@
     "obligados",
     "obligada",
     "obligadas"
+   ],
+   "cf": [
+    "obligar"
    ]
   },
   "obligar": {
@@ -3696,6 +3746,9 @@
      "(Verb) to oblige, to obligate, to bind",
      "La Carta de las Naciones Unidas obliga a todos los miembros de la organización a respetar el principio de la no discriminación. ― The Charter of the United Nations binds all the members of the organization to respect the principle of non-discrimination."
     ]
+   ],
+   "cf": [
+    "obligado"
    ]
   },
   "castigar": {
@@ -3817,6 +3870,9 @@
     [
      "second-person plural imperative of libertar"
     ]
+   ],
+   "cf": [
+    "libertar"
    ]
   },
   "libertar": {
@@ -3830,6 +3886,9 @@
     [
      "(Verb) to liberate, set free"
     ]
+   ],
+   "cf": [
+    "libertad"
    ]
   },
   "crimen": {
@@ -4148,6 +4207,9 @@
     "cortada",
     "cortadas",
     "cortados"
+   ],
+   "cf": [
+    "cortar"
    ]
   },
   "cortar": {
@@ -4165,6 +4227,9 @@
     [
      "(Verb) to cut off, cut out, cut through, cut down, cut up, to nip"
     ]
+   ],
+   "cf": [
+    "cortado"
    ]
   },
   "cuerpo": {
@@ -4206,6 +4271,9 @@
     "arrojada",
     "arrojadas",
     "arrojados"
+   ],
+   "cf": [
+    "arrojar"
    ]
   },
   "arrojar": {
@@ -4224,6 +4292,9 @@
      "(Verb) (transitive) to emit (to send out or give off)",
      "Synonym: echar"
     ]
+   ],
+   "cf": [
+    "arrojado"
    ]
   },
   "llama": {
@@ -4242,6 +4313,9 @@
      "llama (mammal)",
      "{f}"
     ]
+   ],
+   "cf": [
+    "llamar"
    ]
   },
   "llamar": {
@@ -4269,6 +4343,9 @@
      "Eso yo lo llamo un auténtico robo. ― I refer to that as an authentic robbery.",
      "La llamó de todo. ― [He] referred to her about everything."
     ]
+   ],
+   "cf": [
+    "llama"
    ]
   },
   "tal": {
@@ -4379,6 +4456,9 @@
      "Quiero ir contigo. ― I want to come with you.",
      "Iré a tu casa. ― I'll come to your house."
     ]
+   ],
+   "cf": [
+    "en"
    ]
   },
   "verdugo": {
@@ -4595,6 +4675,9 @@
     "arrasada",
     "arrasados",
     "arrasadas"
+   ],
+   "cf": [
+    "arrasar"
    ]
   },
   "arrasar": {
@@ -4613,6 +4696,9 @@
      "(Verb) (transitive) to lay waste to, to rampage, to devastate",
      "Synonym: destruir"
     ]
+   ],
+   "cf": [
+    "arrasado"
    ]
   },
   "lágrima": {
@@ -4691,7 +4777,10 @@
    "causes": [
     "diciendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "decir"
+   ]
   },
   "guardar": {
    "word": "guardar",
@@ -4923,6 +5012,9 @@
     "escrita",
     "escritas",
     "escritos"
+   ],
+   "cf": [
+    "escribir"
    ]
   },
   "escribir": {
@@ -4944,6 +5036,9 @@
      "(Verb) (transitive) to write (to be the author of (a book, article, poem, etc.))",
      "Cervantes escribió el Quijote a comienzos del siglo XVII. ― Cervantes wrote Don Quijote at the beginning of the 17th century."
     ]
+   ],
+   "cf": [
+    "escrito"
    ]
   },
   "exterminar": {
@@ -5410,5 +5505,109 @@
     "escribir"
    ]
   }
- }
+ },
+ "fakeDefs": [
+  [
+   "cochecito",
+   "diminutive form of coche"
+  ],
+  [
+   "argüendear",
+   "to gossip"
+  ],
+  [
+   "creatividad",
+   "creativity"
+  ],
+  [
+   "indudablemente",
+   "indubitably, undoubtedly"
+  ],
+  [
+   "nutriente",
+   "nutrient"
+  ],
+  [
+   "canoa",
+   "canoe"
+  ],
+  [
+   "acético",
+   "acetic"
+  ],
+  [
+   "osteofito",
+   "osteophyte"
+  ],
+  [
+   "bando",
+   "edict"
+  ],
+  [
+   "seguramente",
+   "probably, perhaps"
+  ],
+  [
+   "vender",
+   "to sell"
+  ],
+  [
+   "decrepitud",
+   "decrepitude"
+  ],
+  [
+   "litigio",
+   "litigation, lawsuit"
+  ],
+  [
+   "asexualidad",
+   "asexuality"
+  ],
+  [
+   "desenrollar",
+   "to unroll"
+  ]
+ ],
+ "fakeInfDefs": [
+  [
+   "lucir",
+   "to shine"
+  ],
+  [
+   "sonorizar",
+   "to voice(phonetics)"
+  ],
+  [
+   "desenterrar",
+   "to exhume, unearth"
+  ],
+  [
+   "revivir",
+   "to revive"
+  ],
+  [
+   "acomplejarse",
+   "to suffer from a complex"
+  ],
+  [
+   "repensar",
+   "to rethink, reconsider"
+  ],
+  [
+   "augurar",
+   "to augur, predict"
+  ],
+  [
+   "mencionar",
+   "to mention"
+  ],
+  [
+   "homenajear",
+   "to pay homageto"
+  ],
+  [
+   "reducir",
+   "to reduce, diminish"
+  ]
+ ]
 }

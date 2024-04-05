@@ -11771,6 +11771,9 @@
     [
      "The name of the Latin-script letter D."
     ]
+   ],
+   "cf": [
+    "dar"
    ]
   },
   "un": {
@@ -11931,6 +11934,9 @@
      "en la antigüedad ― in antiquity",
      "en 1999 ― in 1999"
     ]
+   ],
+   "cf": [
+    "ir"
    ]
   },
   "hueco": {
@@ -11981,6 +11987,9 @@
    ],
    "opts": [
     "suyo",
+    "sus"
+   ],
+   "cf": [
     "sus"
    ]
   },
@@ -12045,6 +12054,11 @@
      "El tiempo estaba frío/caliente. ― The weather was cold/hot [back then].",
      "¿Estás feliz? ― Are you happy [right now]?"
     ]
+   ],
+   "cf": [
+    "estas",
+    "este",
+    "esto"
    ]
   },
   "hijo": {
@@ -12129,6 +12143,10 @@
     "todo",
     "todas",
     "toda"
+   ],
+   "cf": [
+    "todas",
+    "todo"
    ]
   },
   "animal": {
@@ -12211,6 +12229,9 @@
     [
      "(Verb) (transitive) to hand over"
     ]
+   ],
+   "cf": [
+    "de"
    ]
   },
   "último": {
@@ -12368,6 +12389,9 @@
     [
      "idle talk"
     ]
+   ],
+   "cf": [
+    "diciendo"
    ]
   },
   "siempre": {
@@ -12450,6 +12474,9 @@
     [
      "(Verb) to struggle, to strive, to contend, to grapple"
     ]
+   ],
+   "cf": [
+    "lucha"
    ]
   },
   "con": {
@@ -12523,6 +12550,11 @@
     [
      "nature, essence"
     ]
+   ],
+   "cf": [
+    "se",
+    "era",
+    "sí"
    ]
   },
   "señor": {
@@ -12614,6 +12646,9 @@
     [
      "inflection of temer:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "temer"
    ]
   },
   "temer": {
@@ -12631,6 +12666,9 @@
     [
      "(Verb) to dread"
     ]
+   ],
+   "cf": [
+    "tema"
    ]
   },
   "dominar": {
@@ -13063,6 +13101,9 @@
      "(Verb) to go off on, to go off of (idiomatic)",
      "Eso no es mucho para continuar. ― That's not a lot to go off of."
     ]
+   ],
+   "cf": [
+    "continuando"
    ]
   },
   "diciendo": {
@@ -13072,7 +13113,10 @@
    "causes": [
     "diciendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "decir"
+   ]
   },
   "latigazo": {
    "word": "latigazo",
@@ -13215,6 +13259,9 @@
     [
      "first-person singular present indicative of comer"
     ]
+   ],
+   "cf": [
+    "comer"
    ]
   },
   "al": {
@@ -13265,6 +13312,9 @@
    "opts": [
     "suyo",
     "su"
+   ],
+   "cf": [
+    "su"
    ]
   },
   "diente": {
@@ -13284,6 +13334,9 @@
     [
      "inflection of dentar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "dentar"
    ]
   },
   "dentar": {
@@ -13293,7 +13346,10 @@
    "causes": [
     "dientes"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "diente"
+   ]
   },
   "colmillo": {
    "word": "colmillo",
@@ -13510,6 +13566,9 @@
     [
      "inflection of zarpar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "zarpar"
    ]
   },
   "zarpar": {
@@ -13528,6 +13587,9 @@
     [
      "(Verb) (Chile, Argentina, Uruguay, colloquial) to behave in a daring and out of place way"
     ]
+   ],
+   "cf": [
+    "zarpa"
    ]
   },
   "mezquino": {
@@ -13688,6 +13750,9 @@
     [
      "(Verb) to shake"
     ]
+   ],
+   "cf": [
+    "sacudida"
    ]
   },
   "orgulloso": {
@@ -13882,6 +13947,9 @@
     "rugida",
     "rugidos",
     "rugidas"
+   ],
+   "cf": [
+    "rugir"
    ]
   },
   "rugir": {
@@ -13901,6 +13969,9 @@
     [
      "(Verb) to bellow"
     ]
+   ],
+   "cf": [
+    "rugido"
    ]
   },
   "después": {
@@ -13970,6 +14041,10 @@
     "este",
     "esta",
     "estos"
+   ],
+   "cf": [
+    "estar",
+    "este"
    ]
   },
   "palabra": {
@@ -14013,6 +14088,9 @@
     [
      "Misspelling of sé."
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "estremecer": {
@@ -14116,6 +14194,9 @@
      "(Verb) (reflexive) to die",
      "Antonym: vivir"
     ]
+   ],
+   "cf": [
+    "muerto"
    ]
   },
   "empezar": {
@@ -14155,6 +14236,9 @@
     "reinada",
     "reinados",
     "reinadas"
+   ],
+   "cf": [
+    "reinar"
    ]
   },
   "reinar": {
@@ -14169,6 +14253,9 @@
      "(Verb) to reign; to rule over",
      "De diez y seis años era Uzzías cuando comenzó á reinar, y cincuenta y dos años reinó en Jerusalem. ― \"Uzziah was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem.\""
     ]
+   ],
+   "cf": [
+    "reinado"
    ]
   },
   "cuando": {
@@ -14232,6 +14319,9 @@
      "There were X",
      "{phrase}"
     ]
+   ],
+   "cf": [
+    "haber"
    ]
   },
   "haber": {
@@ -14260,6 +14350,10 @@
     [
      "history"
     ]
+   ],
+   "cf": [
+    "había",
+    "he"
    ]
   },
   "muerto": {
@@ -14293,6 +14387,9 @@
     "muertos",
     "muerta",
     "muertas"
+   ],
+   "cf": [
+    "morir"
    ]
   },
   "llorar": {
@@ -14365,6 +14462,9 @@
    ],
    "opts": [
     "juntos"
+   ],
+   "cf": [
+    "juntar"
    ]
   },
   "juntar": {
@@ -14383,6 +14483,9 @@
      "(Verb) (transitive) to gather (together); to collect",
      "Synonym: recolectar"
     ]
+   ],
+   "cf": [
+    "junto"
    ]
   },
   "acercar": {
@@ -14558,6 +14661,10 @@
     [
      "(Verb) (transitive) to merge, conflate"
     ]
+   ],
+   "cf": [
+    "una",
+    "unas"
    ]
   },
   "ardiente": {
@@ -14612,6 +14719,9 @@
     "helados",
     "helada",
     "heladas"
+   ],
+   "cf": [
+    "helar"
    ]
   },
   "helar": {
@@ -14628,6 +14738,9 @@
     [
      "(Verb) (intransitive, impersonal) to freeze"
     ]
+   ],
+   "cf": [
+    "helado"
    ]
   },
   "mezclar": {
@@ -14781,6 +14894,10 @@
     "uno",
     "una",
     "unas"
+   ],
+   "cf": [
+    "una",
+    "unas"
    ]
   },
   "cuanto": {
@@ -14888,6 +15005,9 @@
     [
      "feminine singular of entrado"
     ]
+   ],
+   "cf": [
+    "entrar"
    ]
   },
   "entrar": {
@@ -14905,6 +15025,9 @@
     [
      "(Verb) to come in, to get in, to go in, to get inside, to come on in"
     ]
+   ],
+   "cf": [
+    "entrada"
    ]
   },
   "ya": {
@@ -14959,6 +15082,9 @@
     [
      "inflection of tumbar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "tumbar"
    ]
   },
   "tumbar": {
@@ -14977,6 +15103,9 @@
      "(Verb) (intransitive) to fall",
      "Synonym: caerse"
     ]
+   ],
+   "cf": [
+    "tumba"
    ]
   },
   "ni": {
@@ -15043,6 +15172,9 @@
     "viva",
     "vivos",
     "vivas"
+   ],
+   "cf": [
+    "vivir"
    ]
   },
   "vivir": {
@@ -15063,6 +15195,9 @@
     [
      "life; lifestyle"
     ]
+   ],
+   "cf": [
+    "vivo"
    ]
   },
   "alejar": {
@@ -15099,6 +15234,9 @@
     [
      "inflection of montar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "montar"
    ]
   },
   "montar": {
@@ -15116,6 +15254,9 @@
     [
      "(Verb) to ride"
     ]
+   ],
+   "cf": [
+    "monte"
    ]
   },
   "tres": {
@@ -15144,6 +15285,9 @@
     "aquel",
     "aquellos",
     "aquellas"
+   ],
+   "cf": [
+    "aquel"
    ]
   },
   "noche": {
@@ -15279,7 +15423,10 @@
    "causes": [
     "soñando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "soñar"
+   ]
   },
   "soñar": {
    "word": "soñar",
@@ -15294,6 +15441,9 @@
      "Soñé contigo anoche. ― I dreamt about you last night.",
      "Sueño con trabajar en esta empresa. ― I dream of working in this company."
     ]
+   ],
+   "cf": [
+    "soñando"
    ]
   },
   "qué": {
@@ -15631,24 +15781,24 @@
   },
   "era": {
    "word": "era",
-   "shortDef": "era",
+   "shortDef": "era, age, past tense of ser",
    "g": 38,
    "causes": [
     "era"
    ],
    "longDef": [
     [
-     "era",
-     "{f}"
+     "era, age"
     ],
     [
-     "threshing floor",
-     "{f}"
+     "was, were (imperfect of ser)"
     ],
     [
-     "tipple",
-     "{f}"
+     "threshing floor (agriculture)"
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "borrico": {
@@ -15682,6 +15832,9 @@
      "to bray",
      "{v}"
     ]
+   ],
+   "cf": [
+    "rebuzno"
    ]
   },
   "rebuzno": {
@@ -15696,6 +15849,9 @@
      "heehaw",
      "{m}"
     ]
+   ],
+   "cf": [
+    "rebuznar"
    ]
   },
   "formidable": {
@@ -15735,6 +15891,9 @@
     [
      "first-person singular present indicative of impulsar"
     ]
+   ],
+   "cf": [
+    "impulsar"
    ]
   },
   "impulsar": {
@@ -15752,6 +15911,9 @@
      "(Verb) to push, to push for, to push forward, to drive, to propel, to force, to drive forward",
      "La mayoría de las naciones está comprometida a impulsar el proceso. ― The majority of nations are committed to pushing the process forward."
     ]
+   ],
+   "cf": [
+    "impulso"
    ]
   },
   "contener": {
@@ -15789,6 +15951,9 @@
      "Synonyms: emprender, intentar\n2017 March 13, \"¿Servir comida y ya?\", in Juventud Rebelde‎[1]:",
      "Aunque actualmente se acomete en varios municipios cubanos un importante plan de reparación en estos sitios, aún muchos de ellos no son lugares tan acogedores como se espera, y los ancianos prefieren regresar a casa con almuerzo y comida en los pozuelos, y alimentarse allá, solos. ― Although a significant reparation plan is being undertaken in numerous Cuban towns, many of them are still not as hospitable as expected, and the elderly prefer to return home with food in their bowls, and eat there, alone."
     ]
+   ],
+   "cf": [
+    "acometida"
    ]
   },
   "derribar": {
@@ -15922,6 +16087,9 @@
      "he; the Hebrew letter ה",
      "{f}"
     ]
+   ],
+   "cf": [
+    "haber"
    ]
   },
   "oído": {
@@ -15946,6 +16114,9 @@
     "oída",
     "oídos",
     "oídas"
+   ],
+   "cf": [
+    "oír"
    ]
   },
   "oír": {
@@ -15967,6 +16138,9 @@
      "(Verb) (transitive) to hear (passively perceive a sound)",
      "Oí ruidos extraños viniendo desde detrás de la puerta y tuve miedo. ― I heard strange noises coming from behind the door and got scared."
     ]
+   ],
+   "cf": [
+    "oído"
    ]
   },
   "parecer": {
@@ -16047,6 +16221,9 @@
     "mucho",
     "muchas",
     "mucha"
+   ],
+   "cf": [
+    "mucho"
    ]
   },
   "dónde": {
@@ -16134,6 +16311,10 @@
     "esta",
     "estas",
     "estos"
+   ],
+   "cf": [
+    "estar",
+    "estas"
    ]
   },
   "valle": {
@@ -16150,6 +16331,9 @@
     [
      "(Proper noun) A department of Honduras"
     ]
+   ],
+   "cf": [
+    "vallar"
    ]
   },
   "vallar": {
@@ -16163,6 +16347,9 @@
     [
      "(Verb) to fence in, enclose"
     ]
+   ],
+   "cf": [
+    "valle"
    ]
   },
   "salvo": {
@@ -16188,6 +16375,9 @@
     "salvos",
     "salva",
     "salvas"
+   ],
+   "cf": [
+    "salvar"
    ]
   },
   "salvar": {
@@ -16204,6 +16394,9 @@
     [
      "(Verb) to rescue"
     ]
+   ],
+   "cf": [
+    "salvo"
    ]
   },
   "esa": {
@@ -16320,6 +16513,9 @@
     [
      "first-person singular present indicative of caminar"
     ]
+   ],
+   "cf": [
+    "caminar"
    ]
   },
   "enredar": {
@@ -16357,6 +16553,11 @@
    ],
    "opts": [
     "uno",
+    "unos",
+    "unas"
+   ],
+   "cf": [
+    "unir",
     "unos",
     "unas"
    ]
@@ -16431,6 +16632,9 @@
     [
      "feminine singular of sacudido"
     ]
+   ],
+   "cf": [
+    "sacudir"
    ]
   },
   "arrojar": {
@@ -16487,6 +16691,9 @@
     [
      "first-person singular present indicative of saltar"
     ]
+   ],
+   "cf": [
+    "saltar"
    ]
   },
   "saltar": {
@@ -16508,6 +16715,10 @@
      "saltarse el desayuno ― to skip breakfast",
      "Para ahorrar tiempo, saltó unas diapositivas. ― To save time, he skipped a few slides."
     ]
+   ],
+   "cf": [
+    "salto",
+    "saltando"
    ]
   },
   "pata": {
@@ -16656,6 +16867,9 @@
      "weights",
      "{fp}"
     ]
+   ],
+   "cf": [
+    "pesar"
    ]
   },
   "pesar": {
@@ -16676,6 +16890,9 @@
     [
      "grief, regret, chagrin"
     ]
+   ],
+   "cf": [
+    "pesas"
    ]
   },
   "mucho": {
@@ -16711,6 +16928,9 @@
     "muchas",
     "muchos",
     "mucha"
+   ],
+   "cf": [
+    "muchos"
    ]
   },
   "forcejear": {
@@ -16861,7 +17081,10 @@
    "causes": [
     "continuando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "continuar"
+   ]
   },
   "pasar": {
    "word": "pasar",
@@ -16882,6 +17105,9 @@
      "estas cosas pasan ― these things happen",
      "Ya me ha pasado. ― It has already happened to me."
     ]
+   ],
+   "cf": [
+    "paso"
    ]
   },
   "cresta": {
@@ -16965,6 +17191,9 @@
      "Synonyms: paso, transcurso",
      "con el (al) correr de los años (tiempo, reloj) ― as time goes by (literally, \"with the passing of years (time, clock)\")"
     ]
+   ],
+   "cf": [
+    "corriendo"
    ]
   },
   "saltando": {
@@ -16974,7 +17203,10 @@
    "causes": [
     "saltando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "saltar"
+   ]
   },
   "sobre": {
    "word": "sobre",
@@ -17018,6 +17250,9 @@
     [
      "first-person singular present indicative of esforzar"
     ]
+   ],
+   "cf": [
+    "esforzar"
    ]
   },
   "esforzar": {
@@ -17034,6 +17269,9 @@
     [
      "(Verb) (transitive) to strain, struggle"
     ]
+   ],
+   "cf": [
+    "esfuerzo"
    ]
   },
   "pequeño": {
@@ -17340,6 +17578,9 @@
      "neuter form of éste This",
      "{pron}"
     ]
+   ],
+   "cf": [
+    "estar"
    ]
   },
   "mono": {
@@ -17449,6 +17690,9 @@
     [
      "inflection of arribar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "arribar"
    ]
   },
   "arribar": {
@@ -17465,6 +17709,9 @@
     [
      "(Verb) (literary) to arrive"
     ]
+   ],
+   "cf": [
+    "arriba"
    ]
   },
   "gesto": {
@@ -17701,6 +17948,9 @@
     [
      "inflection of figurar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "figurar"
    ]
   },
   "figurar": {
@@ -17715,6 +17965,9 @@
      "(Verb) to appear",
      "Synonym: aparecer"
     ]
+   ],
+   "cf": [
+    "figura"
    ]
   },
   "quien": {
@@ -17758,6 +18011,9 @@
      "el comer fuera es muy común ― eating out is very common",
      "...necesario para el alma como el comer para el cuerpo ― ...necessary for the soul like food for the body"
     ]
+   ],
+   "cf": [
+    "como"
    ]
   },
   "car": {
@@ -17794,6 +18050,9 @@
     [
      "first-person singular present indicative of pasar"
     ]
+   ],
+   "cf": [
+    "pasar"
    ]
   },
   "desafiar": {
@@ -18003,6 +18262,9 @@
     "bona",
     "wena",
     "weno"
+   ],
+   "cf": [
+    "buen"
    ]
   },
   "noble": {
@@ -18057,6 +18319,9 @@
     [
      "inflection of partir:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "partir"
    ]
   },
   "partir": {
@@ -18075,6 +18340,9 @@
      "(Verb) to go away, leave, depart",
      "Synonym: salir"
     ]
+   ],
+   "cf": [
+    "parte"
    ]
   },
   "pan": {
@@ -18175,6 +18443,9 @@
     [
      "inflection of luchar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "luchar"
    ]
   },
   "escudo": {
@@ -18196,6 +18467,9 @@
     [
      "first-person singular present indicative of escudar"
     ]
+   ],
+   "cf": [
+    "escudar"
    ]
   },
   "escudar": {
@@ -18209,6 +18483,9 @@
     [
      "(Verb) (transitive) to shield, block"
     ]
+   ],
+   "cf": [
+    "escudo"
    ]
   },
   "parir": {
@@ -18226,6 +18503,9 @@
     [
      "(Verb) (transitive, colloquial) to think up; imagine"
     ]
+   ],
+   "cf": [
+    "para"
    ]
   },
   "cuenta": {
@@ -18245,6 +18525,9 @@
     [
      "inflection of contar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "contar"
    ]
   },
   "contar": {
@@ -18262,6 +18545,9 @@
      "(Verb) (transitive) to tell (a story); narrate",
      "Synonyms: narrar, relatar, platicar"
     ]
+   ],
+   "cf": [
+    "cuenta"
    ]
   },
   "buen": {
@@ -18286,6 +18572,9 @@
     "bona",
     "wena",
     "weno"
+   ],
+   "cf": [
+    "bueno"
    ]
   },
   "amigo": {
@@ -18515,6 +18804,9 @@
      "tripe",
      "{m} [Spain]"
     ]
+   ],
+   "cf": [
+    "callar"
    ]
   },
   "callar": {
@@ -18533,6 +18825,9 @@
      "(Verb) (reflexive) to be silent, to shut up",
      "¿Por qué no te callas? ― Why don’t you shut up?"
     ]
+   ],
+   "cf": [
+    "callo"
    ]
   },
   "ruin": {
@@ -18570,6 +18865,9 @@
     [
      "first-person singular present indicative of mirar"
     ]
+   ],
+   "cf": [
+    "mirar"
    ]
   },
   "mirar": {
@@ -18590,6 +18888,11 @@
      "(Verb) (transitive) to watch (to look at, view, or observe for a period of time)",
      "Estábamos mirando la televisión. ― We were watching TV."
     ]
+   ],
+   "cf": [
+    "miro",
+    "mira",
+    "mirando"
    ]
   },
   "cosa": {
@@ -18629,6 +18932,9 @@
     [
      "first-person singular present indicative of volar"
     ]
+   ],
+   "cf": [
+    "volar"
    ]
   },
   "volar": {
@@ -18645,6 +18951,9 @@
     [
      "(Verb) (transitive) to blow up"
     ]
+   ],
+   "cf": [
+    "vuelo"
    ]
   },
   "tú": {
@@ -18791,6 +19100,9 @@
      "llama (mammal)",
      "{f}"
     ]
+   ],
+   "cf": [
+    "llamar"
    ]
   },
   "llamar": {
@@ -18817,6 +19129,9 @@
      "Eso yo lo llamo un auténtico robo. ― I refer to that as an authentic robbery.",
      "La llamó de todo. ― [He] referred to her about everything."
     ]
+   ],
+   "cf": [
+    "llama"
    ]
   },
   "pensamiento": {
@@ -18883,6 +19198,9 @@
     [
      "first-person singular present indicative of despreciar"
     ]
+   ],
+   "cf": [
+    "despreciar"
    ]
   },
   "despreciar": {
@@ -18897,6 +19215,9 @@
      "(Verb) (transitive) to despise, to scorn",
      "Synonyms: abominar, desdeñar, detestar, odiar"
     ]
+   ],
+   "cf": [
+    "desprecio"
    ]
   },
   "envidia": {
@@ -18913,6 +19234,9 @@
     [
      "inflection of envidiar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "envidiar"
    ]
   },
   "envidiar": {
@@ -18926,6 +19250,9 @@
     [
      "(Verb) (transitive) to envy"
     ]
+   ],
+   "cf": [
+    "envidia"
    ]
   },
   "burla": {
@@ -18945,6 +19272,9 @@
     [
      "inflection of burlar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "burlar"
    ]
   },
   "imitar": {
@@ -18959,6 +19289,9 @@
     [
      "(Verb) to imitate, to mimic, to ape, to copy, to copycat, to impersonate, to simulate"
     ]
+   ],
+   "cf": [
+    "imitando"
    ]
   },
   "perro": {
@@ -19013,7 +19346,10 @@
     "respeto",
     "respetó"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "respeto"
+   ]
   },
   "mostrar": {
    "word": "mostrar",
@@ -19090,6 +19426,9 @@
     "resuelta",
     "resueltas",
     "resueltos"
+   ],
+   "cf": [
+    "resolver"
    ]
   },
   "resolver": {
@@ -19107,6 +19446,9 @@
     [
      "(Verb) to solve, to figure out, to work out, to crack"
     ]
+   ],
+   "cf": [
+    "resuelto"
    ]
   },
   "domar": {
@@ -19244,6 +19586,9 @@
      "Quiero ir contigo. ― I want to come with you.",
      "Iré a tu casa. ― I'll come to your house."
     ]
+   ],
+   "cf": [
+    "en"
    ]
   },
   "ante": {
@@ -19288,6 +19633,9 @@
      "(Verb) (transitive) to circumvent, to evade, to cheat",
      "No puedes burlar a la muerte. ― You cannot cheat death."
     ]
+   ],
+   "cf": [
+    "burla"
    ]
   },
   "día": {
@@ -19325,6 +19673,10 @@
     "todo",
     "todos",
     "toda"
+   ],
+   "cf": [
+    "todos",
+    "todo"
    ]
   },
   "memoria": {
@@ -19358,6 +19710,9 @@
     [
      "first-person singular present indicative of respetar"
     ]
+   ],
+   "cf": [
+    "respetar"
    ]
   },
   "experiencia": {
@@ -19480,6 +19835,9 @@
     [
      "inflection of forzar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "forzar"
    ]
   },
   "forzar": {
@@ -19498,6 +19856,9 @@
      "(Verb) (transitive) to violate, rape, ravish",
      "Synonym: violar"
     ]
+   ],
+   "cf": [
+    "fuerza"
    ]
   },
   "decidir": {
@@ -19537,7 +19898,10 @@
    "causes": [
     "caminando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "caminar"
+   ]
   },
   "caminar": {
    "word": "caminar",
@@ -19555,6 +19919,10 @@
      "(Verb) to stroll",
      "Synonym: pasear"
     ]
+   ],
+   "cf": [
+    "camino",
+    "caminando"
    ]
   },
   "delante": {
@@ -19589,6 +19957,9 @@
      "target",
      "{f}"
     ]
+   ],
+   "cf": [
+    "mirar"
    ]
   },
   "allí": {
@@ -19625,6 +19996,9 @@
     "aquella",
     "aquellos",
     "aquellas"
+   ],
+   "cf": [
+    "aquella"
    ]
   },
   "caballo": {
@@ -19900,6 +20274,9 @@
     [
      "feminine singular of retirado"
     ]
+   ],
+   "cf": [
+    "retirar"
    ]
   },
   "retirar": {
@@ -19916,6 +20293,9 @@
     [
      "(Verb) to withdraw"
     ]
+   ],
+   "cf": [
+    "retirada"
    ]
   },
   "acometida": {
@@ -19932,6 +20312,9 @@
     [
      "feminine singular of acometido"
     ]
+   ],
+   "cf": [
+    "acometer"
    ]
   },
   "evolucionar": {
@@ -20051,6 +20434,9 @@
      "(Verb) (intransitive) to fall (to come down, to drop, to descend)",
      "La lluvia cae más fuerte que antes. ― The rain is falling heavier than before."
     ]
+   ],
+   "cf": [
+    "caído"
    ]
   },
   "foso": {
@@ -20137,6 +20523,11 @@
     "uno",
     "una",
     "unos"
+   ],
+   "cf": [
+    "unir",
+    "unos",
+    "una"
    ]
   },
   "ligadura": {
@@ -20204,6 +20595,10 @@
     "todos",
     "todas",
     "toda"
+   ],
+   "cf": [
+    "todos",
+    "todas"
    ]
   },
   "caído": {
@@ -20223,6 +20618,9 @@
     "caída",
     "caídos",
     "caídas"
+   ],
+   "cf": [
+    "caer"
    ]
   },
   "trampa": {
@@ -20264,6 +20662,9 @@
     "perdida",
     "perdidas",
     "perdidos"
+   ],
+   "cf": [
+    "perder"
    ]
   },
   "perder": {
@@ -20281,6 +20682,9 @@
      "(Verb) to miss, to miss out",
      "No quiero perderme nada. ― I don't want to miss anything."
     ]
+   ],
+   "cf": [
+    "perdido"
    ]
   },
   "bregar": {
@@ -20335,6 +20739,9 @@
    "opts": [
     "ronca",
     "roncas"
+   ],
+   "cf": [
+    "roncar"
    ]
   },
   "roncar": {
@@ -20344,7 +20751,10 @@
    "causes": [
     "roncas"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "ronco"
+   ]
   },
   "voz": {
    "word": "voz",
@@ -20412,6 +20822,9 @@
     [
      "inflection of tardar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "tardar"
    ]
   },
   "tardar": {
@@ -20428,6 +20841,9 @@
     [
      "(Verb) to last"
     ]
+   ],
+   "cf": [
+    "tarde"
    ]
   },
   "disponer": {
@@ -20772,6 +21188,9 @@
     [
      "first-person singular present indicative of rogar"
     ]
+   ],
+   "cf": [
+    "rogar"
    ]
   },
   "rogar": {
@@ -20792,6 +21211,9 @@
      "Synonyms: solicitar, suplicar",
      "Le rogamos que se presente un día antes. ― We urge you to attend one day before."
     ]
+   ],
+   "cf": [
+    "ruego"
    ]
   },
   "fondo": {
@@ -20876,7 +21298,10 @@
    "causes": [
     "pensando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "pensar"
+   ]
   },
   "pensar": {
    "word": "pensar",
@@ -20897,6 +21322,9 @@
      "Synonym: creer",
      "¿Piensas que la historia es buena? ― Do you think that history is good?"
     ]
+   ],
+   "cf": [
+    "pensando"
    ]
   },
   "hermoso": {
@@ -20996,7 +21424,10 @@
    "causes": [
     "mirando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "mirar"
+   ]
   },
   "reojo": {
    "word": "reojo",
@@ -21037,6 +21468,9 @@
     [
      "inflection of parir:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "parir"
    ]
   },
   "sí": {
@@ -21063,6 +21497,9 @@
      "yes; aye, ay; approbation, acceptance",
      "Ganaron los síes. ― The ayes have it."
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "ahora": {
@@ -21108,6 +21545,9 @@
     "entretenida",
     "entretenidos",
     "entretenidas"
+   ],
+   "cf": [
+    "entretener"
    ]
   },
   "entretener": {
@@ -21121,6 +21561,9 @@
     [
      "(Verb) to entertain"
     ]
+   ],
+   "cf": [
+    "entretenido"
    ]
   },
   "imitando": {
@@ -21130,7 +21573,10 @@
    "causes": [
     "imitando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "imitar"
+   ]
   },
   "perruno": {
    "word": "perruno",
@@ -21174,7 +21620,10 @@
    "causes": [
     "corriendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "correr"
+   ]
   },
   "remontar": {
    "word": "remontar",
@@ -21224,6 +21673,9 @@
     [
      "inflection of alcanzar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "alcanzar"
    ]
   },
   "alcanzar": {
@@ -21241,6 +21693,9 @@
     [
      "(Verb) (intransitive) to be enough; to suffice"
     ]
+   ],
+   "cf": [
+    "alcance"
    ]
   }
  },
@@ -23412,5 +23867,109 @@
     "alcanzar"
    ]
   }
- }
+ },
+ "fakeDefs": [
+  [
+   "veta",
+   "vein, seam"
+  ],
+  [
+   "teleconferencia",
+   "teleconference"
+  ],
+  [
+   "degeneración",
+   "degeneration"
+  ],
+  [
+   "Chimaltenango",
+   "A department of Guatemala"
+  ],
+  [
+   "concurso completo",
+   "eventing"
+  ],
+  [
+   "impredecible",
+   "unpredictable"
+  ],
+  [
+   "Sorbona",
+   "Sorbonne"
+  ],
+  [
+   "quitanieves",
+   "snowplow, snowplough"
+  ],
+  [
+   "topónimo",
+   "placename"
+  ],
+  [
+   "idilio",
+   "idyll"
+  ],
+  [
+   "Colonia",
+   "Cologne (city in Germany)"
+  ],
+  [
+   "hegemónico",
+   "hegemonic"
+  ],
+  [
+   "escayola",
+   "plaster, stucco"
+  ],
+  [
+   "tapado",
+   "covered"
+  ],
+  [
+   "encerar",
+   "to wax, polish"
+  ]
+ ],
+ "fakeInfDefs": [
+  [
+   "enriquecerse",
+   "to become rich, prosper"
+  ],
+  [
+   "patalear",
+   "to kick"
+  ],
+  [
+   "hipnotizar",
+   "to hypnotize"
+  ],
+  [
+   "delatar",
+   "to denounce, accuse"
+  ],
+  [
+   "intercambiar",
+   "to interchange, exchange"
+  ],
+  [
+   "desaparecer",
+   "to disappear"
+  ],
+  [
+   "rejuvenecerse",
+   "to be rejuvenated"
+  ],
+  [
+   "holgar",
+   "to rest, be idle"
+  ],
+  [
+   "ahuyentar",
+   "to drive or chase away"
+  ],
+  [
+   "internar",
+   "to intern, commit"
+  ]
+ ]
 }

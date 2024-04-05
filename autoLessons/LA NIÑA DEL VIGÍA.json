@@ -4917,6 +4917,10 @@
     [
      "nature, essence"
     ]
+   ],
+   "cf": [
+    "se",
+    "era"
    ]
   },
   "edificio": {
@@ -4968,6 +4972,9 @@
     "elevada",
     "elevados",
     "elevadas"
+   ],
+   "cf": [
+    "elevar"
    ]
   },
   "elevar": {
@@ -4987,6 +4994,9 @@
      "(Verb) to raise; lift up",
      "Rafael Nadal eleva, con mascarilla, su 13ª Copa de los Mosqueteros en un ambiente que nada tiene que ver con el de otras ocasiones. ― Rafael Nadal, wearing a mask, lifts up his 13th Musketeers' Trophy in at atmosphere nothing like any other times."
     ]
+   ],
+   "cf": [
+    "elevado"
    ]
   },
   "que": {
@@ -5081,6 +5091,9 @@
     [
      "inflection of formar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "formar"
    ]
   },
   "formar": {
@@ -5097,6 +5110,9 @@
     [
      "(Verb) (transitive) to train, to educate"
     ]
+   ],
+   "cf": [
+    "forma"
    ]
   },
   "de": {
@@ -5120,6 +5136,9 @@
     [
      "The name of the Latin-script letter D."
     ]
+   ],
+   "cf": [
+    "dar"
    ]
   },
   "una": {
@@ -5142,6 +5161,12 @@
    "opts": [
     "uno",
     "unos",
+    "unas"
+   ],
+   "cf": [
+    "uno",
+    "unos",
+    "unir",
     "unas"
    ]
   },
@@ -5194,6 +5219,9 @@
    "opts": [
     "grande",
     "grandes"
+   ],
+   "cf": [
+    "grande"
    ]
   },
   "fanal": {
@@ -5225,6 +5253,9 @@
      "en la antigüedad ― in antiquity",
      "en 1999 ― in 1999"
     ]
+   ],
+   "cf": [
+    "ir"
    ]
   },
   "parte": {
@@ -5247,6 +5278,9 @@
     [
      "inflection of partir:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "partir"
    ]
   },
   "partir": {
@@ -5265,6 +5299,9 @@
      "(Verb) to go away, leave, depart",
      "Synonym: salir"
     ]
+   ],
+   "cf": [
+    "parte"
    ]
   },
   "superior": {
@@ -5317,6 +5354,11 @@
     "esta",
     "estas",
     "estos"
+   ],
+   "cf": [
+    "esta",
+    "estos",
+    "estar"
    ]
   },
   "se": {
@@ -5343,6 +5385,9 @@
     [
      "Misspelling of sé."
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "encender": {
@@ -5364,6 +5409,9 @@
      "(Verb) to turn on, switch on, power up",
      "María encendió la máquina. ― María turned on the machine."
     ]
+   ],
+   "cf": [
+    "encendido"
    ]
   },
   "todas": {
@@ -5383,6 +5431,9 @@
     "todo",
     "todos",
     "toda"
+   ],
+   "cf": [
+    "todo"
    ]
   },
   "las": {
@@ -5507,6 +5558,9 @@
    "opts": [
     "suyo",
     "sus"
+   ],
+   "cf": [
+    "sus"
    ]
   },
   "luz": {
@@ -5580,6 +5634,9 @@
     [
      "first-person singular present indicative of aumentar"
     ]
+   ],
+   "cf": [
+    "aumentar"
    ]
   },
   "aumentar": {
@@ -5596,6 +5653,9 @@
     [
      "(Verb) (transitive) to increase, augment"
     ]
+   ],
+   "cf": [
+    "aumento"
    ]
   },
   "ayuda": {
@@ -5618,6 +5678,9 @@
     [
      "inflection of ayudar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "ayudar"
    ]
   },
   "ayudar": {
@@ -5635,6 +5698,9 @@
      "Su preocupación no me ayuda nada. ― His concern does not help me at all.\n2001, John MacArthur, Cómo Ser Padres Cristianos Exitosos [How to Be Succesful Christian Parents], Editorial Portavoz, →ISBN:",
      "Si no ayudas a tus hijos a escoger y no les ayudas a aprender a seleccionar por sí mismos las compañías adecuadas, será inevitable que las malas compañías los seleccionen a ellos. ― If you don't help your children to choose and you don't help them to learn to choose suitable company for themselves, bad company will inevitably choose them."
     ]
+   ],
+   "cf": [
+    "ayuda"
    ]
   },
   "lentes": {
@@ -5679,6 +5745,9 @@
    "opts": [
     "gran",
     "grandes"
+   ],
+   "cf": [
+    "gran"
    ]
   },
   "reflector": {
@@ -5758,6 +5827,9 @@
     [
      "inflection of vestir:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "vestir"
    ]
   },
   "ver": {
@@ -5797,6 +5869,9 @@
     [
      "(Verb) to wear"
     ]
+   ],
+   "cf": [
+    "vista"
    ]
   },
   "á": {
@@ -5863,6 +5938,11 @@
     "este",
     "estas",
     "estos"
+   ],
+   "cf": [
+    "este",
+    "estos",
+    "estar"
    ]
   },
   "manera": {
@@ -6048,6 +6128,9 @@
     [
      "inflection of orillar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "orillar"
    ]
   },
   "orillar": {
@@ -6062,6 +6145,9 @@
      "to skirt",
      "{v}"
     ]
+   ],
+   "cf": [
+    "orilla"
    ]
   },
   "mar": {
@@ -6079,6 +6165,9 @@
     [
      "(Noun) seaside"
     ]
+   ],
+   "cf": [
+    "me"
    ]
   },
   "ó": {
@@ -6145,6 +6234,9 @@
     [
      "history"
     ]
+   ],
+   "cf": [
+    "había"
    ]
   },
   "peligro": {
@@ -6258,6 +6350,9 @@
     "encargada",
     "encargados",
     "encargadas"
+   ],
+   "cf": [
+    "encargar"
    ]
   },
   "encargar": {
@@ -6275,6 +6370,9 @@
     [
      "(Verb) (transitive) to order (goods)"
     ]
+   ],
+   "cf": [
+    "encargado"
    ]
   },
   "cuidar": {
@@ -6349,6 +6447,9 @@
     "aquel",
     "aquellos",
     "aquellas"
+   ],
+   "cf": [
+    "aquel"
    ]
   },
   "estos": {
@@ -6372,6 +6473,10 @@
     "este",
     "esta",
     "estas"
+   ],
+   "cf": [
+    "este",
+    "esta"
    ]
   },
   "llamar": {
@@ -6424,6 +6529,9 @@
     "empleada",
     "empleadas",
     "empleados"
+   ],
+   "cf": [
+    "emplear"
    ]
   },
   "emplear": {
@@ -6441,6 +6549,9 @@
      "(Verb) (transitive) to use (employ, apply)",
      "Synonyms: usar, utilizar"
     ]
+   ],
+   "cf": [
+    "empleado"
    ]
   },
   "sumamente": {
@@ -6498,6 +6609,12 @@
    "opts": [
     "una",
     "unos",
+    "unas"
+   ],
+   "cf": [
+    "una",
+    "unos",
+    "unir",
     "unas"
    ]
   },
@@ -6570,6 +6687,11 @@
    "opts": [
     "uno",
     "una",
+    "unas"
+   ],
+   "cf": [
+    "una",
+    "uno",
     "unas"
    ]
   },
@@ -6675,6 +6797,11 @@
      "El tiempo estaba frío/caliente. ― The weather was cold/hot [back then].",
      "¿Estás feliz? ― Are you happy [right now]?"
     ]
+   ],
+   "cf": [
+    "este",
+    "esta",
+    "estando"
    ]
   },
   "situado": {
@@ -6699,6 +6826,9 @@
     "situada",
     "situados",
     "situadas"
+   ],
+   "cf": [
+    "situar"
    ]
   },
   "situar": {
@@ -6716,6 +6846,9 @@
     [
      "(Verb) to invest money"
     ]
+   ],
+   "cf": [
+    "situado"
    ]
   },
   "peñasco": {
@@ -6762,6 +6895,11 @@
     [
      "(Verb) (transitive) to merge, conflate"
     ]
+   ],
+   "cf": [
+    "una",
+    "uno",
+    "unas"
    ]
   },
   "tierra": {
@@ -6805,6 +6943,9 @@
    ],
    "opts": [
     "firmes"
+   ],
+   "cf": [
+    "firmar"
    ]
   },
   "firmar": {
@@ -6819,6 +6960,9 @@
      "(Verb) to sign",
      "Él no quiso firmar el papel y por ende, no se pudo hacer nada. ― He didn't want to sign the paper and as a result, nothing could be done."
     ]
+   ],
+   "cf": [
+    "firme"
    ]
   },
   "por": {
@@ -6885,6 +7029,10 @@
    "opts": [
     "media",
     "medias"
+   ],
+   "cf": [
+    "mediar",
+    "media"
    ]
   },
   "mediar": {
@@ -6902,6 +7050,10 @@
     [
      "(Verb) to center, to give a central, medium or average value"
     ]
+   ],
+   "cf": [
+    "medio",
+    "media"
    ]
   },
   "calzada": {
@@ -6926,6 +7078,9 @@
     [
      "feminine singular of calzado"
     ]
+   ],
+   "cf": [
+    "calzar"
    ]
   },
   "calzar": {
@@ -6944,6 +7099,9 @@
      "¿Cuánto calzas? ― What's your shoe size?",
      "Yo calzo 44. ― I wear size 44."
     ]
+   ],
+   "cf": [
+    "calzada"
    ]
   },
   "estrecho": {
@@ -6994,6 +7152,9 @@
     "construida",
     "construidos",
     "construidas"
+   ],
+   "cf": [
+    "construir"
    ]
   },
   "construir": {
@@ -7012,6 +7173,9 @@
     [
      "(Verb) to construct"
     ]
+   ],
+   "cf": [
+    "construido"
    ]
   },
   "sobre": {
@@ -7076,6 +7240,10 @@
     "bajas",
     "bajos",
     "baxo"
+   ],
+   "cf": [
+    "bajar",
+    "bajo"
    ]
   },
   "bajar": {
@@ -7098,6 +7266,11 @@
      "Bajé del taxi. ― I got out of the taxi.",
      "Bajaron del árbol. ― They climbed down the tree."
     ]
+   ],
+   "cf": [
+    "baja",
+    "bajo",
+    "bajado"
    ]
   },
   "arena": {
@@ -7344,6 +7517,9 @@
     "todos",
     "todas",
     "toda"
+   ],
+   "cf": [
+    "todas"
    ]
   },
   "tiempo": {
@@ -7443,6 +7619,9 @@
      "pay attention!",
      "{interj}"
     ]
+   ],
+   "cf": [
+    "aguar"
    ]
   },
   "aguar": {
@@ -7459,6 +7638,9 @@
     [
      "(Verb) to spoil"
     ]
+   ],
+   "cf": [
+    "aguas"
    ]
   },
   "crecer": {
@@ -7522,6 +7704,9 @@
     [
      "inflection of tardar:\nfirst/third-person singular present subjunctive\nthird-person singular imperative"
     ]
+   ],
+   "cf": [
+    "tardar"
    ]
   },
   "tardar": {
@@ -7538,6 +7723,9 @@
     [
      "(Verb) to last"
     ]
+   ],
+   "cf": [
+    "tarde"
    ]
   },
   "cruzar": {
@@ -7602,7 +7790,10 @@
    "causes": [
     "dejando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "dejar"
+   ]
   },
   "dejar": {
    "word": "dejar",
@@ -7622,6 +7813,9 @@
      "Me gusta dejar la luz encendida. ― I like to keep/leave the light on.",
      "Supongo que podríamos dejar el restaurante abierto un poco más. ― I suppose we could keep the restaurant open a little bit longer."
     ]
+   ],
+   "cf": [
+    "dejando"
    ]
   },
   "solo": {
@@ -7649,6 +7843,9 @@
     "sola",
     "solos",
     "solas"
+   ],
+   "cf": [
+    "soler"
    ]
   },
   "hijita": {
@@ -7747,6 +7944,9 @@
     [
      "first-person singular present indicative of pasar"
     ]
+   ],
+   "cf": [
+    "pasar"
    ]
   },
   "pasar": {
@@ -7769,6 +7969,10 @@
      "estas cosas pasan ― these things happen",
      "Ya me ha pasado. ― It has already happened to me."
     ]
+   ],
+   "cf": [
+    "paso",
+    "pasado"
    ]
   },
   "hacia": {
@@ -7806,6 +8010,9 @@
     [
      "first-person singular present indicative of poblar"
     ]
+   ],
+   "cf": [
+    "poblar"
    ]
   },
   "poblar": {
@@ -7819,6 +8026,9 @@
     [
      "(Verb) (transitive, intranstive) to populate"
     ]
+   ],
+   "cf": [
+    "pueblo"
    ]
   },
   "vecino": {
@@ -7879,6 +8089,9 @@
     [
      "inflection of trazar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "trazar"
    ]
   },
   "trazar": {
@@ -7896,6 +8109,9 @@
      "(Verb) (transitive) to draw, to plot, to chart",
      "Debemos trazar un rumbo hacia la nave comandante. ― We should plot a course for the command ship."
     ]
+   ],
+   "cf": [
+    "traza"
    ]
   },
   "oculto": {
@@ -7948,6 +8164,12 @@
     "uno",
     "una",
     "unos"
+   ],
+   "cf": [
+    "una",
+    "uno",
+    "unos",
+    "unir"
    ]
   },
   "espiar": {
@@ -7979,6 +8201,9 @@
    ],
    "opts": [
     "suyo",
+    "su"
+   ],
+   "cf": [
     "su"
    ]
   },
@@ -8023,6 +8248,9 @@
     [
      "first-person singular present indicative of saquear"
     ]
+   ],
+   "cf": [
+    "saquear"
    ]
   },
   "saquear": {
@@ -8039,6 +8267,9 @@
     [
      "(Verb) to plunder, to pillage"
     ]
+   ],
+   "cf": [
+    "saqueo"
    ]
   },
   "naufragar": {
@@ -8064,7 +8295,10 @@
    "causes": [
     "sabiendo"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "saber"
+   ]
   },
   "saber": {
    "word": "saber",
@@ -8088,6 +8322,9 @@
     [
      "knowledge"
     ]
+   ],
+   "cf": [
+    "sabiendo"
    ]
   },
   "estrellar": {
@@ -8359,6 +8596,9 @@
     "llegada",
     "llegados",
     "llegadas"
+   ],
+   "cf": [
+    "llegar"
    ]
   },
   "llegar": {
@@ -8379,6 +8619,9 @@
     [
      "(Verb) (intransitive) to get up to, to go up to (+ a or + hasta)"
     ]
+   ],
+   "cf": [
+    "llegado"
    ]
   },
   "éste": {
@@ -8465,6 +8708,9 @@
      "first-person singular present indicative of soler: \"I usually\"",
      "Suelo venir a las cinco. ― I usually come at five o’clock."
     ]
+   ],
+   "cf": [
+    "soler"
    ]
   },
   "soler": {
@@ -8483,6 +8729,10 @@
      "(Verb) (auxiliary) to tend to",
      "Por lo general no dice nada que merezca la pena oír, así que suelo simplemente ignorarlo. ― He generally doesn't say anything worth hearing, so I usually just ignore him."
     ]
+   ],
+   "cf": [
+    "solo",
+    "suelo"
    ]
   },
   "atar": {
@@ -8590,6 +8840,10 @@
     "bajas",
     "bajos",
     "baxo"
+   ],
+   "cf": [
+    "baja",
+    "bajar"
    ]
   },
   "custodia": {
@@ -8609,6 +8863,9 @@
     [
      "inflection of custodiar:\nthird-person singular present indicative\nsecond-person singular imperative"
     ]
+   ],
+   "cf": [
+    "custodiar"
    ]
   },
   "custodiar": {
@@ -8623,6 +8880,9 @@
      "(Verb) (transitive) to guard; watch over",
      "Synonyms: velar, vigilar"
     ]
+   ],
+   "cf": [
+    "custodia"
    ]
   },
   "demás": {
@@ -8809,6 +9069,9 @@
      "There were X",
      "{phrase}"
     ]
+   ],
+   "cf": [
+    "haber"
    ]
   },
   "tempestad": {
@@ -8958,6 +9221,9 @@
     [
      "(Verb) (transitive) to hand over"
     ]
+   ],
+   "cf": [
+    "de"
    ]
   },
   "seis": {
@@ -9114,6 +9380,10 @@
    "opts": [
     "medio",
     "medias"
+   ],
+   "cf": [
+    "medio",
+    "mediar"
    ]
   },
   "borde": {
@@ -9376,6 +9646,9 @@
      "myself",
      "{pron} [personal]"
     ]
+   ],
+   "cf": [
+    "mar"
    ]
   },
   "olvidado": {
@@ -9397,6 +9670,9 @@
     "olvidada",
     "olvidadas",
     "olvidados"
+   ],
+   "cf": [
+    "olvidar"
    ]
   },
   "olvidar": {
@@ -9421,6 +9697,9 @@
      "Ya se me olvidó qué llevaba puesto. ― I already forgot what he was wearing.",
      "Se me olvida siempre llamarte. ― I always forget to call you."
     ]
+   ],
+   "cf": [
+    "olvidado"
    ]
   },
   "momento": {
@@ -9463,24 +9742,24 @@
   },
   "era": {
    "word": "era",
-   "shortDef": "era",
+   "shortDef": "era, age, past tense of ser",
    "g": 24,
    "causes": [
     "era"
    ],
    "longDef": [
     [
-     "era",
-     "{f}"
+     "era, age"
     ],
     [
-     "threshing floor",
-     "{f}"
+     "was, were (imperfect of ser)"
     ],
     [
-     "tipple",
-     "{f}"
+     "threshing floor (agriculture)"
     ]
+   ],
+   "cf": [
+    "ser"
    ]
   },
   "lámpara": {
@@ -9605,7 +9884,10 @@
    "causes": [
     "estando"
    ],
-   "longDef": null
+   "longDef": null,
+   "cf": [
+    "estar"
+   ]
   },
   "mecha": {
    "word": "mecha",
@@ -9811,6 +10093,9 @@
     "apetecida",
     "apetecidos",
     "apetecidas"
+   ],
+   "cf": [
+    "apetecer"
    ]
   },
   "apetecer": {
@@ -9827,6 +10112,9 @@
      "¿Te apetece ayudarme con esto? ― Do you feel like helping me with this?",
      "Me apetece una pizza con champiñones. ― I'm in the mood for a pizza with mushrooms."
     ]
+   ],
+   "cf": [
+    "apetecido"
    ]
   },
   "aunque": {
@@ -9990,6 +10278,9 @@
      "Quiero ir contigo. ― I want to come with you.",
      "Iré a tu casa. ― I'll come to your house."
     ]
+   ],
+   "cf": [
+    "en"
    ]
   },
   "sentarse": {
@@ -10039,6 +10330,9 @@
     "afligida",
     "afligidos",
     "afligidas"
+   ],
+   "cf": [
+    "afligir"
    ]
   },
   "afligir": {
@@ -10054,6 +10348,9 @@
      "¿Qué te aflije, pues, Señor?.... diviértete, alegra, y disipa tus males.... ― What afflicts you then, sir? Be happy, and dispel your ills.\n1875, Wilkie Collins, translated by Cristina Graell, 1997, La ley y la dama‎[2]:",
      "¡Maldita sea, coja el bastón! No le aflija. Azóteme en la espalda. ¡Golpéeme! ― Damn it, take the stick! Don't let it afflict you. Whip me in the back. Hit me!"
     ]
+   ],
+   "cf": [
+    "afligido"
    ]
   },
   "cuando": {
@@ -10087,6 +10384,9 @@
     [
      "first-person singular present indicative of librar"
     ]
+   ],
+   "cf": [
+    "librar"
    ]
   },
   "librar": {
@@ -10104,6 +10404,9 @@
     [
      "(Verb) to free, to exempt"
     ]
+   ],
+   "cf": [
+    "libro"
    ]
   },
   "acostumbrar": {
@@ -10312,6 +10615,9 @@
     "encendida",
     "encendidas",
     "encendidos"
+   ],
+   "cf": [
+    "encender"
    ]
   },
   "libertad": {
@@ -10332,6 +10638,9 @@
     [
      "second-person plural imperative of libertar"
     ]
+   ],
+   "cf": [
+    "libertar"
    ]
   },
   "libertar": {
@@ -10345,6 +10654,9 @@
     [
      "(Verb) to liberate, set free"
     ]
+   ],
+   "cf": [
+    "libertad"
    ]
   },
   "huir": {
@@ -10383,6 +10695,9 @@
     "aquella",
     "aquellos",
     "aquellas"
+   ],
+   "cf": [
+    "aquella"
    ]
   },
   "sitio": {
@@ -10468,6 +10783,9 @@
     "bajada",
     "bajados",
     "bajadas"
+   ],
+   "cf": [
+    "bajar"
    ]
   },
   "donde": {
@@ -10605,6 +10923,9 @@
     "pasada",
     "pasados",
     "pasadas"
+   ],
+   "cf": [
+    "pasar"
    ]
   },
   "horrendo": {
@@ -11790,5 +12111,109 @@
     "pasar"
    ]
   }
- }
+ },
+ "fakeDefs": [
+  [
+   "panza",
+   "belly, stomach, paunch"
+  ],
+  [
+   "nepotismo",
+   "nepotism"
+  ],
+  [
+   "Unión Africana",
+   "African Union"
+  ],
+  [
+   "salida de auxilio",
+   "emergency exit"
+  ],
+  [
+   "pobreza",
+   "poverty"
+  ],
+  [
+   "ingenio",
+   "genius"
+  ],
+  [
+   "legua",
+   "league (distance)"
+  ],
+  [
+   "directorio",
+   "directive"
+  ],
+  [
+   "fueraborda",
+   "outboard motor"
+  ],
+  [
+   "cuestionar",
+   "to question"
+  ],
+  [
+   "moquete",
+   "A punch to the nose"
+  ],
+  [
+   "hipnosis",
+   "hypnosis"
+  ],
+  [
+   "confidencialmente",
+   "confidentially"
+  ],
+  [
+   "jornal",
+   "A day's pay"
+  ],
+  [
+   "glorificar",
+   "to adore"
+  ]
+ ],
+ "fakeInfDefs": [
+  [
+   "rondar",
+   "to patrol, prowl"
+  ],
+  [
+   "divulgar",
+   "to divulge, make known"
+  ],
+  [
+   "ondular",
+   "to undulate, wind"
+  ],
+  [
+   "vacar",
+   "to become vacant"
+  ],
+  [
+   "desvestir",
+   "to undress"
+  ],
+  [
+   "pausar",
+   "to pause"
+  ],
+  [
+   "cuestionar",
+   "to debate, discuss"
+  ],
+  [
+   "picar",
+   "to prick, puncture, pierce"
+  ],
+  [
+   "considerar",
+   "to consider"
+  ],
+  [
+   "acachetear",
+   "to slap in theface"
+  ]
+ ]
 }
