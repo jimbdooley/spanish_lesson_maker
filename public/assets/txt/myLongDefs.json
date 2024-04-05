@@ -13,6 +13,20 @@
       "Entra por la puerta principal. - Enter through the main door."
     ]
   ],
+  "la": [
+    [
+        "the (feminine)"
+    ],
+    [
+        "her, it, you (formal)"
+    ],
+    [
+        "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
+        "La sabe toda.  ― He/she knows everything (it all)",
+        "¡Dónde la viste!  ― Where have you seen this!",
+        "No te la creo.  ― I don't believe you."
+    ]
+  ],
   "ve": [
     [
       "go, (command form of ir)",
@@ -99,29 +113,12 @@
     ]
   ],
   "cómo": [
-      [
-        "how?"
-      ],
-      [
-        "sorry? what? (expressing surprise or asking to repeat)"
-      ]
+    [
+      "how?"
     ],
-  "la": [
-      [
-          "the"
-      ],
-      [
-          "accusative of ella, ello (when the antecedent's implied gender is feminine), and usted (when referring to a woman); her, it, you (formal)"
-      ],
-      [
-          "impersonal neuter pronoun (accusative) in certain colloquial phrases: it, this",
-          "La sabe toda.  ― He/she knows everything (it all)",
-          "¡Dónde la viste!  ― Where have you seen this!",
-          "No te la creo.  ― I don't believe you."
-      ],
-      [
-          "(music) la (sixth note of the scale)"
-      ]
+    [
+      "sorry? what? (expressing surprise or asking to repeat)"
+    ]
   ],
   "unos": [
       [
