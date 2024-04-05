@@ -14,6 +14,7 @@ document.getElementById("swapButton").addEventListener("click", function() {
 const HS = {
     lesson: null,
     withOpts: null,
+    defConflicts: null,
 }
 
 function downloadJSON(filename) {
@@ -36,9 +37,14 @@ document.getElementById("submitButton").addEventListener("click", function() {
     HS.lesson = API_makeLesson(ta.value);
 
     HS.withOpts = {}
+    HS.defConflicts = {}
     for (const key in HS.lesson.defInfo) {
-        if (!HS.lesson.defInfo[key].hasOwnProperty("opts")) continue
-        HS.withOpts[key] = HS.lesson.defInfo[key]
+        if (HS.lesson.defInfo[key].hasOwnProperty("opts")) {
+            HS.withOpts[key] = HS.lesson.defInfo[key]
+        }
+        if (HS.lesson.defInfo[key].hasOwnProperty("cf")) {
+            HS.defConflicts[key] = HS.lesson.defInfo[key]
+        }
     }
 })
 

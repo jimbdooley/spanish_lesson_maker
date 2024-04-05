@@ -8,6 +8,7 @@ function makeLesson(textStr, title) {
         title: title,
         genders: {},
         conjs: {},
+        fakeDefs: [],
     }
 
     const sentences_paragraphs = paragraphSplit(textStr)
@@ -27,6 +28,7 @@ function makeLesson(textStr, title) {
     getAllGenders(lesson)
     addQuiz4Conj(lesson)
     optionalForms(lesson)
+    getFakeDefs(lesson)
     return lesson
 }
 
