@@ -4,8 +4,6 @@
  "sentenceInfoList": [
   {
    "sentence": "ERA el rey de Toledo el moro Almen\u00f3n, con quien el rey de Castilla don Fernando el Grande manten\u00eda cordial amistad.",
-   "translation": "IT WAS the king of Toledo, the Moor Almen\u00f3n, with whom the king of Castile, Don Fernando the Great, maintained a cordial friendship.",
-   "pGroup": 0,
    "wordInfoList": [
     {
      "word": "era",
@@ -154,12 +152,11 @@
       114
      ]
     }
-   ]
+   ],
+   "pGroup": 0
   },
   {
    "sentence": "Este rey moro ten\u00eda una hija muy hermosa y compasiva, llamada Casilda.",
-   "translation": "This Moorish king had a very beautiful and compassionate daughter, named Casilda.",
-   "pGroup": 1,
    "wordInfoList": [
     {
      "word": "este",
@@ -245,12 +242,11 @@
       69
      ]
     }
-   ]
+   ],
+   "pGroup": 1
   },
   {
    "sentence": "Una esclava castellana cont\u00f3 \u00e1 la hija del rey moro que los nazarenos amaban \u00e1 su Dios, y \u00e1 su rey, y \u00e1 sus padres, y \u00e1 sus hermanos, y \u00e1 sus esposas.",
-   "translation": "A Castilian slave told the daughter of the Moorish king that the Nazarenes loved their God, and their king, and their parents, and their brothers, and their wives.",
-   "pGroup": 2,
    "wordInfoList": [
     {
      "word": "una",
@@ -483,12 +479,11 @@
       149
      ]
     }
-   ]
+   ],
+   "pGroup": 2
   },
   {
    "sentence": "Tambi\u00e9n cont\u00f3 la esclava \u00e1 la hija del rey moro, que los nazarenos nunca quedan hu\u00e9rfanos de madre, porque cuando pierden \u00e1 la que los concibi\u00f3, les queda otra, llamada Mar\u00eda, que es una madre inmortal.",
-   "translation": "The slave also told the daughter of the Moorish king that the Nazarenes are never motherless, because when they lose the one who conceived them, they are left with another, called Mary, who is an immortal mother.",
-   "pGroup": 3,
    "wordInfoList": [
     {
      "word": "tambi\u00e9n",
@@ -742,12 +737,11 @@
       201
      ]
     }
-   ]
+   ],
+   "pGroup": 3
   },
   {
    "sentence": "Pasaron a\u00f1os, pasaron a\u00f1os, y Casilda fu\u00e9 creciendo en cuerpo y en hermosura y en virtud.",
-   "translation": "Years passed, years passed, and Casilda grew in body and in beauty and in virtue.",
-   "pGroup": 4,
    "wordInfoList": [
     {
      "word": "pasaron",
@@ -861,12 +855,11 @@
       88
      ]
     }
-   ]
+   ],
+   "pGroup": 4
   },
   {
    "sentence": "Se le muri\u00f3 su madre, y envidi\u00f3 la dicha de los hu\u00e9rfanos nazarenos.",
-   "translation": "His mother died, and he envied the happiness of the Nazarene orphans.",
-   "pGroup": 4,
    "wordInfoList": [
     {
      "word": "se",
@@ -959,12 +952,11 @@
       67
      ]
     }
-   ]
+   ],
+   "pGroup": 4
   },
   {
    "sentence": "En los confines del jard\u00edn que rodeaba el palacio del rey moro, hab\u00eda unas l\u00f3bregas mazmorras, donde gem\u00edan, hambrientos y cargados de cadenas, muchos cautivos cristianos.",
-   "translation": "In the confines of the garden that surrounded the palace of the Moorish king, there were some gloomy dungeons, where many Christian captives groaned, hungry and burdened with chains.",
-   "pGroup": 5,
    "wordInfoList": [
     {
      "word": "en",
@@ -1148,12 +1140,11 @@
       170
      ]
     }
-   ]
+   ],
+   "pGroup": 5
   },
   {
    "sentence": "Sucedi\u00f3 que un d\u00eda fu\u00e9 Casilda \u00e1 pasear por los jardines de su padre, y oy\u00f3 gemir \u00e1 los pobres cautivos.",
-   "translation": "It happened that one day Casilda went for a walk through her father's gardens, and heard the poor captives moaning.",
-   "pGroup": 6,
    "wordInfoList": [
     {
      "word": "sucedi\u00f3",
@@ -1302,12 +1293,11 @@
       103
      ]
     }
-   ]
+   ],
+   "pGroup": 6
   },
   {
    "sentence": "La princesa mora torn\u00f3 al palacio, lleno su coraz\u00f3n de tristeza.",
-   "translation": "The Moorish princess returned to the palace, her heart filled with sadness.",
-   "pGroup": 6,
    "wordInfoList": [
     {
      "word": "la",
@@ -1386,7 +1376,8 @@
       63
      ]
     }
-   ]
+   ],
+   "pGroup": 6
   }
  ],
  "defInfo": {
@@ -1414,7 +1405,7 @@
   },
   "ser": {
    "word": "ser",
-   "shortDef": "to be (essential/permanent quality)",
+   "shortDef": "to be (permanent)",
    "g": 0,
    "causes": [
     "era",
@@ -1581,15 +1572,6 @@
      "La persona a quien yo amo \u2015 The person whom I love"
     ]
    ]
-  },
-  "castillo": {
-   "word": "castillo",
-   "shortDef": "a habitational surname",
-   "g": 0,
-   "causes": [
-    "castilla"
-   ],
-   "longDef": null
   },
   "don": {
    "word": "don",
@@ -1895,7 +1877,7 @@
   },
   "esclava": {
    "word": "esclava",
-   "shortDef": "bangle",
+   "shortDef": "slave, bracelet",
    "g": 2,
    "causes": [
     "esclava"
@@ -2453,23 +2435,6 @@
     "otro",
     "otros",
     "otras"
-   ]
-  },
-  "mar\u00eda": {
-   "word": "mar\u00eda",
-   "shortDef": "magpie (bird)",
-   "g": 3,
-   "causes": [
-    "mar\u00eda"
-   ],
-   "longDef": [
-    [
-     "(Noun) magpie (bird)",
-     "Synonyms: urraca, marica"
-    ],
-    [
-     "(Noun) (historical) Former coin of Spain in the 17th century, equivalent to 12 reales de vell\u00f3n"
-    ]
    ]
   },
   "inmortal": {
@@ -3461,7 +3426,12 @@
  "title": "ERA el rey de Toledo el moro Almen\u00f3n, con quien el rey de Castilla don Fernando el Grande manten\u00eda cordial amistad.",
  "genders": {
   "ser": {
-   "q": "me",
+   "q": [
+    [
+     "me",
+     "entity, being"
+    ]
+   ],
    "g": 0
   },
   "rey": {
@@ -3472,10 +3442,6 @@
    "q": "me",
    "g": 0
   },
-  "castillo": {
-   "q": "me",
-   "g": 0
-  },
   "don": {
    "q": "me",
    "g": 0
@@ -3483,6 +3449,19 @@
   "amistad": {
    "q": "fl",
    "g": 0
+  },
+  "esclava": {
+   "q": [
+    [
+     "fl",
+     "slave"
+    ],
+    [
+     "fl",
+     "bracelet"
+    ]
+   ],
+   "g": 2
   },
   "castellano": {
    "q": "me",
@@ -3756,106 +3735,126 @@
  },
  "fakeDefs": [
   [
-   "inteligencia",
-   "intelligence"
+   "platicar",
+   "to chat"
   ],
   [
-   "astro",
-   "cosmic body, celestial body"
+   "axocopaque",
+   "teaberry"
   ],
   [
-   "l\u00edvido",
-   "livid, ashen, leaden gray"
+   "n\u00e1utica",
+   "sailing"
   ],
   [
-   "remachar",
-   "to smash"
+   "poroso",
+   "porous"
   ],
   [
-   "gamuza",
-   "chamois (goat-antelope)"
+   "bordear",
+   "to border"
   ],
   [
-   "cinta de aislar",
-   "electrical tape"
+   "follamigo",
+   "fuckbuddy"
   ],
   [
-   "Uds",
-   "you (formal, plural)"
+   "cucharilla",
+   "teaspoon"
   ],
   [
-   "-sca",
-   "feminine form of -sco"
+   "indisputablemente",
+   "indisputably"
   ],
   [
-   "contrafuerte",
-   "buttress"
+   "maleducado",
+   "bad mannered, rude"
   ],
   [
-   "necrofilia",
-   "necrophilia"
+   "apat\u00eda",
+   "apathy"
   ],
   [
-   "obstinado",
-   "stubborn"
+   "contradecir",
+   "to contradict"
   ],
   [
-   "gram\u00e1tico",
-   "grammatical"
+   "despotismo",
+   "despotism"
   ],
   [
-   "rinoceronte de Java",
-   "Javan rhinoceros"
+   "ca\u00f1o",
+   "drain"
   ],
   [
-   "telepat\u00eda",
-   "telepathy"
+   "abstruso",
+   "abstruse"
   ],
   [
-   "sensibilizar",
-   "to sensitize"
+   "p\u00fastula",
+   "pustule"
+  ],
+  [
+   "l\u00f3bulo occipital",
+   "occipital lobe"
+  ],
+  [
+   "hacia",
+   "toward, towards"
+  ],
+  [
+   "al\u00e9rgico",
+   "allergic"
+  ],
+  [
+   "asombrado",
+   "astonished"
+  ],
+  [
+   "incumplir",
+   "to disobey (rules)"
   ]
  ],
  "fakeInfDefs": [
   [
-   "captar",
-   "to capture, win trust"
+   "sobrar",
+   "to have, be left over"
   ],
   [
-   "prosperar",
-   "to prosper"
+   "preciar",
+   "to appraise, value"
   ],
   [
-   "traficar",
-   "to deal, trade, traffic"
+   "desvelar",
+   "to keep awake"
   ],
   [
-   "rentar",
-   "to yield, produce, rent"
+   "secarse",
+   "to dryoneself"
   ],
   [
-   "rabiar",
-   "to rage"
+   "vomitar",
+   "to vomit"
   ],
   [
-   "navegar",
-   "to navigate, to sail"
+   "fermentar",
+   "to ferment"
   ],
   [
-   "mutilar",
-   "to mutilate"
+   "fumar",
+   "to smoke"
   ],
   [
-   "inhalar",
-   "to inhale"
+   "versificar",
+   "to versify, write verses"
   ],
   [
-   "traspasar",
-   "to pierce"
+   "portarse",
+   "to behave"
   ],
   [
-   "contraponer",
-   "to compare, contrast"
+   "departir",
+   "to converse"
   ]
  ]
 }

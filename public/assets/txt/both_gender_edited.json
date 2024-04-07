@@ -190,9 +190,16 @@
 	"pipa": [
 		["fl", "seed, pipe"]
 	],
+	"ser": [
+		["me", "entity, being"]
+	],
 	"recepcionista": "bb",
 	"pantera": [
 		["fl", "panther, risk-taker"]
+	],
+	"esclava": [
+		["fl", "slave"],
+		["fl", "bracelet"]
 	],
 	"denunciante": "bb",
     "guardia": [
