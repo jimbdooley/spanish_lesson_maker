@@ -162,8 +162,12 @@ function prepareAssets() {
     prepareMaybeNotVerbs(assets["txt/maybeNotVerbs.txt"])
     prepareConjugations(assets["txt/verb_conjs.txt"])
 
-    for (const word in A.autoGender) A.genderInfo[word] = A.autoGender[word]
-    for (const word in A.myGender) A.genderInfo[word] = A.myGender[word]
+    for (const word in A.autoGender) {
+        A.genderInfo[word] = A.autoGender[word]
+    }
+    for (const word in A.myGender) {
+        A.genderInfo[word] = A.myGender[word]
+    }
 
     init_nonBreakingPrefixes(assets["txt/esSplitterInfo.txt"])
 
