@@ -11832,12 +11832,12 @@ _
 amueblar
 amueblando
 amueblado
-amueblo,amueblo
-amueblas,amueblas
-amuebla,amuebla
+amueblo
+amueblas
+amuebla
 amueblamos
 amuebláis
-amueblan,amueblan
+amueblan
 amueblé
 amueblaste
 amuebló
@@ -11862,12 +11862,12 @@ amueblaría
 amueblaríamos
 amueblaríais
 amueblarían
-amueble,amueble
-amuebles,amuebles
-amueble,amueble
+amueble
+amuebles
+amueble
 amueblemos
 amuebléis
-amueblen,amueblen
+amueblen
 amueblara
 amueblaras
 amueblara
@@ -11887,17 +11887,17 @@ amuebláremos
 amueblareis
 amueblaren
 -
-amuebla,amuebla
-amueble,amueble
+amuebla
+amueble
 amueblemos
 amueblad
-amueblen,amueblen
+amueblen
 -
-no amuebles,amuebles
-no amueble,amueble
+no amuebles
+no amueble
 no amueblemos
 no amuebléis
-no amueblen,amueblen
+no amueblen
 _
 analizar
 analizando
