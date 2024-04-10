@@ -61,6 +61,7 @@ function getChangedWordDef(lesson, word, group, cause) {
         if (-1 != A.subwordsToIgnore.indexOf(toCheck[i])) continue
         const added = verbCheckOnly(lesson, toCheck[i], cause)
         if (added) {
+            addConjQuiz(lesson, group, toCheck[i])
             for (let j = 0; j < apps[i].length; j++) {
                 newFormAdder(lesson, word, apps[i][j])
             }

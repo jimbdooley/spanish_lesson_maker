@@ -1,5 +1,5 @@
 
-function customAdd(lesson, word, group) {
+const customAdd = (() => {
     function _customAddWord(lesson, cause, group, toDefine) {
         if (lesson.defInfo.hasOwnProperty(toDefine)) {
             lesson.defInfo[toDefine].g = Math.min(
@@ -29,19 +29,24 @@ function customAdd(lesson, word, group) {
         }
         return true
     }
-
-    if (word == "dimelo" || word == "dímelo") 
-        return _customAddWords(lesson, word, group, ["decir", "me", "lo"])
-    if (word == "diselo" || word == "díselo") 
-        return _customAddWords(lesson, word, group, ["decir", "se", "lo"])
-    if (word == "dime" || word == "díme") 
-        return _customAddWords(lesson, word, group, ["decir", "me"])
-    if (word == "son")
-        return _customAddWords(lesson, word, group, ["ser"])
-    if (word == "lista" || word == "listas")
-        return _customAddWords(lesson, word, group, ["lista", "listo"])
-    if (word == "les") 
-        return _customAddWords(lesson, word, group, ["le"])
-
-    return false
-}
+    const customAddDict = {
+        dimelo: ["decir", "me", "lo"],
+        dímelo: ["decir", "me", "lo"],
+        diselo: ["decir", "se", "lo"],
+        díselo: ["decir", "se", "lo"],
+        dime: ["decir", "me"],
+        díme: ["decir", "me"],
+        son: ["ser"],
+        lista: ["lista", "listo"],
+        listas: ["lista", "listo"],
+        les: ["le"],
+        amos: ["amo"],
+    }
+    return function(lesson, word, group) {
+        if (customAddDict.hasOwnProperty(word)) {
+            _customAddWords(lesson, word, group, customAddDict[word])
+            return true
+        }
+        return false
+    }
+})();
