@@ -18,6 +18,8 @@
   "aqu\u00e9llas": "those",
   "aquellas": "those",
   "amos": "",
+  "e": "and (when the next word starts with 'i' or 'hi')",
+  "u": "or (when the next word starts with 'o' or 'ho')",
   "amo": "master, owner",
   "algunas": "some",
   "alguna": "some (feminine singular)",
