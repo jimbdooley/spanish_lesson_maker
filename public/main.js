@@ -18,5 +18,5 @@ function API_makeLesson(textStr, title) {
     if (lesson.title == null || lesson.title.length == 0) {
         lesson.title = "Unnamed Lesson"
     }
-    return lesson
+    return JSON.stringify(lesson)
 }
