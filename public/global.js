@@ -152,7 +152,7 @@ function prepareCommonParticiplesDict(fileStr) {
 }
 
 function prepareAssets() {
-    const start = performance.now()
+    const start = Date.now()
 
     prepareCommonParticiplesDict(assets["txt/common_participle_defs.json"])
     prepareSubwordsToIgnore(assets["txt/subwordsToIgnore.txt"])
@@ -175,5 +175,5 @@ function prepareAssets() {
     A.manuelDictKeys = Object.keys(A.manuelDict)
     A.master5DictKeys = Object.keys(A.master5Dict)
 
-    console.log("assets prepped: " + (performance.now() - start))
+    console.log("assets prepped: " + (Date.now() - start))
 }
