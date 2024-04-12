@@ -187,9 +187,14 @@
 		["me", "command, authority"]
 	],
 	"terapeuta": "bb",
+	"vig\u00eda": [
+		["bb", "lookout (occupation)"],
+		["fl", "lookout (location)"]
+	],
 	"pipa": [
 		["fl", "seed, pipe"]
 	],
+	"navegante": "bb",
 	"ser": [
 		["me", "entity, being"]
 	],
@@ -209,6 +214,9 @@
     "radio": [
 		["fl", "medium (e.g. \"on the radio\""],
 		["me", "device, radius"]
+	],
+	"poder":[
+		["me", "power, authority"]
 	],
 	"pela": [
 		["fl", "peeling, beating"]

@@ -181,3 +181,4 @@ cargo x
 cosas x
 cosa x
 peso x
+pueblo x
