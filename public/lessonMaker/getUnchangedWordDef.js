@@ -23,21 +23,11 @@ function getUnchangedWordDef(defInfoObj) {
         defInfoObj.shortDef = shortDef
     }
 
-    if (A.wiki.hasOwnProperty(defInfoObj.word)
-        && 0 < Object.keys(A.wiki[defInfoObj.word]).length) {
-        let wikiObjIsValid = true
-        for (const key in A.wiki[defInfoObj.word]) {
-            wikiObjIsValid &= typeof A.wiki[defInfoObj.word][key] == "object"
-            if (!wikiObjIsValid) break
-            wikiObjIsValid &= A.wiki[defInfoObj.word][key].length > 0
-            for (let i = 0; i < A.wiki[defInfoObj.word][key].length; i++) {
-                wikiObjIsValid &= A.wiki[defInfoObj.word][key][i].length > 0
-                for (let j = 0; j < A.wiki[defInfoObj.word][key][i].length; j++) {
-                    wikiObjIsValid &= typeof A.wiki[defInfoObj.word][key][i][j] == "string"
-                }
-            }
-        }
-        if (wikiObjIsValid) {
+    if (A.wiki.hasOwnProperty(defInfoObj.word)) {
+        if (A.wiki[defInfoObj.word].length > 0 
+            && A.wiki[defInfoObj.word][0].length > 0
+            && typeof A.wiki[defInfoObj.word][0][0] == "string"
+            && A.wiki[defInfoObj.word][0][0].length > 0) {
             getWikiDef(defInfoObj)
         }
     }

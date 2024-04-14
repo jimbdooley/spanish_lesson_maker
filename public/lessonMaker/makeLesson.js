@@ -26,7 +26,7 @@ function makeLesson(textStr, title) {
     lesson.lenAveSent = lesson.lenTotal / lesson.sentenceInfoList.length
 
     getAllDefs(lesson)
-    getAllGenders(lesson)
+    //getAllGenders(lesson)
     addQuiz4Conj(lesson)
     optionalForms(lesson)
     getFakeDefs(lesson)
