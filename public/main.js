@@ -5,6 +5,7 @@ const S = {
     eMsg: "nuthin yut",
 }
 
+prepareConjugations(assets["txt/verb_conjs.txt"])
 function API_makeLesson(textStr, title) {
     S.status = "right now just " + 1
     if (!S.prepared) {

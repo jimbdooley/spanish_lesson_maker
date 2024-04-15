@@ -160,7 +160,6 @@ function prepareAssets() {
     prepareTypeFrequency()
 
     prepareMaybeNotVerbs(assets["txt/maybeNotVerbs.txt"])
-    prepareConjugations(assets["txt/verb_conjs.txt"])
 
     for (const word in A.autoGender) {
         A.genderInfo[word] = A.autoGender[word]
