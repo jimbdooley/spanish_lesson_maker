@@ -21,6 +21,43 @@ const A = {
     master5DictKeys: null,
     commonParticiplesArr: null,
     commonParticiplesDict: {},
+
+    conflictingDefs: {}
+}
+
+function prepareConflictingDefs(_fileStr) {
+    let fileStr = null
+    if (_fileStr.indexOf("\r") != -1) {
+        const fileStrArr = []
+        for (let i = 0; i < _fileStr.length; i++) {
+            if (_fileStr[i] == "\r") continue
+            fileStrArr.push(_fileStr[i])
+        }
+        fileStr = fileStrArr.join("")
+    } else {
+        fileStr = _fileStr
+    }
+
+    const lines = fileStr.split("\n")
+    for (let i = 0; i < lines.length; i++) {
+        const arr = lines[i].split(" ")
+        if (arr.length < 2) continue
+        for (const el of arr) {
+            if (el == "") continue
+            if (!A.conflictingDefs.hasOwnProperty(el)) {
+                A.conflictingDefs[el] = []
+            }
+            for (const el2 of arr) {
+                if (el2 == "") continue
+                if (el == el2) continue
+                if (-1 == A.conflictingDefs[el].indexOf(el2)) {
+                    A.conflictingDefs[el].push(el2)
+                }
+            
+            }
+        }
+    }
+
 }
 
 function prepareIrregularPastParticiples() {
@@ -167,6 +204,8 @@ function prepareAssets() {
     for (const word in A.myGender) {
         A.genderInfo[word] = A.myGender[word]
     }
+
+    prepareConflictingDefs(assets["txt/myConflictingDefs.txt"])
 
     init_nonBreakingPrefixes(assets["txt/esSplitterInfo.txt"])
 

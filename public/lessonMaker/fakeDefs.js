@@ -13,6 +13,16 @@ function wordsConflict(lesson, word1, word2) {
             return true
         }
     }
+    if (A.conflictingDefs.hasOwnProperty(word1)) {
+        if (-1 != A.conflictingDefs[word1].indexOf(word2)) {
+            return true
+        }
+    }
+    if (A.conflictingDefs.hasOwnProperty(word2)) {
+        if (-1 != A.conflictingDefs[word2].indexOf(word1)) {
+            return true
+        }
+    }
     const toDeconjA = [word1]
     const toDeconjB = [word2]
     for (let h = 0; h < 2; h++) {
