@@ -42,6 +42,13 @@ const customAdd = (() => {
         les: ["le"],
         amos: ["amo"],
         aguas: ["agua", "aguar", "aguas"],
+        pocos: ["poco"],
+        pocas: ["poco"],
+        poca: ["poco"],
+        algunos: ["alguno"],
+        algunas: ["alguno"],
+        alguna: ["alguno"],
+        algún: ["alguno"],
     }
     return function(lesson, word, group) {
         if (customAddDict.hasOwnProperty(word)) {
