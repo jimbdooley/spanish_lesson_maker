@@ -49,6 +49,7 @@ const customAdd = (() => {
         algunas: ["alguno"],
         alguna: ["alguno"],
         algún: ["alguno"],
+        previa: ["previo"]
     }
     return function(lesson, word, group) {
         if (customAddDict.hasOwnProperty(word)) {
