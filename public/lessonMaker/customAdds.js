@@ -52,6 +52,7 @@ const customAdd = (() => {
         previa: ["previo"],
         van: ["ir"],
         fina: ["fino", "finar"],
+        buena: ["bueno"],
     }
     return function(lesson, word, group) {
         if (customAddDict.hasOwnProperty(word)) {
