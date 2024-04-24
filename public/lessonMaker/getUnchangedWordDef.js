@@ -13,15 +13,6 @@ function getUnchangedWordDef(defInfoObj) {
         const shortDef = A.commonParticiplesDict[defInfoObj.word]
         defInfoObj.shortDef = shortDef
     } 
-    
-    if (defInfoObj.shortDef == null
-        && A.master5Dict.hasOwnProperty(defInfoObj.word)
-        && A.master5Dict[defInfoObj.word].hasOwnProperty("definitions")
-        && A.master5Dict[defInfoObj.word].definitions.length > 0
-        && typeof A.master5Dict[defInfoObj.word].definitions[0] == "string") {
-        const shortDef = A.master5Dict[defInfoObj.word].definitions[0]
-        defInfoObj.shortDef = shortDef
-    }
 
     if (A.wiki.hasOwnProperty(defInfoObj.word)) {
         if (A.wiki[defInfoObj.word].length > 0 
@@ -30,6 +21,15 @@ function getUnchangedWordDef(defInfoObj) {
             && A.wiki[defInfoObj.word][0][0].length > 0) {
             getWikiDef(defInfoObj)
         }
+    }
+    
+    if (defInfoObj.shortDef == null
+        && A.master5Dict.hasOwnProperty(defInfoObj.word)
+        && A.master5Dict[defInfoObj.word].hasOwnProperty("definitions")
+        && A.master5Dict[defInfoObj.word].definitions.length > 0
+        && typeof A.master5Dict[defInfoObj.word].definitions[0] == "string") {
+        const shortDef = A.master5Dict[defInfoObj.word].definitions[0]
+        defInfoObj.shortDef = shortDef
     }
 
     if (defInfoObj.shortDef == null && A.manuelDict.hasOwnProperty(defInfoObj.word)) {
