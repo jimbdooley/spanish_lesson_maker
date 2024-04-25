@@ -26,3 +26,5 @@ sondeo encuesta
 alzar aumentar erguir levantar levantarse subir subirse elevar elevarse
 bajar descender descenderse
 enterar informar reportar notificar
+tarifa arancel cuota precio impuesto tasa
+cifra número
