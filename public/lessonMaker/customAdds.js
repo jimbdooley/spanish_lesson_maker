@@ -53,6 +53,7 @@ const customAdd = (() => {
         van: ["ir"],
         fina: ["fino", "finar"],
         buena: ["bueno"],
+        ambas: ["ambos"],
     }
     return function(lesson, word, group) {
         if (customAddDict.hasOwnProperty(word)) {
