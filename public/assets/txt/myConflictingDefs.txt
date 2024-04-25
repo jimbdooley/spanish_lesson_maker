@@ -21,4 +21,8 @@ terreno tierra
 dirigente líder
 estatal estado
 escuela colegio universidad facultad
-
+posición lugar postura sitio
+sondeo encuesta
+alzar aumentar erguir levantar levantarse subir subirse elevar elevarse
+bajar descender descenderse
+enterar informar reportar notificar
