@@ -28,3 +28,4 @@ bajar descender descenderse
 enterar informar reportar notificar
 tarifa arancel cuota precio impuesto tasa
 cifra número
+bus buseta camión microbús microbus micro
