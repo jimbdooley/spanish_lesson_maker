@@ -1,8 +1,17 @@
 
 const nonBreakingPrefixes = []
 function init_nonBreakingPrefixes(fileStr) {
-    while (fileStr.indexOf("\r\n") !== -1) {
-        fileStr = fileStr.replace("\r\n", "\n")
+    const  fileStrArr  = []
+    for (let i = 0; i < fileStr.length; i++) {
+        if (fileStr[i] === "\r") { continue }
+        fileStrArr.push(fileStr[i])
+    }
+    fileStr = fileStrArr.join("")´
+    const wordSplits = ["-\n", "\u2013\n"]
+    for (const wordSplit of wordSplits) {
+        while (-1 != fileStr.indexOf(wordSplit)) {
+            fileStr = fileStr.replace(wordSplit, "")       
+        }
     }
     const lines = fileStr.split("\n")
     for (const _line of lines) {
