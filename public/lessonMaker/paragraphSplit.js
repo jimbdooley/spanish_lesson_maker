@@ -6,13 +6,7 @@ function init_nonBreakingPrefixes(fileStr) {
         if (fileStr[i] === "\r") { continue }
         fileStrArr.push(fileStr[i])
     }
-    fileStr = fileStrArr.join("")´
-    const wordSplits = ["-\n", "\u2013\n"]
-    for (const wordSplit of wordSplits) {
-        while (-1 != fileStr.indexOf(wordSplit)) {
-            fileStr = fileStr.replace(wordSplit, "")       
-        }
-    }
+    fileStr = fileStrArr.join("")
     const lines = fileStr.split("\n")
     for (const _line of lines) {
         const lineArr = []
@@ -38,7 +32,20 @@ function detectDoubleNewlinePSplit(textStr) {
 
 const paragraphSplit = (() => {
     const charsForAbbreviationCheck = UPPER + LOWER + "."
-    return function(textStr) {
+    return function(_textStr) {
+        const  textStrArr  = []
+        for (let i = 0; i < _textStr.length; i++) {
+            if (_textStr[i] === "\r") { continue }
+            textStrArr.push(_textStr[i])
+        }
+        let textStr = textStrArr.join("")
+        const wordSplits = ["-\n", "\u2013\n"]
+        for (const wordSplit of wordSplits) {
+            while (-1 != textStr.indexOf(wordSplit)) {
+                textStr = textStr.replace(wordSplit, "")       
+            }
+        }
+
         const rtn = []
         const pGroups = []
     
