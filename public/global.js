@@ -195,6 +195,9 @@ function prepareAssets() {
     prepareSubwordsToIgnore(assets["txt/subwordsToIgnore.txt"])
     
     prepareTypeFrequency()
+    for (const key in A.freqObj) {
+        A.freqObj[key] = parseInt(A.freqObj[key])
+    }
 
     prepareMaybeNotVerbs(assets["txt/maybeNotVerbs.txt"])
 

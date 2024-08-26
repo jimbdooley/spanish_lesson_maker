@@ -3,6 +3,7 @@ import json
 
 def makeAssets(info):
     inlineJSONS = {
+        "freqObj.json": "freqObj",
         "adj_multiple.json": "optsAdj",
         "determiner_multiple.json": "optsDeterminer",
         "es_to_en_wiki2.json": "wiki",
@@ -17,11 +18,9 @@ def makeAssets(info):
     commStr = "const assets = {}\n"
     assetsLoc = os.getcwd() + "/public/assets/"
     for folder in os.listdir(assetsLoc):
-        if folder[0] == ".":
-            continue
+        if folder[0] == ".": continue
         for file in os.listdir(assetsLoc + folder):
-            if file[0] == ".":
-                continue
+            if file[0] == ".": continue
             with open(assetsLoc + folder + "/" + file, "r", encoding="utf8") as f:
                 if file in inlineJSONS:
                     fReadpt = f.read()
